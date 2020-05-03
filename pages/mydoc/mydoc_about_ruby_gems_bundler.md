@@ -252,3 +252,7 @@ You can always delete the Gemlock file and run Bundle install again to get the l
 To learn more about Bundler, see [Bundler's Purpose and Rationale](http://bundler.io/rationale.html).
 
 {% include links.html %}
+
+[^1] in the body of the text,
+
+[^1]: This is my glorious and most important footnote

@@ -15,6 +15,7 @@
 <link rel="stylesheet" href="css/boxshadowproperties.css">
 <!-- most color styles are extracted out to here -->
 <link rel="stylesheet" href="css/theme-blue.css">
+<link rel="stylesheet" href="css/bigfoot-default.css">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
@@ -28,6 +29,16 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script>
 <script src="{{ "js/toc.js" }}"></script>
 <script src="{{ "js/customscripts.js" }}"></script>
+
+<script type="text/javascript" src="js/bigfoot.min.js"></script>
+<script type="text/javascript">
+	var bigfoot = $.bigfoot(
+		{
+		actionOriginalFN: "ignore",
+		positionContent: "true"
+		}
+	);
+</script>
 
 <link rel="shortcut icon" href="{{ "images/favicon.ico"  }}">
 
