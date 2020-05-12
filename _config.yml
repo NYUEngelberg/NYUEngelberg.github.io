@@ -3,10 +3,10 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Engleberg Center on Innovation Law & Policy
+topnav_title: GLAM 3D
 # this appears on the top navigation bar next to the home button
 
-site_title: 3D Scanning for GLAMs
+site_title: GLAM 3D
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Engleberg Center on Innovation Law & Policy
@@ -18,7 +18,7 @@ github_editme_path:
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-google_analytics: UA-66296557-1
+google_analytics:
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
 host: 127.0.0.1
@@ -33,15 +33,15 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: GLAM 3D Feedback
 
-feedback_email: tomjoht@gmail.com
+feedback_email: engelberg.center@nyu.edu
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
-# feedback_text: "Need help?"
+feedback_text: "Feedback/suggestions"
 # if you uncomment the previous line, it changes the Feedback text
 
 # feedback_link: "http://helpy.io/"
@@ -106,7 +106,7 @@ sidebars:
 - product1_sidebar
 - product2_sidebar
 #
-description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+description: "This resource is designed to help you implement an Open Access program for the 3D digitization of cultural resources. It provides you with the tools to identify technical and legal characteristics of cultural resources that will lend themselves to digitization. The paper describes the steps required to actually create these resources, helping you approach the digital content creation process with confidence."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only

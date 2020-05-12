@@ -3,10 +3,11 @@
 topnav:
 - title: Topnav
   items:
-    - title: Engelberg Center
-      external_url: https://www.law.nyu.edu/centers/engelberg
-    - title: About
+    - title: About GLAM 3D
       url: /about
+    - title: About the Engelberg Center
+      external_url: https://www.law.nyu.edu/centers/engelberg
+
 
 #Topnav dropdowns
 #topnav_dropdowns:
