@@ -1,0 +1,12 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: 3D Scanning
+  ## version: 1.0
+  folders:
+
+  - title: GLAMS
+    url: /glam3D.html
+    output: web, pdf

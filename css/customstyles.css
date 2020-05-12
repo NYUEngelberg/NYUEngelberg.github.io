@@ -35,10 +35,10 @@ body {
     color: #428bca;
 }
 .bs-callout-success {
-    border-left-color: #5cb85c;
+    border-left-color: #663399;
 }
 .bs-callout-success h4 {
-    color: #5cb85c;
+    color: #663399;
 }
 .bs-callout-danger {
     border-left-color: #d9534f;
@@ -80,7 +80,8 @@ h5[id],
 h6[id],
 dt[id]{
 padding-top: 60px;
-margin-top: -40px
+margin-top: -40px;
+color: #663399
 }
 
 .post-content img {
@@ -291,7 +292,7 @@ li.dropdownActive a {
 }
 
 .post-content .rssfeedLink {
-    color: #248EC2;
+    color: #ff6699;
 }
 
 footer {
@@ -363,7 +364,7 @@ a.accordion-toggle, a.accordion-collapsed {
 }
 
 .nav > li.active > a  {
-background-color: #347DBE;
+background-color: #9933FF;
 }
 
 .nav li a {
@@ -388,7 +389,7 @@ ul#mysidebar {
 }
 
 .nav li.thirdlevel > a {
-    color: #248EC2;
+    color: #9933ff;
     font-weight:bold;
     padding-left:20px;
     background-color: whitesmoke !important;
@@ -668,7 +669,7 @@ span.otherProgrammingLanguages {
 }
 
 a[data-toggle="tooltip"] {
-    color: #649345;
+    color: #663399;
     font-style: italic;
     cursor: default;
 }
@@ -710,7 +711,7 @@ ol.series li {
 
 /* not sure if using this ...*/
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-    border-color: #248ec2 !important;
+    border-color: #663399 !important;
 }
 
 #mysidebar .nav ul {
@@ -1011,7 +1012,7 @@ span.label.label-primary {
     }
 
 a code {
-    color: #248EC2;
+    color: #ff6699;
 }
 
 code + a > code {
