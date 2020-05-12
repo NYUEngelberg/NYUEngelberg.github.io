@@ -3,10 +3,10 @@
 
 entries:
 - title: Sidebar
-  product: 3D Scanning
+  product:
   ## version: 1.0
   folders:
 
-  - title: GLAMS
+  - title: GLAM 3D 
     url: /glam3D.html
     output: web, pdf

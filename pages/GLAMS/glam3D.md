@@ -1,11 +1,13 @@
 ---
 title: glam3D
-##keywords:
-##summary: "c'mon GLAMs"
+keywords:
+summary:
 sidebar: glam3D_sidebar
 permalink: glam3D.html
 toc: false
+#page.comments: false
 folder: GLAMS
+
 ---
 
 
