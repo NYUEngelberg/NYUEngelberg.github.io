@@ -2,94 +2,48 @@
 
 entries:
 - title: Sidebar
-  product: GLAM 3D Open Access
+  levels: one
   folders:
 
-  - title: Welcome
+  - title: GLAM 3D Open Access
     output: web, pdf
     folderitems:
-
       - title: Welcome to GLAM 3D
         url: /GLAM3D_landing_page.html
         output: web, pdf
 
-  - title: Introduction
-    output: web, pdf
-    folderitems:
+      - title: 1.  Introduction
+        url: /introduction.html
+        output: web, pdf
 
-        - title: 1.  Introduction
-          url: /introduction.html
-          output: web, pdf
+      - title: 2.  What Is Open Access?
+        output: web, pdf
+        url: /two.html
 
-  - title: What Is Open Access?
-    output: web, pdf
-    folderitems:
+      - title: 3.  What is a 3D Model?
+        url: /three.html
+        output: web, pdf
 
-        - title: 2.  What Is Open Access?
-          url: /two.html
-          output: web, pdf
+      - title: 4.  Set Goals
+        url: /four.html
+        output: web, pdf
 
-  - title: What is a 3D Model?
-    output: web, pdf
-    folderitems:
+      - title: 5.  Identify
+        output: web, pdf
+        url: /five.html
 
-        - title: 3.  What is a 3D Model?
-          url: /three.html
-          output: web, pdf
+      - title: 6.  Digitize
+        url: /six.html
+        output: web, pdf
 
-  - title: Set Goals
-    output: web, pdf
-    folderitems:
+      - title: 7.  Disseminate
+        url: /seven.html
+        output: web, pdf
 
-        - title: 4.  Set Goals
-          url: /four.html
-          output: web, pdf
+      - title: 8.  Evaluate and Join
+        url: /eight.html
+        output: web, pdf
 
-  - title: Identify
-    output: web, pdf
-    folderitems:
-
-        - title: 5.  Identify
-          url: /five.html
-          output: web, pdf
-
-  - title: Digitize
-    url: /six.html
-    output: web, pdf
-    folderitems:
-
-        - title: 6.  Digitize
-          url: /six.html
-          output: web, pdf
-
-  - title: Disseminate
-    url: /seven.html
-    output: web, pdf
-    folderitems:
-
-        - title: 7.  Disseminate
-          url: /seven.html
-          output: web, pdf
-
-  - title: Evaluate and Join
-    url: /eight.html
-    output: web, pdf
-    folderitems:
-
-        - title: 8.  Evaluate and Join
-          url: /eight.html
-          output: web, pdf
-
-  - title: Appendix
-    url: /appendix.html
-    output: web, pdf
-    folderitems:
-
-        - title: Appendix
-          url: /appendix.html
-          output: web, pdf
-          folderitems:
-
-              - title: i. Leading Examples of 3D Models and Open Access
-                url: /appendix.html#leading_examples_of_3d_models_and_open_access
-                output: web, pdf
+      - title: Appendix
+        url: /appendix.html
+        output: web, pdf
