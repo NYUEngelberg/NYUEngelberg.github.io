@@ -254,3 +254,15 @@ Institutions should strive to present legal and legal-adjacent information in as
 Many cultural objects have other considerations or cultural restrictions that are important to communicate to users. While these considerations and restrictions may not be legally binding, many users will benefit from being aware of them. Cultural sources may also be more supportive of digitization and dissemination efforts when they are accompanied by this type of information.
 
 Local Contexts’ [Traditional Knowledge labels](http://localcontexts.org/tk-labels/) help to facilitate the communication of these types of non-legal use considerations. The labels give cultures that created the works a way to clearly communicate important context to users. They also give users a straightforward way to identify these restrictions and incorporate them into their application.
+
+## Notes
+
+[^58]:
+
+     The IIIF 3D Community Group maintains a more extended comparison table of these and other online 3D viewers. _IIIF 3D Viewer Functionality Matrix_, IIIF Google Document, [https://docs.google.com/spreadsheets/d/1mZFF1kgEfjqN1MC_Ds0LQyxPvzUUXSHJLksn-uTvtdQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1mZFF1kgEfjqN1MC_Ds0LQyxPvzUUXSHJLksn-uTvtdQ/edit?usp=sharing), last accessed April 16, 2020.
+
+[^59]:
+     The Creative Commons Public Domain Mark may be appropriate if your institution has positively identified a work to be in the public domain. _See Public Domain Mark 1.0_, Creative Commons, [https://creativecommons.org/publicdomain/mark/1.0/](https://creativecommons.org/publicdomain/mark/1.0/), last accessed April 16, 2020.
+
+[^60]:
+     Rightsstatements.org provides 12 standardized rights statements, each with a unique URI and accompanying text, to help with this process.

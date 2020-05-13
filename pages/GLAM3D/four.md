@@ -108,3 +108,31 @@ Dissemination
 Identify desired partnerships as part of the goal-setting process based on aspects of your project where you feel you need assistance or support. Partnerships can be valuable at all stages of a project: planning, digitization, post-production, and dissemination.
 
 Partnerships can take many forms, such as collaboration with local universities and volunteers,[^41] online communities,[^42] or commercial companies.[^43]
+
+<!-- Footnotes themselves at the bottom. -->
+## Notes
+
+
+[^36]:
+     These audiences may be new communities or existing communities that have historically been underserved. For example, 3D models can help create tactile objects (real and virtual) to help reach blind and low-vision members of the public who might not otherwise have a rich or meaningful experience in a predominantly visual environment.
+
+[^37]:
+     These investigations can serve a wide range of purposes, even within the context of a single object. One research team used a scan of Jackson Pollock’s Alchemy to assist with diagnosis, conservation, and interpretation, as well as with the creation of an interactive kiosk that allowed viewers to explore the geometry of the work and a 1:1 physical model to help the public interact with the work. _See_ Marco Callieri et al., _Alchemy in 3D: A Digitization for a Journey Through Matter_, Digital Heritage (2015), [http://vcg.isti.cnr.it/Publications/2015/CPPDPLS15/DH2015%20(Post)%20-%20Alchemy%20in%203D%20A%20Digitization%20for%20a%20Journey%20Through%20Matter.pdf](http://vcg.isti.cnr.it/Publications/2015/CPPDPLS15/DH2015%20(Post)%20-%20Alchemy%20in%203D%20A%20Digitization%20for%20a%20Journey%20Through%20Matter.pdf)
+
+[^38]:
+     _See e.g._, British Museum Schools, Twitter (October 11, 2016), [https://twitter.com/BM_Schools/status/785832150276988930](https://twitter.com/BM_Schools/status/785832150276988930)
+
+[^39]:
+     _See e.g._, _Virtual Tour of Great Shrine of Amaravati_, British Museum (March 11, 2018), [https://business.facebook.com/soluisgroup/posts/2346489868709732?__tn__=-R](https://business.facebook.com/soluisgroup/posts/2346489868709732?__tn__=-R)
+
+[^40]:
+     Daniel Pett and Andrew Shore, _A New Dimension in Home Shopping_, British Museum Blog (July 31, 2017), [https://blog.britishmuseum.org/a-new-dimension-in-home-shopping](https://blog.britishmuseum.org/a-new-dimension-in-home-shopping/)
+
+[^41]:
+     Derby Silk Mill, _Co-Producing A 3D Imaging Programme at Derby Museums_, Sketchfab (December 12, 2017), [https://sketchfab.com/blogs/community/co-producing-3d-imaging-programme-derby-museums/](https://sketchfab.com/blogs/community/co-producing-3d-imaging-programme-derby-museums/)
+
+[^42]:
+     Bart Veldhuizen, _MicroPasts: Crowdsourcing Cultural Heritage Research_, Sketchfab (February 11, 2015), [https://sketchfab.com/blogs/community/micropasts-crowdsourcing-cultural-heritage-research/](https://sketchfab.com/blogs/community/micropasts-crowdsourcing-cultural-heritage-research/)
+
+[^43]:
+     LAPID, _Using 3D to Recover Heritage Lost in a Fire_, Sketchfab (January 24, 2020),  [https://sketchfab.com/blogs/community/lapid-using-3d-to-recover-heritage-lost-in-a-fire/](https://sketchfab.com/blogs/community/lapid-using-3d-to-recover-heritage-lost-in-a-fire/); _see also_ _How Cultural Institutions Use Sketchfab_, Sketchfab, [https://sketchfab.com/museums](https://sketchfab.com/museums), last accessed April 16, 2020 (providing links to success stories from museums and cultural partners).

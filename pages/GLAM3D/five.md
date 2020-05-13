@@ -529,3 +529,38 @@ Although copyright is often the first legal consideration for Open Access digiti
 In doing so, it is important to avoid the temptation of the “easy no.” When digitizing large numbers of physical items, it can be easy to imagine edge scenarios where some specific use of the digitized version of the item could violate a law or right (e.g., “what if someone took a digitized version of this crown, created a replica, and tried to pass themselves off as a monarch?”). When faced with this possibility, it can be tempting to broadly exclude categories of works from a digitization program. Avoid this trap by fully articulating the nature of the concern. Also, explore if the concern is specific to 3D models. In many cases the same concern could, at least in theory, be applied to 2D images as well. If your institution is comfortable making 2D images of an object available to the public, in most cases it should also be comfortable making 3D versions available as well.
 
 Finally, in many cases, including a disclaimer that indicates that the files are being released to be used “for any lawful purpose” can address some of these concerns from the perspective of the institution. These types of disclaimers are discussed in Section 7.7.1.1.
+
+<!-- Footnotes themselves at the bottom. -->
+## Notes
+
+
+[^44]:
+     Professor Sonia Katyal explores the relationship between some legal and non-legal factors in her article, _Technoheritage_. _See generally _Sonia K. Katyal, _Technoheritage_, 105 Calif. L. Rev. 1111 (2017).
+
+[^45]:
+     There are a host of other cultural considerations to be aware of in many digitization projects. _See, e.g._, Mathilde Pavis and Andrea Wallace, _Response to the 2018 Sarr-Savoy Report: Statement on Intellectual Property Rights and Open Access Relevant to the Digitization and Restitution of African Cultural Heritage and Associated Materials_, JIPITEC (March 25, 2019),
+     [https://www.jipitec.eu/issues/jipitec-10-2-2019/4910](https://www.jipitec.eu/issues/jipitec-10-2-2019/4910)
+
+[^46]:
+     Although copyright law is the most significant legal constraint on digitization and re-use of works, it is not the only possible constraint. Specific countries may have additional restrictions such as moral rights and cultural property rules that may govern use. Work with your legal partners to identify and resolve any additional legal barriers specific to your collection before moving forward.
+
+[^47]:
+     This rule is not universal. For example, in Mexico the term of protection is 100 years after the death of the author.
+
+[^48]:
+     The Wikimedia Commons maintains a list of copyright rules by country. _Copyright Rules by Territory_, Wikimedia Commons, [https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory](https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory), last updated April 12, 2020. Europeana provides a calculator for some works in some EU countries.  _Button-Based Public Domain Calculator_, Europeana Connect, [https://archive.outofcopyright.eu/calculator.html](https://archive.outofcopyright.eu/calculator.html) (last accessed April 16, 2020) There are also many idiosyncrasies around specific works and countries._ See, e.g._, Katarzyna Strycharz, _Public Domain: Why it is not that simple in Europe_, Medium (January 26, 2016), [https://medium.com/copyright-untangled/public-domain-why-it-is-not-that-simple-in-europe-1a049ce81499](https://medium.com/copyright-untangled/public-domain-why-it-is-not-that-simple-in-europe-1a049ce81499) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2145862
+
+[^49]:
+     _See generally_ Meshwerks, Inc. v. Toyota Motor Sales U.S.A., Inc., 528 F.3d 1258 (10th Cir. 2008), and Bridgeman Art Library, Ltd. v. Corel Corp., 36 F. Supp. 2d 191 (S.D.N.Y. 1999). For a more detailed analysis, see Michael Weinberg, _3D Scanning: A World Without Copyright_, Shapeways (May 2016), [https://www.shapeways.com/blog/wp-content/uploads/2016/05/white-paper-3d-scanning-world-without-copyright.pdf](https://www.shapeways.com/blog/wp-content/uploads/2016/05/white-paper-3d-scanning-world-without-copyright.pdf); _see also_ Paul Banwatt and Laura Robinson, _Dispatches from the Front Lines of 3D Copyright_, 28 Intell. Prop. J. 237 (2016).
+
+[^50]:
+     _See_ Thomas Margoni, _The Digitization of Cultural Heritage: Originality, Derivative Works and (non) Original Photographs_, Institute for Information Law (December 3, 2014), [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2573104](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2573104)
+
+[^51]:
+     For a discussion of Article 14 and its possible ramifications, see Alexandra Giannopoulou, _The New Copyright Directive: Article 14 or When the Public Domain Enters the New Copyright Directive_, Kluwer Copyright Blog (June 27, 2019),[ http://copyrightblog.kluweriplaw.com/2019/06/27/the-new-copyright-directive-article-14-or-when-the-public-domain-enters-the-new-copyright-directive](http://copyrightblog.kluweriplaw.com/2019/06/27/the-new-copyright-directive-article-14-or-when-the-public-domain-enters-the-new-copyright-directive/)
+
+[^52]:
+     _See e.g._, Feist Pub’lns, Inc. v. Rural Tel. Serv. Co., 499 U.S. 340, 350–51 (1991) (“Facts, whether alone or as part of a compilation, are not original and therefore may not be copyrighted. A factual compilation is eligible for copyright if it features an original selection and arrangement of facts, but the copyright is limited to the particular selection and arrangement. In no event may copyright extend to the facts themselves.”) Some jurisdictions, including the EU, do offer protections for information compiled into databases. _See, e.g._, _Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the Legal Protection of Databases_, Official Journal of the European Communities (March 11, 1996),  [https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0009:EN:HTML](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0009:EN:HTML)
+
+[^53]:
+     _See e.g._, Krista L. Cox, _Metadata and Copyright: Should Institutions License Their Data About Scholarship?_ 1, 2, n.1 (2017), [https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1060&context=scholcom](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1060&context=scholcom) (noting that while “short factual pieces of data [in metadata] are not copyrightable because they are short phrases and pure facts….longer descriptions may well indeed rise to the level of creative expression and could be protected by copyright, unlike short factual pieces of information”).

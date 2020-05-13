@@ -190,6 +190,32 @@ If it is technically possible and practical to both embed metadata and paradata 
 
 For further guidance regarding what kinds of metadata and paradata to collect and how to do so, explore the work of Cultural Heritage Imaging and their [Digital Lab Notebook](http://culturalheritageimaging.org/Technologies/Digital_Lab_Notebook/), the [Europeana 3D Task Force Report](https://pro.europeana.eu/files/Europeana_Professional/Europeana_Network/Europeana_Network_Task_Forces/Final_reports/3D-TF-final%20report.pdf), and the [Smithsonian 3D Metadata Model](https://dpo.si.edu/blog/smithsonian-3d-metadata-model).
 
+<!-- Footnotes themselves at the bottom. -->
+## Notes
+
+[^28]:
+     _See e.g._, Alban Denoyel, _3D is the Backbone of Any Immersive Strategy_, Sketchfab Customer Stories (March 26, 2019), [https://sketchfab.com/blogs/enterprise/news/3d-strategy/3d-immersive-technology](https://sketchfab.com/blogs/enterprise/news/3d-strategy/3d-immersive-technology)
+
+[^29]:
+     _See_ Thomas Flynn, _Collections: 2D to 3D_, Sketchfab,  [https://sketchfab.com/nebulousflynn/collections/2d-to-3d](https://sketchfab.com/nebulousflynn/collections/2d-to-3d), last accessed April 16, 2020.
+
+[^30]:
+     Museum of British Colonialism, _Emergency: An Exhibition on the Mau Mau Conflict and British Colonial Rule in 1950s Kenya_, 1, 13,  [https://static1.squarespace.com/static/591175bf1b10e32648746640/t/5e273aa7de776a57d97e2588/1579629236853/Emergency+Exhibition+Guide-compressed.pdf](https://static1.squarespace.com/static/591175bf1b10e32648746640/t/5e273aa7de776a57d97e2588/1579629236853/Emergency+Exhibition+Guide-compressed.pdf)
+
+[^31]:
+     Franscisco Garrido, _Chilean Heritage in 3D: A New Life for the Collections of the MNHN_, Sketchfab (November 21, 2018), [https://sketchfab.com/blogs/community/chilean-heritage-in-3d-a-new-life-for-the-collections-of-the-mnhn/](https://sketchfab.com/blogs/community/chilean-heritage-in-3d-a-new-life-for-the-collections-of-the-mnhn/)
+
+[^32]:
+     Marta Pilarska, _Scanning the Horizon: 3D Collections of the Scottish Maritime Museum_, Sketchfab (February 5, 2020), [https://sketchfab.com/blogs/community/scanning-the-horizon-3d-collections-of-the-scottish-maritime-museum/](https://sketchfab.com/blogs/community/scanning-the-horizon-3d-collections-of-the-scottish-maritime-museum/)
+
+[^33]:
+     Annette Thoma, _Konzerthaus Berlin: Cultural Participation Through Digitisation_, Sketchfab (September 20, 2018), [https://sketchfab.com/blogs/community/konzerthaus-berlin-cultural-participation-through-digitisation/](https://sketchfab.com/blogs/community/konzerthaus-berlin-cultural-participation-through-digitisation/)
+
+[^34]:
+     _See, e.g._, _Cultural Heritage_, Sketchfab, [https://sketchfab.com/blogs/community/category/community-story/cultural-heritage/](https://sketchfab.com/blogs/community/category/community-story/cultural-heritage/), last accessed April 16, 2020.
+
+[^35]:
+     _See_ _3D und Virtual Reality_, IANUS (November 22, 2016), [https://www.ianus-fdz.de/it-empfehlungen/3d](https://www.ianus-fdz.de/it-empfehlungen/3d); _see also_ Anas Alaoui M’Darhri et al., _Share - Publish - Store - Preserve. Methodologies, Tools and Challenges for 3D Use in Social Sciences and Humanities_, PARTHENOS (February 2019), [https://hal.archives-ouvertes.fr/hal-02155055/document](https://hal.archives-ouvertes.fr/hal-02155055/document); _see also_ _Guides to Good Practice_, Archeology Data Service, [https://guides.archaeologydataservice.ac.uk/g2gp/3d_3-2](https://guides.archaeologydataservice.ac.uk/g2gp/3d_3-2), last accessed April 16, 2020.
 
 
 <!-- Docs to Markdown version 1.0β22 -->

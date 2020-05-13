@@ -172,3 +172,20 @@ Three example data packages follow:
 
 *   Highly optimized derivative 3D data—e.g., GLTF, USDZ, low-resolution texture maps (1024x1024 pixels)
 *   Basic metadata
+
+<!-- Footnotes themselves at the bottom. -->
+## Notes
+
+[^54]:
+     _See e.g._, Thomas Flynn, _Over 100,000 Cultural Heritage 3D Models on Sketchfab_, Sketchfab (October 2, 2019), [https://sketchfab.com/blogs/community/over-100000-cultural-heritage-3d-models-on-sketchfab/](https://sketchfab.com/blogs/community/over-100000-cultural-heritage-3d-models-on-sketchfab/)
+
+[^55]:
+     _Cultural Heritage User Survey 2019_, Sketchfab (August 2019), [https://docs.google.com/presentation/d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/edit#slide=id.g5e4c799188_0_573](https://docs.google.com/presentation/d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/edit#slide=id.g5e4c799188_0_573) (demonstrating that a majority of institutions surveyed use no formal quality assurance methods or standards for their 3D production work).
+
+[^56]:
+
+     _What is a DOI and How Do I Use them in Citations?_, University of Illinois Library, [https://library.uic.edu/help/article/1966/what-is-a-doi-and-how-do-i-use-them-in-citations](https://library.uic.edu/help/article/1966/what-is-a-doi-and-how-do-i-use-them-in-citations), last accessed April 16, 2020.
+
+[^57]:
+     _See CS3DP Community Standards for 3D Data Preservation_ [https://osf.io/ewt2h/wiki/home, last accessed April 16, 2020](https://osf.io/ewt2h/wiki/home); _see also_
+    _IIIF 3D Community Group_, IIIF, [https://iiif.io/community/groups/3d, last accessed April 16, 2020](https://iiif.io/community/groups/3d); _see also_ _3D Content in Europeana_, Europeana 3D Task Force (January 28, 2019), [https://pro.europeana.eu/project/3d-content-in-europeana](https://pro.europeana.eu/project/3d-content-in-europeana)
