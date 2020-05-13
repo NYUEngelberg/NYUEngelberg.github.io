@@ -1,33 +1,12 @@
 ---
-title: glams
-##keywords:
-##summary: "c'mon GLAMs"
-sidebar: glams_sidebar
-permalink: glams.html
-folder: GLAMS
+title: 1.  Introduction
+tags: [How_to_scan]
+summary: some words for a summary
+sidebar: glam3D_sidebar
+permalink: GLAM3D.html
+toc: false
+
 ---
-
-<!----- Conversion time: 77.486 seconds.
-
-
-Using this Markdown file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β22
-* Fri Apr 24 2020 04:36:27 GMT-0700 (PDT)
-* Source doc: Lock Text Conversion Test Version
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server.
------>
-
-
-# [1.  Introduction](#1_introduction)
 
 _Today is a big day for Amina, age 11. She has already analyzed the cracks in 5th-century sculptures of the Buddha to learn about climate change in central Asia. She has also compared 3D printed dinosaur and bird pelvises to track evolution. Once she even became an ancient Greek sculptor by digitally remixing kouroi to create her very own. Her favorite video game—set in a series of Renaissance cathedrals—is built around puzzles made up of column capitals, gargoyles, and church portals._
 
@@ -37,7 +16,7 @@ Amina’s story is the result of two powerful trends shaping the Galleries, Libr
 
 
 
-## [1.1 What This Paper Will Help You Achieve](#1.1_what_this_paper_will_help_you_achieve)
+### [1.1 What This Paper Will Help You Achieve](#what_this_paper_will_help_you_achieve)
 
 This resource is designed to help you implement an Open Access program for the 3D digitization of cultural resources (e.g., human- and natural-made objects; events; and environments). In most cases, it assumes “you” are working at a GLAM institution and are interested in implementing a 3D Open Access program there. It provides you with the tools to identify technical and legal characteristics of cultural resources that will lend themselves to digitization. The paper describes the steps required to actually create these resources, helping you approach the digital content creation process with confidence. Finally, this paper will explain how you can launch a successful Open Access program, allowing the public to engage with digitized versions of the works in your collection at a broad scale.
 
@@ -47,7 +26,7 @@ Starting your digital content creation process with Open Access approaches and m
 
 
 
-## [1.2   How This Paper Is Structured](#1.2_how_this_paper_is_structured)
+### [1.2   How This Paper Is Structured](#how_this_paper_is_structured)
 
 This paper is designed to be both an introduction and reference to your digital 3D content creation process. An initial reading will give you a grounding in how to begin to approach your Open Access program. As you start to implement the program, this paper can serve as a reference to return to in order to understand specific points that suddenly become relevant.
 
@@ -60,44 +39,44 @@ At that point, the paper begins to focus on the process itself. These sections w
 The technology and practices related to Open Access 3D digital content creation and its release under Open Access principles are rapidly evolving. We hope to regularly update this paper and website in order to give you confidence that the information you are receiving is as relevant and timely as possible.
 
 
-##    [1.3. How to Approach Your Open Access Program](#1.3_how_to_approach_your_open_access_program)
+##    [1.3. How to Approach Your Open Access Program](#how_to_approach_your_open_access_program)
 
 Your Open Access program involves a number of steps. Each of the steps summarized below is explored more fully in its corresponding section.[^2]
 
 
 
-###        [1.3.1. Set Goals](#1.3.1_set_goals)
+###        [1.3.1. Set Goals](#set_goals)
 
 Identify the key objectives, routes to, and measure of success for your 3D digital content creation and publishing project. This includes identifying potential users and those users’ needs. Creating and distributing 3D digital content involves a number of choices and tradeoffs. Having concrete goals will help you evaluate your options and make decisions to match your intended outcomes. When setting goals, be sure to keep in mind the distinction between project outputs (e.g., “X number of 3D models published online”) and outcomes (e.g., “Increased engagement with our organization’s online collection records”).
 
 
 
-###        [1.3.2. Identify](#1.3.2_identify)
+###        [1.3.2. Identify](#identify)
 
 Select cultural resources for digital content creation that align with your project goals and assess their suitability for digital 3D creation methods based on technical, legal, and ethical grounds.
 
 
 
-###        [1.3.3. Digitize](#1.3.3_digitize)
+###        [1.3.3. Digitize](#digitize)
 
 Create digital content of the cultural resource in 3D through born digital or digitization methods, record metadata, paradata, structured data, and document the process openly.[^3]
 
 
 
-###        [1.3.4. Disseminate](#1.3.4_disseminate)
+###        [1.3.4. Disseminate](#disseminate)
 
 Deliver the output 3D files to your identified audience in the best way possible. This includes making the files viewable to users and making various versions of the files available to users, as well as associated para and metadata about the object, the files, and provenance for both.  \
 
 
 
 
-###        [1.3.5. Evaluate](#1.3.5_evaluate)
+###        [1.3.5. Evaluate](#evaluate)
 
 Having established goals and implemented the Open Access program, it is time to reflect upon what worked, what did not, and what is left to do. Whenever possible, this evaluation should be shared publicly and with open licenses to the wider Open GLAM sector so that others can learn from your successes.
 
 
 
-# [2. What Is Open Access?](#2_what_is_open_access)
+# [2. What Is Open Access?](#what_is_open_access)
 
 Open Access involves releasing works under a permissive license.[^4] Open Access content and cultural resources are free of most copyright and licensing restrictions and are often available to a user without a fee. For the underlying cultural resource or its digital content to be Open Access, the copyright holder grants everyone the ability to copy, use, and build upon the work without restriction, or it is in the worldwide public domain.[^5]
 
@@ -111,31 +90,31 @@ The speed of digital content creation is fast and accelerating, and your organiz
 
 
 
-##    [2.1. What Are You Providing Access To?](#2.1_what_are_you_providing_access_to)
+##    [2.1. What Are You Providing Access To?](#what_are_you_providing_access_to)
 
 Your Open Access program provides access to various cultural resources. The nature of those resources depends on the defining characteristics, contexts, locations, and situations of your organization. Three categories of cultural resources, as conceived of and defined by the authors, are:
 
 
 
-###       [2.1.1. Events](#2.1.1_events)
+###       [2.1.1. Events](#events)
 
 An event is an activated occurrence accomplished by humans, nature, or generative artificial intelligence. While these events happen in a specific time and place, they can be documented in a wide variety of ways, from written accounts, to photographs, to conceptual frameworks (e.g., CIDOC-CRM), to 3D digital content.
 
 
 
-###       [2.1.2. Environments](#2.1.2_environments)        
+###       [2.1.2. Environments](#environments)        
 
 An environment is a place, setting, site, or structure made and affected by human, natural, or computationally generative activity.
 
 
 
-###       [2.1.3 Objects](#2.1.3_objects)        
+###       [2.1.3 Objects](#objects)        
 
 An object is an intangible, such as a dance performed at a specific time and place, or tangible, such as a manuscript, manifestation with cohesive properties that may be animate or inanimate, made by humans, generative artificial intelligence, or nature. Objects exist in many forms and types. Documents, which are records that take a form in media, are included within the context of objects for this paper.
 
 
 
-##    [2.2. Consider Notions of Heritage with Cultural Resources](#2.2_consider_notions_of_heritage_with_cultural_resources)
+##    [2.2. Consider Notions of Heritage with Cultural Resources](#consider_notions_of_heritage_with_cultural_resources)
 
 When preparing to implement digital content production and Open Access programs, it is important to consider notions of heritage with respect to cultural resources. Heritage is a concept that for some may elicit celebration or pride and reflect on a sense of tradition, while for others, heritage is linked to problematic practices such as entitled inheritance, hypernationalism, patrimony, and provincialism.
 
@@ -145,7 +124,7 @@ Discerning ethical positions on heritage and cultural resources is a consultativ
 
 
 
-##    [2.3. Open Access Drives An Organization’s Mission and Empowers Its Vision](#2.3_open_access_drives_an_organizations_mission_and_empowers_its_vision)
+##    [2.3. Open Access Drives An Organization’s Mission and Empowers Its Vision](#open_access_drives_an_organizations_mission_and_empowers_its_vision)
 
 Open Access is one of the most important priorities of any 21st-century cultural organization. Many institutions have priorities for public engagement and service as core elements of their missions. This commitment to service extends to both commercial and non-commercial entities related to an organization, including individuals, academics, and corporations, as well as nongovernmental and community organizations.
 
@@ -160,9 +139,9 @@ To put it directly and simply, Open Access is mission and vision critical for an
 
 
 
-##    [2.4. What Does Open Access Achieve For A Cultural Organization?](#2.4_what_does_open_access_achieve_for_a_cultural_organization)[^9]
+##    [2.4. What Does Open Access Achieve For A Cultural Organization?](#what_does_open_access_achieve_for_a_cultural_organization)[^9]
 
-###   [2.4.1. Increased Engagement with Cultural Resources](#2.4.1_increased_engagement_with_cultural_resources)
+###   [2.4.1. Increased Engagement with Cultural Resources](#increased_engagement_with_cultural_resources)
 
 Open Access increases engagement with cultural resources by closing the gap between discovery and re-use of resources by users, allowing users to sidestep burdensome, unnecessarily costly, and inefficient rights and permissions processes in order to engage with a cultural resource they discover. Open Access cultural resources propagate across sites and into communities, significantly increasing the likelihood that a member of the public will come into contact with them in the near term after launch, on an institution’s own hosted platform, or with the long-tail in partnership with organizations such as Creative Commons,[^10] Internet Archive, and Wikimedia.
 
@@ -170,7 +149,7 @@ For example, Wikimedia users have viewed works from The Metropolitan Museum of A
 
 
 
-###        [2.4.2. Cost Savings and Reprioritization](#2.4.2_cost_savings_and_reprioritization)
+###        [2.4.2. Cost Savings and Reprioritization](#cost_savings_and_reprioritization)
 
 A key incentive for cultural organizations to do Open Access is cost savings and reprioritization of staff time, labor, and tools. The cost of operating a rights and permissions program often exceeds associated revenue because of staff salaries, benefits, and inefficiencies in the process of administering policies and fulfilling requests.[^14] Licensing simply does not generate net revenue for most cultural resource stewards and creators, including cultural organizations.
 
@@ -180,7 +159,7 @@ Staff tasks and roles formerly dedicated to rights and permissions processes can
 
 
 
-###        [2.4.3. New Creative and Economic Opportunities](#2.4.3_new_creative_and_economic_opportunities)
+###        [2.4.3. New Creative and Economic Opportunities](#new_creative_and_economic_opportunities)
 
 Open Access can provide new creative and economic opportunities for organizations or independent content creators. Many cultural institutions also have businesses within them, such as brand, licensing, and trademark, as well as merchandising and retail. Cultural institutions operating businesses in an Open Access context need to think differently, take new approaches, and abandon highly controlling licensing agreements with limited terms.[^15] An Open Access marketplace is more competitive and free as makers have to inspire engagement and purchases through the quality of their product without the shield of restricted licensing frameworks. Innovative applications of digital content products, empowered by Open Access, can accelerate potential profits in the digital economy, especially in partnership with organizations and influencers that magnify the customer engagement with your brands.
 
@@ -196,7 +175,7 @@ Digital production tools for cultural resource makers are becoming more accessib
 
 
 
-###        [2.4.4. Potential for Greater Authenticity Through Ubiquity](#2.4.4_potential_for_greater_authenticity_through_ubiquity)
+###        [2.4.4. Potential for Greater Authenticity Through Ubiquity](#potential_for_greater_authenticity_through_ubiquity)
 
 Open Access cultural resources may have the potential for greater authenticity than closed cultural resources through the amplification of ideas and sources, along with critical interrogation.
 
@@ -208,8 +187,8 @@ Cultural resources, especially those in the worldwide public domain, are the fou
 
 
 
-# [3. What is a 3D Model?](#3_what_is_a_3D_model)
-##    [3.1. Introduction to 3D Models](#3.1_introduction_to_3d_models)
+# [3. What is a 3D Model?](#what_is_a_3D_model)
+##    [3.1. Introduction to 3D Models](#introduction_to_3d_models)
 
 In the simplest terms, a 3D model is just another kind of image: a way to show something to another person who is geographically or temporally removed from the original, physical cultural resource.
 
@@ -259,7 +238,7 @@ A more in-depth look at the anatomy of 3D files can be found in the “Anatomy o
 
 
 
-###        [3.1.1. Creating 3D Models](#3.1.1_creating_3d_models)
+###        [3.1.1. Creating 3D Models](#creating_3d_models)
 
 This section includes some general guidance regarding commonly used 3D creation techniques. A more in-depth analysis of each technique can be found in the Appendix section “Common 3D Capture and 3D Creation Techniques and Software.”
 
@@ -349,37 +328,37 @@ While this paper exists because the authors believe a considered approach to 3D 
 
 
 
-###     [3.1.2. 3D Digitization Data Output Categories](#3.1.2_3d_digitization_data_output_categories)
+###     [3.1.2. 3D Digitization Data Output Categories](#3d_digitization_data_output_categories)
 
 The production of a single 3D model can entail a large number and variety of digital files, all of which may be offered under Open Access for specific audiences. A broad overview of digital file categories follows.
 
 
 
-####            [3.1.2.1. Input Data](#3.1.2.1_input_data)
+####            [3.1.2.1. Input Data](#input_data)
 
 Input data is the raw data captured at the initial digitization stage. For example, in a photogrammetry workflow, input data comprises digital images; in a laser scanning workflow, this would be the files output from the laser scanning hardware.
 
 
 
-####            [3.1.2.2. Project Files](#3.1.2.2_project_files)
+####            [3.1.2.2. Project Files](#project_files)
 
 Most 3D production workflows entail some processing or cleaning of raw data inputs. Edited data will most likely be stored in a proprietary format designed to be opened by a single, specific piece of software.
 
 
 
-####            [3.1.2.3. Archival 3D Data](#3.1.2.3_archival_3d_data)
+####            [3.1.2.3. Archival 3D Data](#archival_3d_data)
 
 Archival 3D data are the highest quality and fidelity output files from a given digitization scenario, intended to be accessible and readable in perpetuity. This data is likely of most use to expert audiences, including internal personnel responsible for collection management. Recommended archival 3D file formats for cultural heritage projects include X3D, U3D, PLY, DAE, OBJ, and STL.[^35]
 
 
 
-####            [3.1.2.4. Derivative 3D Data](#3.1.2.4_derivative_3d_data)
+####            [3.1.2.4. Derivative 3D Data](#derivative_3d_data)
 
 Derivative 3D data are 3D models derived from the archival 3D data, most likely simplified in some way and converted to other 3D file formats to facilitate quick and easy access and re-use as part of an Open Access offering for wider audiences.
 
 
 
-####            [3.1.2.5. Metadata and Paradata](#3.1.2.5_metadata_and_paradata)
+####            [3.1.2.5. Metadata and Paradata](#metadata_and_paradata)
 
 For all of the previous types of data, it is useful to provide additional context to what the 3D data is (metadata) and how it was captured or created and processed (paradata).
 
@@ -395,13 +374,13 @@ For further guidance regarding what kinds of metadata and paradata to collect an
 
 
 
-# [4. Set Goals](#4_set_goals)
+# [4. Set Goals](#set_goals)
 
 As with most things, 3D digitization projects can benefit greatly from establishing a goal or set of goals from which can be derived a plan and strategy to achieve the desired result. End goals for a 3D digitization project can be very general (e.g., “We wish to experiment with new technology”) or very specific (e.g., “We need an accurate 3D model to facilitate production of a new gallery wall mount”). Either way, it is essential to establish agreed-upon goals that you, your colleagues, and service providers can reference during the planning, implementation, and execution of your digitization project. Furthermore, clearly defined goals make it much easier to verify the effectiveness of a project at its conclusion, paving the way for further activity, or curtailing that which is deemed ineffective.
 
 
 
-##    [4.1. Target Audiences](#4.1_target_audiences)
+##    [4.1. Target Audiences](#target_audiences)
 
 Deciding on the intended audience for your 3D content will help dictate the 3D capture or creation methods you will use, the 3D outputs you will produce, and how your 3D data will be made available. Identifying audiences (e.g., “schoolteachers”) and needs (e.g., “to illustrate and 3D print in relation to history curriculum subject ‘The Romans’”) will help you define both the cultural resources to be captured or created in 3D, as well as the most beneficial resolutions, file formats, display platforms, and dissemination methods for the resulting 3D data.
 
@@ -409,7 +388,7 @@ Identifying a primary audience establishes the need for 3D production; identifyi
 
 
 
-###       [4.1.1. Scholarly](#4.1.1_scholarly)
+###       [4.1.1. Scholarly](#scholarly)
 
 For in-depth investigations, the highest-fidelity 3D geometry and textures likely will be the most useful.[^37] It should be noted that achieving this grade of 3D data can require a greater financial investment in equipment and training, as well as staff and machine time required to compute 3D data and document workflows. At the same time, even lower-resolution files can still be useful in many scholarly contexts.
 
@@ -419,7 +398,7 @@ Some examples of 3D data made available primarily for scholarly use can be found
 
 
 
-###        [4.1.2. Education](#4.1.2_education)
+###        [4.1.2. Education](#education)
 
 Instead of forming the core of scholarly analysis, educational uses of 3D models rely on the models to facilitate the learning of a related subject. They can be used to illustrate a type of jewelry feature or allow students to explore a species of insect. This application differs from what we describe as “scholarly” uses in that the 3D models are not necessarily the focus of the educational experience or research. Instead, the 3D model is used to facilitate learning about a related subject.
 
@@ -436,7 +415,7 @@ Some examples of 3D models being used in the classroom are provided below:
 *   [3D Objects for Teachers](https://www.sciencemuseum.org.uk/objects-and-stories/3d-objects-teachers), Science Museum Group, [write-up](https://lab.sciencemuseum.org.uk/3d-object-scans-as-a-museum-learning-resource-part-1-9e1e51b67581), [context](https://lab.sciencemuseum.org.uk/science-museum-group-digital-lab-introduction-and-projects-1f7a6f26a208)
 *   [Samsung Discovery Centre @ British Museum](https://news.samsung.com/global/samsung-and-the-british-museum-offer-35000-school-pupils-the-chance-to-virtually-visit-the-museum)
 
-###        [4.1.3. Public Engagement](#4.1.3_public_engagement)
+###        [4.1.3. Public Engagement](#public_engagement)
 
 3D models increasingly make up part of a “complete” digital offering for GLAM institutions seeking to engage members of the public with cultural heritage and history. Alongside text, audio, and images, 3D offers yet another way to examine and experience historical themes and narratives.
 
@@ -455,7 +434,7 @@ Derivative 3D outputs like 3D prints and video are equally helpful for connectin
 
 
 
-###        [4.1.4. Commercial](#4.1.4_commercial)
+###        [4.1.4. Commercial](#commercial)
 
 Whether in-house at a cultural organization or at an external private company, there are many opportunities for 3D models to become part of a commercial endeavor. There is nothing about making cultural objects available on an Open Access basis that is inherently incompatible with offering physical and digital versions for sale as well.
 
@@ -465,7 +444,7 @@ Furthermore, all 3D data made available under an Open Access program remains ava
 
 
 
-##    [4.2. Portion of Collection](#4.2_portion_of_collection)
+##    [4.2. Portion of Collection](#portion_of_collection)
 
 To capture or render any given GLAM organization’s entire collection in 3D is most likely an impossible task. Producing a 3D model of each cultural resource in collections that can run into the thousands if not millions of subjects is simply impractical based on today’s technology.
 
@@ -475,7 +454,7 @@ The defined number of cultural resources you wish to digitize should be achievab
 
 
 
-##    [4.3. Budget](#4.3_budget)
+##    [4.3. Budget](#budget)
 
 Your available budget has a direct impact on the quality of 3D models that you may produce. Consider the following expenses when planning your project:
 
@@ -494,7 +473,7 @@ Dissemination
 *   Service subscriptions
 *   Promotion
 
-##    [4.4. Partners](#4.4_partners)
+##    [4.4. Partners](#partners)
 
 Identify desired partnerships as part of the goal-setting process based on aspects of your project where you feel you need assistance or support. Partnerships can be valuable at all stages of a project: planning, digitization, post-production, and dissemination.
 
@@ -502,7 +481,7 @@ Partnerships can take many forms, such as collaboration with local universities 
 
 
 
-# [5. Identify](#5_identify)
+# [5. Identify](#identify)
 
 Identifying works to digitize involves considering a number of factors. Some are relatively straightforward: Are there characteristics of the object that make it technically hard to digitize? Are there intellectual property rights that would prevent digitization? What budgetary constraints must be taken into account?
 
@@ -512,7 +491,7 @@ This section will help you find answers to some of those questions.
 
 
 
-##    [5.1. Which Works Are Good Technical Matches with 3D Scanning?](#5.1_which_works_are_good_technical_matches_with_3D_scanning)
+##    [5.1. Which Works Are Good Technical Matches with 3D Scanning?](#which_works_are_good_technical_matches_with_3D_scanning)
 
 Once a pool of cultural resources has been identified for digitization, the physical properties of those resources will largely dictate the method of digitization, or even disqualify them from digitization.
 
@@ -684,7 +663,7 @@ A summary table is provided for quick reference, with more detailed notes beneat
 
 
 
-###        [5.1.1. Insect Specimen](#5.1.1_insect_specimen)
+###        [5.1.1. Insect Specimen](#insect_specimen)
 **Significant Characteristics:**  
 Very small (less than 1 inch), highly detailed, fine and thin features, internal and external features, complex self-occluding forms.
 
@@ -725,7 +704,7 @@ Photogrammetry “focus stacking” workflow, x-ray CT.
 
 
 
-###        [5.1.2. Coin](#5.1.2_coin)
+###        [5.1.2. Coin](#coin)
 
 **Significant Characteristics:**
 Very small (less than 1 inch), highly detailed surface features, metallic, internal and external features.
@@ -761,7 +740,7 @@ Photogrammetry with polarized light + focus stacking workflow, structured light 
 
 
 
-###        [5.1.3. Mammal Bone](#5.1.3_mammal_bone)
+###        [5.1.3. Mammal Bone](#mammal_bone)
 
 **Significant Characteristics:**
 Very small (less than 1 inch) to medium size (a few feet), internal and external features, complex self-occluding forms.
@@ -799,7 +778,7 @@ Photogrammetry, structured light Scanning, x-ray CT.
 
 
 
-###        [5.1.4. Engraved Metal Platter](#5.1.4_engraved_metal_platter)
+###        [5.1.4. Engraved Metal Platter](#engraved_metal_platter)
 **Significant Characteristics:**
 
 Metallic/shiny, fine surface detail, thin.
@@ -838,7 +817,7 @@ Photogrammetry with polarized light, structured light scanning, r-ray CT.
 
 
 
-###     [5.1.5. Glass Ornament](#5.1.5_glass_ornament)
+###     [5.1.5. Glass Ornament](#glass_ornament)
 
 **Significant Characteristics:**
 
@@ -875,7 +854,7 @@ Photogrammetry with polarized light + dulling spray, structured light scanning, 
 
 
 
-###        [5.1.6. Statue](#5.1.6_statue)
+###        [5.1.6. Statue](#statue)
 
 **Significant Characteristics:**
 
@@ -913,7 +892,7 @@ Photogrammetry, structured light scanning (depending on subject size), x-ray CT 
 
 
 
-###   [5.1.7. Building Interior and Exterior](#5.1.7_building_interior_and_exterior)       
+###   [5.1.7. Building Interior and Exterior](#building_interior_and_exterior)       
 
 **Significant Characteristics:**
 
@@ -953,7 +932,7 @@ Photogrammetry, LiDAR.
 ###### Technique: Photogrammetry.
 
 
-### [5.1.8. Performance](#5.1.8_performance)
+### [5.1.8. Performance](#performance)
 
 **Significant Characteristics:**
 
@@ -981,7 +960,7 @@ Photogrammetry, structured light scanning (for the performer), motion capture (f
 
 (_target_)
 
-## [5.2. Cultural and Other Non-Legal Considerations](#5.2_cultural_and_other_non-legal_considerations)
+## [5.2. Cultural and Other Non-Legal Considerations](#cultural_and_other_non-legal_considerations)
 
 There may also be non-legal factors to consider when selecting works to digitize and make available to the public.[^44] While these factors may vary widely depending on the nature of your collection, one factor to consider is how you can effectively propagate an awareness of the cultural context that created a work in the first place.
 
@@ -991,7 +970,7 @@ One innovative approach to cultural resources originating with indigenous commun
 
 
 
-##    [5.3. Navigating Copyright and the Public Domain](#5.3_navigating_copyright_and_the_public_domain)
+##    [5.3. Navigating Copyright and the Public Domain](#navigating_copyright_and_the_public_domain)
 
 Copyright status is another factor to consider when identifying cultural resources to make available to the public.[^46] Although copyright law varies from country to country, this section is intended to provide a working overview of the main concepts to consider. This should make it easier to coordinate with the legal department of your institution or outside legal experts to identify works unencumbered by copyright restrictions. In most cases, it will be easier to start working with items that are in the public domain, which means that their use is not restricted by copyright law.
 
@@ -1003,7 +982,7 @@ Once the period of protection for a work has expired, it enters the public domai
 
 
 
-###        [5.3.1. Copyright in Digitized Objects](#5.3.1_copyright_in_digitized_objects)
+###        [5.3.1. Copyright in Digitized Objects](#copyright_in_digitized_objects)
 
 
 Digitizing an in-copyright work without permission will likely infringe on the rights of the copyright holder. In light of this, it may be wise to begin digitization with works that are already in the public domain.
@@ -1012,7 +991,7 @@ For works already in the public domain, there have been questions as to whether 
 
 
 
-###        [5.3.2. Copyright in Metadata](#5.3.2_copyright_in_metadata)
+###        [5.3.2. Copyright in Metadata](#copyright_in_metadata)
 
 In addition to the digitized cultural artifact itself, many institutions will make para- and metadata about the object available to the public. This metadata may include straightforward technical information, such as the work’s dimensions, year of creation, or physical location in the institution itself. It may also include more nuanced information, such as prose written by a curator providing context and background information.
 
@@ -1020,7 +999,7 @@ As a general matter, individual pieces of technically descriptive information—
 
 
 
-###        [5.3.3. Other Legal Rights](#5.3.3_other_legal_rights)
+###        [5.3.3. Other Legal Rights](#other_legal_rights)
 
 Although copyright is often the first legal consideration for Open Access digitization projects, the act of digitizing and releasing digital versions of objects in your collection can raise a number of other potential legal challenges. As noted earlier, objects may be encumbered by moral rights, cultural heritage laws, or other non-copyright-based restrictions on use. Your legal collaborators may be able to help you identify additional rules to be aware of when selecting works for digitization and dissemination.
 
@@ -1030,8 +1009,8 @@ Finally, in many cases, including a disclaimer that indicates that the files are
 
 
 
-# [6. Digitize](#6_digitize)
-##    [6.1. 3D Scanning](#6.1_3d_scanning)
+# [6. Digitize](#digitize)
+##    [6.1. 3D Scanning](#3d_scanning)
 
 This section will provide you with best practices for 3D digitization. It will not suggest a single workflow because there is no universal workflow for capturing cultural resources in 3D. Most resources are unique in size, shape, material, handling guidelines, accessibility, and portability. Most GLAM organizations and digitization projects are unique in their staffing, funding, goals, and audiences.
 
@@ -1041,7 +1020,7 @@ Instead of searching for a single 3D digitization solution, it is more practical
 
 
 
-###        [6.1.1. Do Your Research](#6.1.1_do_your_research)
+###        [6.1.1. Do Your Research](#do_your_research)
 Spending time to research existing workflows, case studies, and advice will save you time in the long run. Read academic papers but also visit or subscribe to specialized blogs and forums, and follow experts and amateurs alike on social media. Piece together a knowledge base that is suitable to your goals before you begin and make a note of resources you feel will be valuable to revisit later. Don’t be afraid to reach out to colleagues, manufacturers, and software developers directly for specific advice—it can save you hours of searching and maybe even some money too.
 
 Below are a few online communities you may wish to consider joining, as well as a general reading list:
@@ -1081,20 +1060,20 @@ Below are a few online communities you may wish to consider joining, as well as 
 
 
 
-###        [6.1.2. Capture the Best Result You Can And Work Transparently](#6.1.2_capture_the_best_result_you_can_and_work_transparently)
+###        [6.1.2. Capture the Best Result You Can And Work Transparently](#capture_the_best_result_you_can_and_work_transparently)
 
 No matter how well resourced and organized, your 3D digitization project will likely be limited in some way. The equipment and time available to you will largely dictate the resolution and fidelity of your 3D output. Be transparent about those limitations to your users. Publishing lower-resolution and even incomplete 3D scans is fine as long as you also make it clear to audiences what it is they are viewing and how it was made.
 
-###   [6.1.3. Document Your Process As Thoroughly As Possible](#6.1.3_document_your_process_as_thoroughly_as_possible)
+###   [6.1.3. Document Your Process As Thoroughly As Possible](#document_your_process_as_thoroughly_as_possible)
 
 Following on from the previous point, and to re-assert the importance of meta- and paradata, record the details of your digitization and post-production process as much as possible. From the moment you begin your work, make note of the equipment you are using, decisions you are making, and the circumstances of the capture environment. Continue to document decisions made during processing and post-production and aim to publish this information at the same time as the 3D models.
 
-###   [6.1.4. Plan For Mistakes And Technical Issues](#6.1.4_plan_for_mistakes_and_technical_issues)
+###   [6.1.4. Plan For Mistakes And Technical Issues](#plan_for_mistakes_and_technical_issues)
 
 Things don’t always go according to plan, but you can prepare your workflow to cope with this. Give yourself more time than you need to conduct digitization. Plan extra and backup digitization sessions. If you are new to a 3D digitization process, budget time to make tests and get familiar with your tools. Unless your work is highly specialized, you will no doubt find an answer online to any unexpected roadblocks you experience.
 
 
-### [6.1.5. Archive Input Data And Project Files As Well As Output 3D Data](#6.1.5_archive_input_data_and_project_files_as_well_as_output_3D_data)
+### [6.1.5. Archive Input Data And Project Files As Well As Output 3D Data](#archive_input_data_and_project_files_as_well_as_output_3D_data)
 
 In an ideal world, all the data that is captured and produced during digitization would be available and archived in a way that accords with best practices. While this can quickly run to terabytes of data, making input data and project files available means other people can verify and build on your work. It will also allow you to go back to make additional uses of your scanning efforts as new technology develops. Long-term data storage and security should be considered during your project planning.
 
@@ -1102,9 +1081,9 @@ Cultural sector collections management, digital asset management, and digital pr
 
 
 
-##  [6.2. Data Structures](#6.2_data_structures)
+##  [6.2. Data Structures](#data_structures)
 
-###        [6.2.1. Metadata and Paradata](#6.2.1_metadata_and_paradata)
+###        [6.2.1. Metadata and Paradata](#metadata_and_paradata)
 
 Metadata related to 3D models of cultural resources includes information about the 3D file(s) and information regarding the cultural resource itself. The paradata explains how a 3D model was generated and details decisions that were made during this process. Meta- and paradata make a given 3D model more valuable and re-usable: If audiences better know what they are viewing or downloading, they are better able to understand it and incorporate it into their own plans.
 
@@ -1132,7 +1111,7 @@ What constitutes a complete metadata set and best practice for associating it wi
 
 Among the mature 3D digitization initiatives for cultural heritage, the [Smithsonian 3D Metadata Model](https://dpo.si.edu/blog/smithsonian-3d-metadata-model) offers one of the most complete attempts at defining a metadata scheme for cultural heritage 3D, based on extensive experience digitizing resources from multiple collections.
 
-###     [6.2.2. Data Files](#6.2.2_data_files)
+###     [6.2.2. Data Files](#data_files)
 
 The input and project files that you offer under Open Access will vary depending on your capture, processing, and post-production methods. The output and derivative 3D files will also vary depending on your project goals.
 
@@ -1175,7 +1154,7 @@ Two newer open 3D interchange formats that support embedded animations, color ma
 
 Duplicating or exporting a 3D model in multiple formats will of course take more time and significantly increase data storage requirements. This effect is compounded if 3D models at multiple resolutions for each file format are required. One approach to mitigate such issues might be to produce and maintain high-resolution “master” projects and 3D models files, only creating derivatives as and when they are required, it being even better if this process can be automated.
 
-###     [6.2.3. Data Packages](#6.2.3_data_packages)
+###     [6.2.3. Data Packages](#data_packages)
 
 By deliberately choosing a combination of 3D file formats, data resolutions, and linked meta- and paradata, it is possible to build “data packages” aimed at specific audiences. As part of digitization project planning, it is likely a good exercise to define target data packages and budgeting post-production resources to their preparation. If you are not sure of the best data package for your audience, it will behoove you to reach out to that audience before beginning digitization.
 
@@ -1198,9 +1177,9 @@ Three example data packages follow:
 *   Highly optimized derivative 3D data—e.g., GLTF, USDZ, low-resolution texture maps (1024x1024 pixels)
 *   Basic metadata
 
-#   [7. Disseminate](#7_disseminate)
+#   [7. Disseminate](#disseminate)
 
-##    [7.1. Review Goal-Setting](#7.1_review_goal-setting)
+##    [7.1. Review Goal-Setting](#review_goal-setting)
 
 At this stage of a project, when the 3D models have been produced, documented, and archived locally, there is a natural break in activity, which presents an opportunity to review the goals that have been previously set for your project.
 
@@ -1208,7 +1187,7 @@ Digitization projects can take a long time to complete and new examples of disse
 
 
 
-##    [7.2. Publish as Interactive 3D for Browsing Audiences](#7.2_publish_as_interactive_3d_for_browsing_audiences)
+##    [7.2. Publish as Interactive 3D for Browsing Audiences](#publish_as_interactive_3d_for_browsing_audiences)
 
 As described in the “What is a 3D Model?” section, for an audience to truly experience a digital 3D model, it needs to be interactive. At a very basic level, this means an audience member must be able to turn or tumble a 3D model to view the model from different angles and zoom in and out to get a closer look or broader overview of the resource. While this was previously only possible via dedicated applications running on specialized hardware, thanks to modern web standards like WebGL, it is possible to offer proper 3D interactive experiences in any modern browser. That means the model is accessible to all users, even those without the technical expertise to use their own 3D modeling software.
 
@@ -1232,7 +1211,7 @@ In this manner, it is possible to create interactive 3D tours of digitized cultu
 
 
 
-###        [7.2.1. Notes on Digital Display](#7.2.1_notes_on_digital_display)
+###        [7.2.1. Notes on Digital Display](#notes_on_digital_display)
 
 The same 3D model can generally be displayed using different 3D viewing software (often referred to as a _3D viewer_). 3D viewing software is different from 3D editing software (often referred to as a _3D editor_) in that the primary purpose or functionality is to simply display 3D data on screen as opposed to editing or converting it in any significant way.
 
@@ -1240,7 +1219,7 @@ Each software reads the 3D data file(s) and displays it as pixels on the screen�
 
 
 
-<iframe name="Smithsonian Voyager" src="https%3A%2F%2F3d-api.si.edu%2Fvoyager%2F3d_package%3Ad8c6393a-4ebc-11ea-b77f-2e728ce88125" width="800" height="450" allowfullscreen="true"></iframe>
+<iframe name="Smithsonian Voyager" src="https://3d-api.si.edu/voyager/3d_package:d8c62634-4ebc-11ea-b77f-2e728ce88125" width="800" height="450" allowfullscreen="true"></iframe>
 
 ###### _Baluster vase, from a five-piece graniture_ rendered in the Smithsonian Institution's Voyager 3D viewer
 
@@ -1257,13 +1236,13 @@ Each software reads the 3D data file(s) and displays it as pixels on the screen�
 
 
 
-###        [7.2.2. Choosing an Online 3D Viewer](#7.2.2_choosing_an_online_3d_viewer)
+###        [7.2.2. Choosing an Online 3D Viewer](#choosing_an_online_3d_viewer)
 
 Deciding on which 3D viewer you use to display your 3D models online will largely depend on your project goals, your organization’s policies for using third-party platforms, and capacity for ongoing technical support and development.
 
 
 
-####            [7.2.2.1. Self-Hosted Storage and Display Solutions](#7.2.2.1_self-hosted_storage_and_display_solutions)[^58]
+####            [7.2.2.1. Self-Hosted Storage and Display Solutions](#self-hosted_storage_and_display_solutions)[^58]
 Self storage and hosting can offer greater control over how our 3D models are presented (e.g., custom interfaces) and how people interact with and access them (e.g., only via your organization’s website). These benefits come at the expense of maintaining web servers and application code.
 
 * [3DHOP](http://vcg.isti.cnr.it/3dhop/)
@@ -1274,7 +1253,7 @@ Self storage and hosting can offer greater control over how our 3D models are pr
 
 
 
-####            [7.2.2.2. Hosted Storage and Display Solutions](#7.2.2.2_hosted_storage_and_display_solutions)
+####            [7.2.2.2. Hosted Storage and Display Solutions](#hosted_storage_and_display_solutions)
 
 Using a hosted 3D viewer service is the quickest route to interactive online publication for your 3D data. Generally, using a hosted 3D viewer will require uploading your data to third-party-owned web servers and agreement to platform-specific terms of use. Benefits of using a hosted storage and display solution include reduced technical and staff overheads for you and your organization, and dissemination of your 3D models to an existing, 3D literate community.
 
@@ -1288,7 +1267,7 @@ Using a hosted 3D viewer service is the quickest route to interactive online pub
 
 
 
-##  [7.3. Publish the 3D Data for Download](#7.3_publish_the_3d_data_for_download)
+##  [7.3. Publish the 3D Data for Download](#publish_the_3d_data_for_download)
 
 Publishing a cultural resource as an interactive 3D model goes a long way to making 3D models findable and accessible. The next step is to make the 3D data available for download (hopefully alongside an interactive viewing experience). Published 3D data should be in an interoperable format—i.e., a 3D file that can be opened and edited in a piece of software. Publishing 3D data in an inaccessible format—for example, as a downloadable 3D PDF or self-contained app—is essentially a dead end for data re-use.
 
@@ -1304,7 +1283,7 @@ A managed approach in which an end user must, for example, request 3D data via e
 
 
 
-##    [7.4. Publish Derivative Content](#7.4_publish_derivative_content)
+##    [7.4. Publish Derivative Content](#publish_derivative_content)
 
 Publishing images, animations, and video derived from 3D models can be a helpful complement to the 3D data or viewer itself. Using media and media platforms that audiences are more familiar with can be an enticing gateway to engaging with the 3D data itself. Some examples:
 
@@ -1335,18 +1314,18 @@ Publishing images, animations, and video derived from 3D models can be a helpful
 
 
 
-##    [7.5. Availability and Findability](#7.5_availability_and_findability)
+##    [7.5. Availability and Findability](#availability_and_findability)
 
 Publishing the 3D data online in any form does not signify the end of an Open Access digitization project. An element of promotion and making the invitation to re-use 3D data clear to target audiences is essential to increase engagement with any Open Access program. Some select considerations for publishing your 3D outputs are laid out below. For guidelines to improve the findability, accessibility, interoperability, and re-use of any kind of digital assets, consider reviewing the [FAIR Principles](https://www.go-fair.org/fair-principles/).
 
 
 
-###        [7.5.1. SEO](#7.5.1_seo)
+###        [7.5.1. SEO](#seo)
 Good search engine optimization (SEO) of web pages featuring your 3D models will help people discover your project online. If somebody performs a web search for “[your organization name] Open Access” or “[term related to cultural resource] 3D model” (as two basic examples), they should be pointed in the right direction.
 
 
 
-###        [7.5.2. Data Interfaces/APIs](#7.5.2_data_interfaces_apis)
+###        [7.5.2. Data Interfaces/APIs](#data_interfaces_apis)
 Making your data available via both human and machine interfaces—that is to say browsable web pages as well as APIs—allows for different forms of engagement. The former caters to individuals and individuals presenting your work to a group (e.g., teachers presenting to a classroom of students); the latter can plug your cultural 3D data into entire digital platforms and get it in front of potentially massive 3D-oriented communities.
 
 ![Screenshot of the Sketchfab - Spark API integration](images/sketchfab_facebook_api.png "Screenshot of the Sketchfab - Spark API integration")
@@ -1359,13 +1338,13 @@ Making your data available via both human and machine interfaces—that is to sa
 
 [Google Poly API](https://developers.google.com/poly/develop/api)
 
-##    [7.6. Active Promotion](#7.6_active_promotion)
+##    [7.6. Active Promotion](#active_promotion)
 
 Once 3D data has been published, it should be a priority to advocate for its re-use by colleagues within your GLAM organization as much as by your target audiences. Teach people how 3D models can be embedded in object collection pages, exhibition marketing, in-gallery interactive—wherever it’s relevant. Make a special effort to support marketing and social media teams in understanding how they can draw on 3D model resources to create engaging content tailored for audiences where they already exist—i.e., digital newsletters, blog articles, and social media platforms.
 
 
 
-###        [7.6.1. Partnerships](#7.6.1_partnerships)
+###        [7.6.1. Partnerships](#partnerships)
 
 Any strategy for disseminating 3D content online should define basic partner platforms to help deliver the same 3D content in as many ways as possible. Different online platforms offer varying functionality and often cater to specific audiences and choosing the right platforms.
 
@@ -1394,19 +1373,19 @@ Some platforms to consider:
 *   [Wikimedia Commons](https://commons.wikimedia.org/) -
 “We’ve enabled a new feature that allows you to upload three-dimensional (3D) models.”
 
-##    [7.7. Legal Infrastructure](#7.7_legal_infrastructure)
+##    [7.7. Legal Infrastructure](#legal_infrastructure)
 
 It is critical to include legal information about digitized cultural assets to users. Without this information, users will be unable to make full use of digitized assets.
 
 
 
-###        [7.7.1. Licensing Best Practices (Digitizations of Cultural Objects)](#7.7.1_licensing_best_practices_digitizations_of_cultural_objects)
+###        [7.7.1. Licensing Best Practices (Digitizations of Cultural Objects)](#licensing_best_practices_digitizations_of_cultural_objects)
 
 As described in Section 5.3, many jurisdictions do not—or soon may not—recognize an additional copyright interest in digitizations. As a result, in many cases—although certainly not all—digitizing institutions will not have a copyright interest in the digital file that represents a cultural object. In light of this ambiguity, institutions should use licenses to clarify how users may make use of files included in Open Access initiatives.
 
 
 
-####            [7.7.1.1. Legal Agreements](#7.7.1.1_legal_agreements)
+####            [7.7.1.1. Legal Agreements](#legal_agreements)
 
 The current best practice is to use the [Creative Commons CC0 mark](https://creativecommons.org/share-your-work/public-domain/cc0/) on all Open Access digitized objects. The CC0 mark is designed to waive any copyright interest jurisdictions may grant your institution in the digitizations themselves. This includes the jurisdiction where your institution is based, as well as jurisdictions where your user may be based. Using the CC0 mark makes it clear to all users that the digitizing institution does not claim additional legal rights in a digitized object in the relatively unlikely event that those rights do exist.
 
@@ -1420,7 +1399,7 @@ Institutions should also avoid the impulse to impose additional restrictions on 
 
 
 
-####            [7.7.1.2. Non-Legal Indicators](#7.7.1.2_non-legal_indicators)
+####            [7.7.1.2. Non-Legal Indicators](#non-legal_indicators)
 
 While it is not best practice to impose legal restrictions on the use of digitized cultural objects, it is acceptable to make non-binding requests of those users. This is especially true in the case of restrictions—such as a requirement of attribution—that the institution is unlikely to actively enforce through legal mechanisms. It is critical that the institution makes it clear that it understands these requests to be non-binding, and not to cloak them in quasi-legal language or presentation styles.
 
@@ -1430,7 +1409,7 @@ These best practices have generally been developed for cultural objects in the p
 
 
 
-###        [7.7.2. Licensing Best Practices (Metadata and Descriptions)](#7.7.2_licensing_best_practices_metadata_and_descriptions)
+###        [7.7.2. Licensing Best Practices (Metadata and Descriptions)](#licensing_best_practices_metadata_and_descriptions)
 
 Section 5.3 explains that digitizing institutions may have more legal rights in information such as metadata and descriptions of digitized cultural objects than digitized versions of the objects themselves. Nonetheless, it is best practice for digitizing institutions to license all metadata and descriptions using the CC0 license.
 
@@ -1439,12 +1418,12 @@ Other permissive licensing structures (such as the attribution requirement of a 
 As with the digitized objects themselves, nothing in the use of CC0 prevents the digitizing institution from requesting attribution or feedback on re-use. The difference between a request and a legally binding demand increases the amount of flexibility available to the user.
 
 
-###        [7.7.3. Presenting Legal and Quasi-Legal Language](#7.7.3_presenting_legal_and_quasi-legal_language)
+###        [7.7.3. Presenting Legal and Quasi-Legal Language](#presenting_legal_and_quasi-legal_language)
 
 Institutions should strive to present legal and legal-adjacent information in as approachable a manner as possible, and to streamline its presentation to the public. While licenses, warranties, and requests are important, they can also be intimidating to users without a background in legal text. The mere presence of “legalese” can act as a barrier for perfectly legitimate uses. Successful Open Access projects are inviting to users. While it may feel like adding one additional clause to address an edge case is responsible stewardship or lawyering, the cost of doing so may be reducing the types of engagement that motivate the initiative in the first place.
 
 
-###        [7.7.4. Cultural Labelling](#7.7.4_cultural_labeling)
+###        [7.7.4. Cultural Labelling](#cultural_labeling)
 
 Many cultural objects have other considerations or cultural restrictions that are important to communicate to users. While these considerations and restrictions may not be legally binding, many users will benefit from being aware of them. Cultural sources may also be more supportive of digitization and dissemination efforts when they are accompanied by this type of information.
 
@@ -1452,7 +1431,7 @@ Local Contexts’ [Traditional Knowledge labels](http://localcontexts.org/tk-lab
 
 
 
-# [8. Evaluate](#8_evaluate)
+# [8. Evaluate](#evaluate)
 
 Ongoing evaluation must be a key element of your Open Access program. Once it has successfully launched, schedule time to review what worked and what did not work, and to document unexpected challenges. Review your original goals in light of your experience and refine them for the future.
 
@@ -1460,7 +1439,7 @@ Finally, do not keep that evaluation to yourself. The Open Access community embr
 
 
 
-# [9. Join The Community](#9_join_the_community)
+# [9. Join The Community](#join_the_community)
 
 Open Access for 3D collections is experiencing a formative moment. It has the benefit of building on the accumulated knowledge of 2D digitization and the broader Open Access community. A handful of leaders have begun to blaze a trail forward to help define what Open Access can mean for 3D cultural objects.
 
@@ -1642,7 +1621,7 @@ Vertex coloring and UV mapping are not mutually exclusive, and the same 3D mesh 
 
 
 
-        3. Normal and Roughness Map—Specialized UV maps
+###        [ii.ii.iii. Normal and Roughness Map—Specialized UV maps](#normal_and_roughness_map-specialized_uv_maps)
 
 In addition to coloring the faces of a 3D mesh, there are several other texture maps[^87] that can have a dramatic effect on the presentation of a 3D model. Two baseline recommended map types are described below, but there are many more that can be created and applied to a 3D model to help more accurately render a given cultural resource.
 
@@ -1650,47 +1629,41 @@ In addition to coloring the faces of a 3D mesh, there are several other texture 
 
 
 
-            1. Normal Maps
+####            [ii.ii.iii.i. Normal Maps](#normal_maps)
 
 Each face of a 3D model has a surface direction, known as a _normal_. This direction dictates how simulated light bounces off the surface. If we have simplified or decimated a 3D model significantly during optimization, we can run into the problem that a single face replaces much more complex geometry.
 
-A common remedy for this is to encode complicated surface information from a high-resolution version of our model into a special texture map called a **normal map **and then map that to the lower-resolution mesh.
+A common remedy for this is to encode complicated surface information from a high-resolution version of our model into a special texture map called a **normal map** and then map that to the lower-resolution mesh.
+
+![Scan without a normal map](images/coin_no_normal_map.png "Scan without a normal map")
+
+
+###### 3D model [Quarter Normal Map RTI](https://sketchfab.com/models/b7ea8c18fba84041a3259013703aeb32) by [Kevin Falcetano](https://sketchfab.com/falce003) rendered without a normal map...
+
+
+![Scan with normal map](images/coin_normal_map.png "Scan with normal map")
+
+
+###### ...and with a normal map. This model is composed of a single quad face.
 
 
 
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text34.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text34.png "image_tooltip")
-
-
-3D model [Quarter Normal Map RTI](https://sketchfab.com/models/b7ea8c18fba84041a3259013703aeb32) by [Kevin Falcetano](https://sketchfab.com/falce003) rendered without a normal map...
-
-
-
-<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text35.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text35.png "image_tooltip")
-
-
-...and with a normal map. This model is composed of a single quad face.
-
-
-
-            2. Roughness Maps
+####            [ii.ii.iii.ii Roughness Maps](#roughness_maps)
 
 Any given cultural resource may include several different surface finishes or be made of several different materials, perhaps with significant differences in how rough or shiny they are. It is not currently possible to easily capture such variation during digitization.
 
 It is possible as part of the post-processing of a 3D model, however, to author a special texture map called a **roughness map** that can be applied to a 3D model’s UV-mapped surface and show different areas of the surface as having different specular properties. A roughness map is a grayscale image which, depending on the 3D viewer being used, will show darker areas as rough and lighter areas as smooth or vice versa.[^88]
 
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/cbbc0ab5634946d3bfc949c0aff685e6/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/chrysanthemums-by-a-stream-byobu-cbbc0ab5634946d3bfc949c0aff685e6?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">&#39;Chrysanthemums by a Stream&#39;, byōbu</a>
+        by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-
-<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text36.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text36.png "image_tooltip")
-3D model ‘[Chrysanthemums by a Stream,’ byōbu](https://sketchfab.com/models/cbbc0ab5634946d3bfc949c0aff685e6) by Thomas Flynn rendered without a roughness map or simulated lighting... \
+###### Chrysanthemums by a Stream rendered without a roughness map or simulated lighting.
 
 
 
@@ -1703,130 +1676,113 @@ It is possible as part of the post-processing of a 3D model, however, to author 
 
 ...the model with a roughness map and lighting applied. Note the reflective highlight now apparent in the areas of gold leaf. The effect is even more apparent when viewed in 3D.
 
+(_target_)
+
+# [iii. Common Types of 3D Model](#common_types_of_3d_model)
+
+While there are as many types of 3D files as there are applications for 3D, we will now look at types of 3D models most common to cultural heritage applications. Note that we are not talking about _file formats_ just yet, simply the general groups of 3D files you can expect to come across in the wild.
 
 
-3. Common Types of 3D Model
 
-While there are as many types of 3D files as there are applications for 3D, we will now look at types of 3D models most common to cultural heritage applications. Note that we are not talking about _file formats _just yet, simply the general groups of 3D files you can expect to come across in the wild.
-
-
-
-    6. Mesh + UV Texture Maps
+##    [iii.i. Mesh + UV Texture Maps](#mesh_uv_texture_maps)
 
 Several 3D file formats support a 3D mesh in conjunction with a linked or embedded image map. Image files either need to be stored alongside the 3D mesh or are embedded in the 3D file itself.
 
 
-
-<p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text38.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text38.png "image_tooltip")
+![Scan with mesh and UV texture](images/mesh_and_texture.png "Scan with mesh and UV texture")
 
 
 
 
-    7. Untextured Mesh
+##    [iii.ii. Untextured Mesh](#untextured_mesh)
 
-A 3D mesh without any color data applied is said to be **untextured**. Untextured meshes are useful in situations in which the color information related to a cultural resource is not of use—for example, in certain methods of 3D printing or when the 3D form itself is what is important. Some 3D capture techniques like **X-ray computed tomography (CT scanning)** or some **structured light **scanning will not capture color data at the time of digitization.
-
-
-
-<p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text39.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+A 3D mesh without any color data applied is said to be **untextured**. Untextured meshes are useful in situations in which the color information related to a cultural resource is not of use—for example, in certain methods of 3D printing or when the 3D form itself is what is important. Some 3D capture techniques like **X-ray computed tomography (CT scanning)** or some **structured light** scanning will not capture color data at the time of digitization.
 
 
-![alt_text](images/Lock-Text39.png "image_tooltip")
+![Untextured mesh render](images/untextured_mesh.png "Untextured mesh render")
 
 
 
-
-    8. Vertex Colored Mesh
+##    [iii.iii. Vertex Colored Mesh](#vertex_colored_mesh)
 
 The description of this coloring method is covered above, and it is a common output of some types of 3D scanning processes. Typically, any process that involves the capture or computation of colored vertices as part of 3D data production can lead to a vertex colored mesh output.
 
-
-
-<p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text40.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text40.png "image_tooltip")
+![Vertex colored mesh](images/vertex_colored_mesh.png "Vertex colored mesh")
 
 
 
 
-    9. Point Cloud
+##    [iii.iv. Point Cloud](#point_cloud)
 
 A point cloud or pointcloud is exactly what it sounds like: a 3D model made up exclusively of vertices (points). These kinds of files are commonly an output of LiDAR scanners (often referred to as _laser scanners_) or photogrammetry software. The vertices in a point cloud can be uncolored or have a color value assigned to them.
 
-
-
-<p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text41.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text41.png "image_tooltip")
+![Point cloud](images/herakles_pointcloud.png "point cloud")
 
 
 
 
-    10. Volumetric Data
+##    [iii.v. Volumetric Data](#volumetric_data)
 
 Volumetric data is less common than surface model data in cultural heritage applications, and it is possible to generate a surface model from a volumetric input using specialized software.
 
-**X-ray computed tomography **is a scanning technique that is capable of documenting the visible form of a cultural resource, as well as internal structures not visible to the human eye. This technique generates numerous cross-sectionals through a subject using multidirectional x-ray measurements.
+**X-ray computed tomography** is a scanning technique that is capable of documenting the visible form of a cultural resource, as well as internal structures not visible to the human eye. This technique generates numerous cross-sectionals through a subject using multidirectional x-ray measurements.
 
-The cross-sectional images can be used to generate **volumetric 3D data**—that is, data that visualizes densities of volume.
-
-
-
-<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text42.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+The cross-sectional images can be used to generate **volumetric 3D data** —that is, data that visualizes densities of volume.
 
 
-![alt_text](images/Lock-Text42.png "image_tooltip")
+![Volumetric data](images/volumetric_data.png "volumetric data")
 
 
-Volumetric render of a Gorilla Cranium derived from DICOM files in [aleph-viewer.com](https://aleph-viewer.com/).
+###### Volumetric render of a Gorilla Cranium derived from DICOM files in [aleph-viewer.com](https://aleph-viewer.com/).
 
 
 
-    11. Additional features
-        4. Animation
+##    [iii.vi. Additional features](#additional_features)
+
+###        [iii.vi.i. Animation](#animation)
 
 3D models can be animated in several ways. While animating models is beyond the scope of this paper, animation can help better describe how a cultural resource is constructed, functioned, or was used. Animation could also be the only way to record certain cultural performances, such as dance or theatre.
 
 
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/b6bd7b136b1e46dda66c6068d6dbb927/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/columbian-press-no-3180-b6bd7b136b1e46dda66c6068d6dbb927?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Columbian Press No 3180</a>
+        by <a href="https://sketchfab.com/arboo?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">arboo</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text43.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+(_target_)
 
 
-![alt_text](images/Lock-Text43.png "image_tooltip")
-
-
-Still from the animated 3D model [Columbian Press No 3180](https://sketchfab.com/models/b6bd7b136b1e46dda66c6068d6dbb927) by [Arboo](https://sketchfab.com/arboo).
-
-
-
-        5. 3D Post-Production—Materials and Lighting
+###        [iii.vi.ii. 3D Post-Production—Materials and Lighting](#3d_post_production_Materials_and_lighting)
 
 When we talk about “capturing a cultural resource in 3D,” we are most often referring to documenting the physical shape of the resource and possibly the surface color as well. Many cultural resources, however, are made from materials that possess specific physical properties that also contribute to a viewer’s understanding of the resource.
 
 Consider the translucency of a fine marble statue, the colored transparency of a stained glass window, the difference in reflective properties between a wooden walking stick and its polished brass handle. These properties are as much a part of the resource’s nature as its simple shape and color.
 
-At the time of writing, it is not practically possible to capture or record many of the physical traits that differentiate metals from ceramics, glass from paper, etc. during the 3D digitization process. Some of these physical properties can, however, be added by a 3D expert or artist during a post-production phase.[^89] \
+At the time of writing, it is not practically possible to capture or record many of the physical traits that differentiate metals from ceramics, glass from paper, etc. during the 3D digitization process. Some of these physical properties can, however, be added by a 3D expert or artist during a post-production phase.[^89]
 
 
 Decisions should be made during the digitization process that will impact the ease with which these properties can be added. Therefore it is helpful—although not necessarily critical—to consider how you plan to treat these properties during the planning phase.
 
-In the real world, understanding of the visible physical properties as described above rely in part upon interaction between viewer perspective and the object, but also on the lighting environment surrounding both. The same is true when viewing a digital 3D model of a cultural resource that is said to be **lit **or **shadeless**,** **depending on whether or not simulated lighting is present during the digital viewing experience.
+In the real world, understanding of the visible physical properties as described above rely in part upon interaction between viewer perspective and the object, but also on the lighting environment surrounding both. The same is true when viewing a digital 3D model of a cultural resource that is said to be **lit** or **shadeless**, depending on whether or not simulated lighting is present during the digital viewing experience.
 
-Just as in a museum environment, lighting can make a huge difference to how a cultural resource is visually presented, which in turn has an effect on how an object is understood by a viewer.[^90] \
+Just as in a museum environment, lighting can make a huge difference to how a cultural resource is visually presented, which in turn has an effect on how an object is understood by a viewer.[^90]
 
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/1295e14c5e634465aa2438004bb8886c/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/what-is-the-genuine-nefertiti-1295e14c5e634465aa2438004bb8886c?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">What is the genuine Nefertiti?</a>
+        by <a href="https://sketchfab.com/add4d?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">AD&amp;D  4D</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
+(_target_)
 
-
-<p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text44.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text44.png "image_tooltip")
-Unlit version of [What is the genuine Nefertiti?](https://sketchfab.com/models/1295e14c5e634465aa2438004bb8886c) by [AD&D 4D, ES](https://sketchfab.com/add4d)...
+###### An unlit version of the Nefertiti bust
 
 
 
@@ -1838,20 +1794,20 @@ Unlit version of [What is the genuine Nefertiti?](https://sketchfab.com/models/1
 
 
 
-4. Common 3D Capture and 3D Creation Techniques and Software
-    12. Capture
+# [iv. Common 3D Capture and 3D Creation Techniques and Software](#3d_capturee_and_3d_creation_techniques_and_software)
 
-“Capture” refers to the process of recording an existing cultural resource via digitization process.
+##    [iv.i. Capture](#capture)
+**Capture** refers to the process of recording an existing cultural resource via digitization process.
 
 
 
-        6. Photogrammetry
+###        [iv.i.i. Photogrammetry](#photogrammetry)
 
 As photography is a method for converting 3D information into a 2D format, photogrammetry does the opposite, converting 2D information back into digital 3D.
 
 This workflow involves first capturing a number of images of a cultural resource from a number of different angles. This can be achieved by moving the camera around the resource itself or placing the resource upon a turntable in front of a static camera. A set of images intended for a photogrammetry workflow can number anywhere from a few dozen up to the many thousands.
 
-You can use almost any kind of digital camera, but the better the images you capture, the better your output 3D model will be. \
+You can use almost any kind of digital camera, but the better the images you capture, the better your output 3D model will be.
 
 
 Photogrammetry software is then able to process the digital image files (JPGs, RAW files) into a 3D model by comparing recognizable points in different images and calculating their position in 3D space using complex algorithms. The points (vertices) can then be used to define a 3D mesh and a color image map can be built from selected parts of the 2D image files.
@@ -1868,9 +1824,7 @@ Camera	$300+
 
 Computer	$800+
 
-Software	$0 (open source)
-
-		$200+ (commercial)
+Software	$0 (open source); $200+ (commercial)
 
 <span style="text-decoration:underline;">Outputs</span>
 
@@ -1898,7 +1852,7 @@ Difficult to capture subjects that are very shiny, transparent, extremely fine (
 
 
 
-        7. Structured Light
+###        [iv.i.ii. Structured Light](#structured_light)
 
 Structured light 3D scanners use specially calibrated projectors and cameras simultaneously projecting and recording a known pattern of lines or grids onto the subject being scanned. Dedicated software then defines a 3D surface model, based upon the distortions in the recorded line or grid pattern made by the subject.
 
@@ -1938,7 +1892,7 @@ Attempting to scan very large objects generally results in the creation of unusa
 
 
 
-        8. LiDAR / Laser Scanning
+###        [iv.i.iii. LiDAR / Laser Scanning](#lidar_laser_scanning)
 
 Laser scanning hardware is most often used in building information modeling (BIM) to record spaces and architectural scale features. Essentially, laser scanning works by firing a laser from a central unit and recording the 3D position of any surface it strikes, based upon how long the reflected light takes to return to the base station.
 
@@ -1976,7 +1930,7 @@ No surface or UV mapped color capture, generally not suitable for smaller object
 
 
 
-        9. X-ray Computed Tomography
+###        [iv.i.iv. X-ray Computed Tomography](#x-ray_computed_tomography)
 
 Commonly used in medical and scientific fields.
 
@@ -2002,7 +1956,8 @@ Very-small-to-medium-size objects, especially where measurements and internal st
 
 No surface color information, scan size limited by x-ray machine volume/portability of subject.
 
-<span style="text-decoration:underline;">Example X-Ray CT Setups \
+<span style="text-decoration:underline;">Example X-Ray CT Setups </span>
+
 [AN15 ES Flat Panel Detector](https://www.perkinelmer.com/PDFs/Downloads/XRD%20Series%20Product%20Note.pdf)</span>
 
 [Nikon Metrology HMX ST 225](https://www.nikonmetrology.com/en-us/product/xt-h-225-st)
@@ -2013,7 +1968,7 @@ No surface color information, scan size limited by x-ray machine volume/portabil
 
 
 
-        10. Motion Capture
+###        [iv.i.v. Motion Capture](#motion_capture)
 
 As the name suggests, motion capture is a digitization technique for capturing movement, most often that of human beings (e.g., full body, facial, hand motion). Traditionally this technique has required studio spaces with specialized cameras and tracking targets attached to the human performers. More recent developments in depth-sensing cameras and even smartphones are making motion capture a much more accessible technology.
 
@@ -2053,7 +2008,7 @@ No 3D model capture.
 
 
 
-    13. 3D Reconstruction and Creation
+##    [iv.ii. 3D Reconstruction and Creation](#3d_reconstruction_and_creation)
 
 In addition to 3D scanning of a cultural resource, another way to generate 3D content is to engage a 3D artist to create it from scratch. This method is especially applicable to any cultural resource that is “unscannable,” no longer exists or was destroyed, or never existed in the first place—e.g., a fictional space or object.
 
@@ -2063,7 +2018,7 @@ Several sub-disciplines of creative work are applicable to generating 3D models 
 
 
 
-        11. Modeling
+###        [iv.ii.i. Modeling](#modeling)
 
 3D modeling is the process of creating a three-dimensional representation of a surface or object by manipulating faces/polygons, edges, and vertices in simulated 3D space. Just as Adobe Photoshop and MS Paint are software programs used to create 2D art, 3D modeling software allows users to make art that can be explored in three dimensions.
 
@@ -2093,7 +2048,7 @@ Typical subjects for a modeling workflow include inorganic structures, architect
 
 
 
-        12. Texture Painting
+###        [iv.ii.ii. Texture Painting](#texture_painting)
 
 Once a 3D model has been created, an additional (sometimes essential) stage in production is to apply realistic colors and materials to the geometry. All texture maps (i.e., color, normal, roughness) can be digitally painted onto a 3D mesh, whether a 3D scan or something that has been created by a 3D artist.
 
@@ -2123,7 +2078,7 @@ Texture painting makes use of the UV mapping color method described previously a
 
 
 
-        13. Sculpting
+###        [iv.ii.iii. Sculpting](#sculpting)
 
 As the name suggests, 3D sculpting is the process of manipulating a 3D object as if it was made out of a material similar to clay. You can push, pull, smooth, grab, pinch, and edit a 3D object to be whatever you’d like.
 
@@ -2152,7 +2107,7 @@ Typical subjects for a sculpting workflow include organic forms, animals, plants
 
 
 
-        14. Voxels
+####        [iv.ii.iv. Voxels](#voxels)
 
 A creation popularized by the videogame _Minecraft_, voxel-based 3D modeling uses visible 3D cubes or blocks (voxels) to build a 3D form. Voxel-based creations can be built “block by block” or existing meshes can be converted to a voxel form using a 3D editor. By no means useful for scientific study or hyper-realistic reconstructions, voxel-based 3D models can still be used to engage with wide-ranging audiences, especially younger crowds.[^93]
 
@@ -2180,21 +2135,20 @@ A voxel workflow can be used to create 3D representations of most subjects. but 
 
 
 
-5. Quick Start 3D Digitization Guide
+# [v. Quick Start 3D Digitization Guide](#quick_start_digitization_guide)
 
 As a word of warning, be careful when using this “let’s just go ahead and capture some 3D and publish it” approach—you may unwittingly be laying a potentially unstable foundation for your organization’s 3D digitization program. Be mindful of how you share your project with your colleagues and in public as people new to the concept will often derive their opinion of 3D digitization and its potential benefits and shortcomings based upon your work.
 
 You should also be aware that any time spent on a project will inevitably generate some form of technical and skill “debt”—i.e., commitment to processes and workflows based on the fact that they exist and are seen as the easiest option. This could make it difficult to change and adapt digitization workflows as required once proper planning is undertaken.
 
 
+##    [v.i. 3D Capture Workflow](#3d_capture_workflow)
 
-    14.
-3D Capture Workflow
 The cheapest and most accessible 3D capture workflow available to you is most likely photogrammetry. The input data are digital images and the required software runs on most computer hardware, with the caveat that on older and less powerful hardware, you will likely have to wait a lot longer for a 3D output to be processed. It is recognized that this suggested technology chain may still be unaffordable to some organizations.
 
 
 
-        15. Camera
+###        [v.i.i. Camera](#camera)
 
 Your personal digital camera or smartphone camera are likely good enough for a test project.
 
@@ -2202,12 +2156,12 @@ Tested.com hosts a good “[photography for photogrammetry” guide](https://www
 
 
 
-        16. Software
+###        [v.i.ii. Software](#software)
 
 Here’s a list of free photogrammetry software, with system requirements and official tutorials for each option. It is highly recommended that you review and consider the potential ongoing costs of using commercial software.
 
 
-    [Meshroom]( https://alicevision.org/#meshroom)
+    **[Meshroom](https://alicevision.org/#meshroom)**
 
 
     Open source, Win/Linux. By far the most user-friendly open source photogrammetry software.
@@ -2217,7 +2171,7 @@ Here’s a list of free photogrammetry software, with system requirements and of
 *   [System Requirements](https://meshroom-manual.readthedocs.io/en/latest/install/requirements/requirements.html)
 *   [Official Tutorial](https://sketchfab.com/blogs/community/tutorial-meshroom-for-beginners)
 
-    [3DF Zephyr](https://www.3dflow.net/3df-zephyr-free/)
+    **[3DF Zephyr](https://www.3dflow.net/3df-zephyr-free/)**
 
 
     Commercial, free version limited to 50 images, Win. The only non-time-limited free commercial software listed here.
@@ -2225,7 +2179,7 @@ Here’s a list of free photogrammetry software, with system requirements and of
 *   [System Requirements](https://www.3dflow.net/zephyr-doc/en/SystemRequirements.html)
 *   [Official Tutorials](https://www.3dflow.net/technology/documents/3df-zephyr-tutorials/)
 
-    [Metashape](https://www.agisoft.com/downloads/request-trial/)
+    **[Metashape](https://www.agisoft.com/downloads/request-trial/)**
 
 
     Commercial, free trial, Win/Mac/Linux. One of the most commonly used photogrammetry software, 30-day time limited trial.
@@ -2233,20 +2187,21 @@ Here’s a list of free photogrammetry software, with system requirements and of
 *   [System Requirements](https://www.agisoft.com/downloads/system-requirements/)
 *   [Official Tutorials](https://www.agisoft.com/support/tutorials/beginner-level/)
 
-    [Autodesk ReCap](https://www.autodesk.co.uk/products/recap/free-trial)
+    **[Autodesk ReCap](https://www.autodesk.co.uk/products/recap/free-trial)**
 
 
     Commercial, free trial, Win only, cloud-based processing.
 
 *   [System Requirements](https://www.autodesk.co.uk/products/recap/free-trial#system-requirements)
 *   [Official Tutorials](https://knowledge.autodesk.com/support/recap/learn?sort=score)
-        17. Computer Hardware
 
-Initially it is suggested that you simply try running one or all of the suggested software applications on your existing computer hardware. If you find that installing the software does not work or processing takes too long or frequently fails, then it might be time to consider investing in something new, basing your purchase on the system requirements in the software section.
+###        [v.i.iii. Computer Hardware](#computer_hardware)
+
+Initially you can simply try running one or all of the suggested software applications on your existing computer hardware. If you find that installing the software does not work or processing takes too long or frequently fails, then it might be time to consider investing in something new, basing your purchase on the system requirements in the software section.
 
 
 
-        18. Publishing
+###        [v.i.iv. Publishing](#publishing)
 
 See the Choosing an Online 3D Viewer section for hosted and self-hosted options.
 

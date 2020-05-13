@@ -4,5 +4,6 @@ sidebar: glam3D_sidebar
 keywords: about
 permalink: About.html
 toc: false
+comments: false
 folder: About
 ---
