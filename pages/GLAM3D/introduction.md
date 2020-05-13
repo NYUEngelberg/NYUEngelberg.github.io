@@ -5,7 +5,7 @@ sidebar: glam3D_sidebar
 permalink: introduction.html
 
 ---
-## Test
+## Introduction
 
 _Today is a big day for Amina, age 11. She has already analyzed the cracks in 5th-century sculptures of the Buddha to learn about climate change in central Asia. She has also compared 3D printed dinosaur and bird pelvises to track evolution. Once she even became an ancient Greek sculptor by digitally remixing kouroi to create her very own. Her favorite video game—set in a series of Renaissance cathedrals—is built around puzzles made up of column capitals, gargoyles, and church portals._
 
