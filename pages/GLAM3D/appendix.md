@@ -212,6 +212,10 @@ Any given cultural resource may include several different surface finishes or be
 
 It is possible as part of the post-processing of a 3D model, however, to author a special texture map called a **roughness map** that can be applied to a 3D model’s UV-mapped surface and show different areas of the surface as having different specular properties. A roughness map is a grayscale image which, depending on the 3D viewer being used, will show darker areas as rough and lighter areas as smooth or vice versa.[^88]
 
+![Image of a model without a roughness map or simulated light](images/shade_no_simulated_light.png "Image of a model without a roughness map or simulated light")
+
+###### Chrysanthemums by a Stream rendered without a roughness map or simulated lighting.
+
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/cbbc0ab5634946d3bfc949c0aff685e6/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -221,18 +225,9 @@ It is possible as part of the post-processing of a 3D model, however, to author 
     </p>
 </div>
 
-###### Chrysanthemums by a Stream rendered without a roughness map or simulated lighting.
 
+...the model with a roughness map and lighting applied. Note the reflective highlight now apparent in the areas of gold leaf. The effect is even more apparent when viewed in 3D. It is possible to view an 'unlit' version of this embed by using the [model inspector](https://help.sketchfab.com/hc/en-us/articles/115004862686-Model-Inspector).
 
-
-
-<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text37.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text37.png "image_tooltip")
-
-
-...the model with a roughness map and lighting applied. Note the reflective highlight now apparent in the areas of gold leaf. The effect is even more apparent when viewed in 3D.
 
 
 
