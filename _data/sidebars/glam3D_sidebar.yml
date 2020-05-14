@@ -9,7 +9,7 @@ entries:
     output: web, pdf
     folderitems:
       - title: Welcome to GLAM 3D
-        url: /GLAM3D_landing_page.html
+        url: /index.html
         output: web, pdf
 
       - title: 1.  Introduction
@@ -18,30 +18,30 @@ entries:
 
       - title: 2.  What Is Open Access?
         output: web, pdf
-        url: /two.html
+        url: /what_is_open_access.html
 
       - title: 3.  What is a 3D Model?
-        url: /three.html
+        url: /what_is_a_3D_model.html
         output: web, pdf
 
       - title: 4.  Set Goals
-        url: /four.html
+        url: /set_goals.html
         output: web, pdf
 
       - title: 5.  Identify
         output: web, pdf
-        url: /five.html
+        url: /identify.html
 
       - title: 6.  Digitize
-        url: /six.html
+        url: /digitize.html
         output: web, pdf
 
       - title: 7.  Disseminate
-        url: /seven.html
+        url: /disseminate.html
         output: web, pdf
 
       - title: 8.  Evaluate and Join
-        url: /eight.html
+        url: /evaluate_and_join.html
         output: web, pdf
 
       - title: Appendix

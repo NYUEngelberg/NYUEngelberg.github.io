@@ -75,7 +75,7 @@ defaults:
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
       #toc: false
-      sidebar: home_sidebar
+      sidebar: glam3D_sidebar
       topnav: topnav
   -
     scope:
@@ -101,11 +101,11 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home_sidebar
+#- home_sidebar
 - glam3D_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
+#- mydoc_sidebar
+#- product1_sidebar
+#- product2_sidebar
 #
 description: "This resource is designed to help you implement an Open Access program for the 3D digitization of cultural resources. It provides you with the tools to identify technical and legal characteristics of cultural resources that will lend themselves to digitization. The paper describes the steps required to actually create these resources, helping you approach the digital content creation process with confidence."
 # the description is used in the feed.xml file

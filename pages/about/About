@@ -1,10 +1,9 @@
 ---
 title: About
 sidebar: glam3D_sidebar
-keywords: about
-permalink: About.html
+permalink: about.html
+output: web, pdf
 toc: false
-comments: false
 folder: About
 ---
 
