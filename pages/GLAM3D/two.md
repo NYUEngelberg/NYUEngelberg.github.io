@@ -116,6 +116,9 @@ Cultural resources, especially those in the worldwide public domain, are the fou
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
+[^4]:
+     Within the Creative Commons framework, a Creative Commons Attribution license is the most restrictive license that qualifies. However, even that license should be used only if the institution actually holds a copyright in the cultural resource or digitized file. In the absence of a copyright (which will be absent in many cases discussed here), a CC0 Public Domain Dedication should be used.
+
 [^5]:
      Jason Bailey and Neal Stimler, _Solving Art’s Data Problem—Part One, Museums_, Artnome (April 29, 2019), [https://www.artnome.com/news/2019/4/29/solving-arts-data-problem-part-one-museums](https://www.artnome.com/news/2019/4/29/solving-arts-data-problem-part-one-museums) Other important definitions about Open Access are in the 2003 Berlin Declaration, see _Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities_, Max-Planck-Gesellschaft [https://openaccess.mpg.de/Berlin-Declaration](https://openaccess.mpg.de/Berlin-Declaration), last accessed April 16, 2020; the definition provided by Peter Suber in his book _Open Access_, see Peter Suber, _Open Access_ (2012), [https://mitpress.mit.edu/books/open-access](https://mitpress.mit.edu/books/open-access); and the definition maintained by Creative Commons, see _Open Access_, Creative Commons, [https://creativecommons.org/about/program-areas/open-access/, last accessed April 16, 2020.](https://creativecommons.org/about/program-areas/open-access/)
 
@@ -185,5 +188,3 @@ Cultural resources, especially those in the worldwide public domain, are the fou
 
 [^27]:
      Paola Di Giuseppantonio Di Franco et al., _Introduction: Why Authenticity Still Matters Today, in_ Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions (2018) 2, [https://www.academia.edu/37391064/Authenticity_and_cultural_heritage_in_the_age_of_3D_digital_reproductions](https://www.academia.edu/37391064/Authenticity_and_cultural_heritage_in_the_age_of_3D_digital_reproductions)
-
-<!-- Docs to Markdown version 1.0β22 -->

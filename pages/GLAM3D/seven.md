@@ -125,7 +125,7 @@ Publishing images, animations, and video derived from 3D models can be a helpful
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
-(_target_)
+
 
 
 **360 “Turntable” Animated GIFs**
