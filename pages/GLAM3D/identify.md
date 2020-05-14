@@ -20,7 +20,7 @@ Once a pool of cultural resources has been identified for digitization, the phys
 
 Generally speaking, digitization will be more complex (or indeed impossible) for objects that are highly reflective, too fragile to safely rotate in order to capture all sides in a scan, or feature extremely fine elements like hair or feathers.
 
-Refer to the Appendix section “Common 3D Capture and 3D Creation Techniques and Software” for details on applications and limitations of different capture technologies. The following examples cover a range of hypothetical 3D digitization subjects and possible capture techniques dictated by the physical properties of the subject. In addition to digital capture technologies, a 3D artist could be used to create a 3D model of the object. It may also be assumed that for any of the following subjects, a 3D model could be created by a 3D artist who might use the physical cultural resource (and existing media thereof) as a reference.
+Refer to the Appendix section [Common 3D Capture and 3D Creation Techniques and Software](/appendix.html#3d_capturee_and_3d_creation_techniques_and_software) for details on applications and limitations of different capture technologies. The following examples cover a range of hypothetical 3D digitization subjects and possible capture techniques dictated by the physical properties of the subject. In addition to digital capture technologies, a 3D artist could be used to create a 3D model of the object. It may also be assumed that for any of the following subjects, a 3D model could be created by a 3D artist who might use the physical cultural resource (and existing media thereof) as a reference.
 
 A summary table is provided for quick reference, with more detailed notes beneath:
 
@@ -514,7 +514,7 @@ Once the period of protection for a work has expired, it enters the public domai
 
 Digitizing an in-copyright work without permission will likely infringe on the rights of the copyright holder. In light of this, it may be wise to begin digitization with works that are already in the public domain.
 
-For works already in the public domain, there have been questions as to whether the act of digitizing a cultural resource that is in the public domain creates a copyright in the “new” digital copy. The United States courts have been reluctant to recognize a new copyright interest in a digitized public domain cultural resource.[^49] As of this writing, the treatment of digitized public domain works in the EU is more varied.[^50] However, the new Article 14 of the EU Copyright Directive[^51] appears to move away from endorsing the idea of granting a new copyright interest in the digitization of public domain works (specifically works of visual art). National implementation of this directive will clarify some of the specific rules around digital versions of public domain objects. Section 7.7 suggests using licensing best practices to further clarify that the digitizing institution neither has nor claims additional legal rights to the digitized cultural artifact.
+For works already in the public domain, there have been questions as to whether the act of digitizing a cultural resource that is in the public domain creates a copyright in the “new” digital copy. The United States courts have been reluctant to recognize a new copyright interest in a digitized public domain cultural resource.[^49] As of this writing, the treatment of digitized public domain works in the EU is more varied.[^50] However, the new Article 14 of the EU Copyright Directive[^51] appears to move away from endorsing the idea of granting a new copyright interest in the digitization of public domain works (specifically works of visual art). National implementation of this directive will clarify some of the specific rules around digital versions of public domain objects. [Section 7.7](/disseminate.html#77-legal-infrastructure) suggests using licensing best practices to further clarify that the digitizing institution neither has nor claims additional legal rights to the digitized cultural artifact.
 
 
 
@@ -522,7 +522,7 @@ For works already in the public domain, there have been questions as to whether 
 
 In addition to the digitized cultural artifact itself, many institutions will make para- and metadata about the object available to the public. This metadata may include straightforward technical information, such as the work’s dimensions, year of creation, or physical location in the institution itself. It may also include more nuanced information, such as prose written by a curator providing context and background information.
 
-As a general matter, individual pieces of technically descriptive information—facts about an individual cultural object—will not be protected by copyright.[^52] In contrast, written descriptions and other prose-based context will be protected by copyright.[^53] Section 7.4 suggests licensing best practices for this type of information.
+As a general matter, individual pieces of technically descriptive information—facts about an individual cultural object—will not be protected by copyright.[^52] In contrast, written descriptions and other prose-based context will be protected by copyright.[^53] [Section 7.4](/disseminate.html#74-publish-derivative-content) suggests licensing best practices for this type of information.
 
 
 
@@ -532,7 +532,7 @@ Although copyright is often the first legal consideration for Open Access digiti
 
 In doing so, it is important to avoid the temptation of the “easy no.” When digitizing large numbers of physical items, it can be easy to imagine edge scenarios where some specific use of the digitized version of the item could violate a law or right (e.g., “what if someone took a digitized version of this crown, created a replica, and tried to pass themselves off as a monarch?”). When faced with this possibility, it can be tempting to broadly exclude categories of works from a digitization program. Avoid this trap by fully articulating the nature of the concern. Also, explore if the concern is specific to 3D models. In many cases the same concern could, at least in theory, be applied to 2D images as well. If your institution is comfortable making 2D images of an object available to the public, in most cases it should also be comfortable making 3D versions available as well.
 
-Finally, in many cases, including a disclaimer that indicates that the files are being released to be used “for any lawful purpose” can address some of these concerns from the perspective of the institution. These types of disclaimers are discussed in Section 7.7.1.1.
+Finally, in many cases, including a disclaimer that indicates that the files are being released to be used “for any lawful purpose” can address some of these concerns from the perspective of the institution. These types of disclaimers are discussed in [Section 7.7.1.1](/disseminate.html#7711-legal-agreements).
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
