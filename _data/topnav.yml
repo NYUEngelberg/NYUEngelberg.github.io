@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: About GLAM 3D
-      url: /about
+      url: /about.html
     - title: About the Engelberg Center
       external_url: https://www.law.nyu.edu/centers/engelberg
 
