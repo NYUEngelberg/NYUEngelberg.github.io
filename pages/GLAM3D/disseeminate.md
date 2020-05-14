@@ -5,7 +5,7 @@ sidebar: glam3D_sidebar
 permalink: disseminate.html
 
 ---
-##    [7.1. Review Goal-Setting](#review_goal-setting)
+##    7.1. Review Goal-Setting
 
 At this stage of a project, when the 3D models have been produced, documented, and archived locally, there is a natural break in activity, which presents an opportunity to review the goals that have been previously set for your project.
 
@@ -13,9 +13,9 @@ Digitization projects can take a long time to complete and new examples of disse
 
 
 
-##    [7.2. Publish as Interactive 3D for Browsing Audiences](#publish_as_interactive_3d_for_browsing_audiences)
+##    7.2. Publish as Interactive 3D for Browsing Audiences
 
-As described in the “What is a 3D Model?” section, for an audience to truly experience a digital 3D model, it needs to be interactive. At a very basic level, this means an audience member must be able to turn or tumble a 3D model to view the model from different angles and zoom in and out to get a closer look or broader overview of the resource. While this was previously only possible via dedicated applications running on specialized hardware, thanks to modern web standards like WebGL, it is possible to offer proper 3D interactive experiences in any modern browser. That means the model is accessible to all users, even those without the technical expertise to use their own 3D modeling software.
+As described in the [What is a 3D Model?](/what_is_a_3d_model.html) section, for an audience to truly experience a digital 3D model, it needs to be interactive. At a very basic level, this means an audience member must be able to turn or tumble a 3D model to view the model from different angles and zoom in and out to get a closer look or broader overview of the resource. While this was previously only possible via dedicated applications running on specialized hardware, thanks to modern web standards like WebGL, it is possible to offer proper 3D interactive experiences in any modern browser. That means the model is accessible to all users, even those without the technical expertise to use their own 3D modeling software.
 
 Ongoing technical developments—for example, in the smartphone and head-mounted display industries—make it easier than ever to offer different kinds of 3D model-based experiences. 3D models can be manipulated on screen via a mouse and keyboard or a touchscreen interface, as well as via the more physically engaging interactions of virtual and augmented reality.
 
@@ -37,7 +37,7 @@ In this manner, it is possible to create interactive 3D tours of digitized cultu
 
 
 
-###        [7.2.1. Notes on Digital Display](#notes_on_digital_display)
+###        7.2.1. Notes on Digital Display
 
 The same 3D model can generally be displayed using different 3D viewing software (often referred to as a _3D viewer_). 3D viewing software is different from 3D editing software (often referred to as a _3D editor_) in that the primary purpose or functionality is to simply display 3D data on screen as opposed to editing or converting it in any significant way.
 
@@ -62,13 +62,13 @@ Each software reads the 3D data file(s) and displays it as pixels on the screen�
 
 
 
-###        [7.2.2. Choosing an Online 3D Viewer](#choosing_an_online_3d_viewer)
+###        7.2.2. Choosing an Online 3D Viewer
 
 Deciding on which 3D viewer you use to display your 3D models online will largely depend on your project goals, your organization’s policies for using third-party platforms, and capacity for ongoing technical support and development.
 
 
 
-####            [7.2.2.1. Self-Hosted Storage and Display Solutions](#self-hosted_storage_and_display_solutions)[^58]
+####            7.2.2.1. Self-Hosted Storage and Display Solutions[^58]
 Self storage and hosting can offer greater control over how our 3D models are presented (e.g., custom interfaces) and how people interact with and access them (e.g., only via your organization’s website). These benefits come at the expense of maintaining web servers and application code.
 
 * [3DHOP](http://vcg.isti.cnr.it/3dhop/)
@@ -79,7 +79,7 @@ Self storage and hosting can offer greater control over how our 3D models are pr
 
 
 
-####            [7.2.2.2. Hosted Storage and Display Solutions](#hosted_storage_and_display_solutions)
+####            7.2.2.2. Hosted Storage and Display Solutions
 
 Using a hosted 3D viewer service is the quickest route to interactive online publication for your 3D data. Generally, using a hosted 3D viewer will require uploading your data to third-party-owned web servers and agreement to platform-specific terms of use. Benefits of using a hosted storage and display solution include reduced technical and staff overheads for you and your organization, and dissemination of your 3D models to an existing, 3D literate community.
 
@@ -93,7 +93,7 @@ Using a hosted 3D viewer service is the quickest route to interactive online pub
 
 
 
-##  [7.3. Publish the 3D Data for Download](#publish_the_3d_data_for_download)
+##  7.3. Publish the 3D Data for Download
 
 Publishing a cultural resource as an interactive 3D model goes a long way to making 3D models findable and accessible. The next step is to make the 3D data available for download (hopefully alongside an interactive viewing experience). Published 3D data should be in an interoperable format—i.e., a 3D file that can be opened and edited in a piece of software. Publishing 3D data in an inaccessible format—for example, as a downloadable 3D PDF or self-contained app—is essentially a dead end for data re-use.
 
@@ -109,7 +109,7 @@ A managed approach in which an end user must, for example, request 3D data via e
 
 
 
-##    [7.4. Publish Derivative Content](#publish_derivative_content)
+##    7.4. Publish Derivative Content
 
 Publishing images, animations, and video derived from 3D models can be a helpful complement to the 3D data or viewer itself. Using media and media platforms that audiences are more familiar with can be an enticing gateway to engaging with the 3D data itself. Some examples:
 
@@ -140,18 +140,18 @@ Publishing images, animations, and video derived from 3D models can be a helpful
 
 
 
-##    [7.5. Availability and Findability](#availability_and_findability)
+##    7.5. Availability and Findability
 
 Publishing the 3D data online in any form does not signify the end of an Open Access digitization project. An element of promotion and making the invitation to re-use 3D data clear to target audiences is essential to increase engagement with any Open Access program. Some select considerations for publishing your 3D outputs are laid out below. For guidelines to improve the findability, accessibility, interoperability, and re-use of any kind of digital assets, consider reviewing the [FAIR Principles](https://www.go-fair.org/fair-principles/).
 
 
 
-###        [7.5.1. SEO](#seo)
+###        7.5.1. SEO
 Good search engine optimization (SEO) of web pages featuring your 3D models will help people discover your project online. If somebody performs a web search for “[your organization name] Open Access” or “[term related to cultural resource] 3D model” (as two basic examples), they should be pointed in the right direction.
 
 
 
-###        [7.5.2. Data Interfaces/APIs](#data_interfaces_apis)
+###        7.5.2. Data Interfaces/APIs
 Making your data available via both human and machine interfaces—that is to say browsable web pages as well as APIs—allows for different forms of engagement. The former caters to individuals and individuals presenting your work to a group (e.g., teachers presenting to a classroom of students); the latter can plug your cultural 3D data into entire digital platforms and get it in front of potentially massive 3D-oriented communities.
 
 ![Screenshot of the Sketchfab - Spark API integration](images/sketchfab_facebook_api.png "Screenshot of the Sketchfab - Spark API integration")
@@ -164,13 +164,13 @@ Making your data available via both human and machine interfaces—that is to sa
 
 [Google Poly API](https://developers.google.com/poly/develop/api)
 
-##    [7.6. Active Promotion](#active_promotion)
+##    7.6. Active Promotion
 
 Once 3D data has been published, it should be a priority to advocate for its re-use by colleagues within your GLAM organization as much as by your target audiences. Teach people how 3D models can be embedded in object collection pages, exhibition marketing, in-gallery interactive—wherever it’s relevant. Make a special effort to support marketing and social media teams in understanding how they can draw on 3D model resources to create engaging content tailored for audiences where they already exist—i.e., digital newsletters, blog articles, and social media platforms.
 
 
 
-###        [7.6.1. Partnerships](#partnerships)
+###        7.6.1. Partnerships
 
 Any strategy for disseminating 3D content online should define basic partner platforms to help deliver the same 3D content in as many ways as possible. Different online platforms offer varying functionality and often cater to specific audiences and choosing the right platforms.
 
@@ -199,19 +199,19 @@ Some platforms to consider:
 *   [Wikimedia Commons](https://commons.wikimedia.org/) -
 “We’ve enabled a new feature that allows you to upload three-dimensional (3D) models.”
 
-##    [7.7. Legal Infrastructure](#legal_infrastructure)
+##    7.7. Legal Infrastructure
 
 It is critical to include legal information about digitized cultural assets to users. Without this information, users will be unable to make full use of digitized assets.
 
 
 
-###        [7.7.1. Licensing Best Practices (Digitizations of Cultural Objects)](#licensing_best_practices_digitizations_of_cultural_objects)
+###        7.7.1. Licensing Best Practices (Digitizations of Cultural Objects)
 
-As described in Section 5.3, many jurisdictions do not—or soon may not—recognize an additional copyright interest in digitizations. As a result, in many cases—although certainly not all—digitizing institutions will not have a copyright interest in the digital file that represents a cultural object. In light of this ambiguity, institutions should use licenses to clarify how users may make use of files included in Open Access initiatives.
+As described in [Section 5.3](/identify.html#navigating_copyright_and_the_public_domain), many jurisdictions do not—or soon may not—recognize an additional copyright interest in digitizations. As a result, in many cases—although certainly not all—digitizing institutions will not have a copyright interest in the digital file that represents a cultural object. In light of this ambiguity, institutions should use licenses to clarify how users may make use of files included in Open Access initiatives.
 
 
 
-####            [7.7.1.1. Legal Agreements](#legal_agreements)
+####            7.7.1.1. Legal Agreements
 
 The current best practice is to use the [Creative Commons CC0 mark](https://creativecommons.org/share-your-work/public-domain/cc0/) on all Open Access digitized objects. The CC0 mark is designed to waive any copyright interest jurisdictions may grant your institution in the digitizations themselves. This includes the jurisdiction where your institution is based, as well as jurisdictions where your user may be based. Using the CC0 mark makes it clear to all users that the digitizing institution does not claim additional legal rights in a digitized object in the relatively unlikely event that those rights do exist.
 
@@ -225,7 +225,7 @@ Institutions should also avoid the impulse to impose additional restrictions on 
 
 
 
-####            [7.7.1.2. Non-Legal Indicators](#non-legal_indicators)
+####            7.7.1.2. Non-Legal Indicators
 
 While it is not best practice to impose legal restrictions on the use of digitized cultural objects, it is acceptable to make non-binding requests of those users. This is especially true in the case of restrictions—such as a requirement of attribution—that the institution is unlikely to actively enforce through legal mechanisms. It is critical that the institution makes it clear that it understands these requests to be non-binding, and not to cloak them in quasi-legal language or presentation styles.
 
@@ -235,21 +235,21 @@ These best practices have generally been developed for cultural objects in the p
 
 
 
-###        [7.7.2. Licensing Best Practices (Metadata and Descriptions)](#licensing_best_practices_metadata_and_descriptions)
+###        7.7.2. Licensing Best Practices (Metadata and Descriptions)
 
-Section 5.3 explains that digitizing institutions may have more legal rights in information such as metadata and descriptions of digitized cultural objects than digitized versions of the objects themselves. Nonetheless, it is best practice for digitizing institutions to license all metadata and descriptions using the CC0 license.
+[Section 5.3](/identify.html#navigating_copyright_and_the_public_domain) explains that digitizing institutions may have more legal rights in information such as metadata and descriptions of digitized cultural objects than digitized versions of the objects themselves. Nonetheless, it is best practice for digitizing institutions to license all metadata and descriptions using the CC0 license.
 
 Other permissive licensing structures (such as the attribution requirement of a CC BY license) can create unintended challenges for downstream users of metadata and descriptions. Metadata and descriptions will often be used in large-scale analysis or other data-driven investigations. Determining the proper way to comply with even a seemingly straightforward attribution requirement in a CC BY license can present disproportionate challenges to users, discouraging the types of uses you may hope to encourage.
 
 As with the digitized objects themselves, nothing in the use of CC0 prevents the digitizing institution from requesting attribution or feedback on re-use. The difference between a request and a legally binding demand increases the amount of flexibility available to the user.
 
 
-###        [7.7.3. Presenting Legal and Quasi-Legal Language](#presenting_legal_and_quasi-legal_language)
+###        7.7.3. Presenting Legal and Quasi-Legal Language
 
 Institutions should strive to present legal and legal-adjacent information in as approachable a manner as possible, and to streamline its presentation to the public. While licenses, warranties, and requests are important, they can also be intimidating to users without a background in legal text. The mere presence of “legalese” can act as a barrier for perfectly legitimate uses. Successful Open Access projects are inviting to users. While it may feel like adding one additional clause to address an edge case is responsible stewardship or lawyering, the cost of doing so may be reducing the types of engagement that motivate the initiative in the first place.
 
 
-###        [7.7.4. Cultural Labelling](#cultural_labeling)
+###        7.7.4. Cultural Labelling
 
 Many cultural objects have other considerations or cultural restrictions that are important to communicate to users. While these considerations and restrictions may not be legally binding, many users will benefit from being aware of them. Cultural sources may also be more supportive of digitization and dissemination efforts when they are accompanied by this type of information.
 

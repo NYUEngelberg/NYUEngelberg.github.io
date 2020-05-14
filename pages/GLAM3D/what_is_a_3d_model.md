@@ -6,7 +6,7 @@ permalink: what_is_a_3d_model.html
 
 ---
 
-##    [3.1. Introduction to 3D Models](#introduction_to_3d_models)
+##    3.1. Introduction to 3D Models
 
 In the simplest terms, a 3D model is just another kind of image: a way to show something to another person who is geographically or temporally removed from the original, physical cultural resource.
 
@@ -56,7 +56,7 @@ A more in-depth look at the anatomy of 3D files can be found in the “Anatomy o
 
 
 
-###        [3.1.1. Creating 3D Models](#creating_3d_models)
+###        3.1.1. Creating 3D Models
 
 This section includes some general guidance regarding commonly used 3D creation techniques. A more in-depth analysis of each technique can be found in the Appendix section “Common 3D Capture and 3D Creation Techniques and Software.”
 
@@ -154,37 +154,37 @@ While this paper exists because the authors believe a considered approach to 3D 
 
 
 
-###     [3.1.2. 3D Digitization Data Output Categories](#3d_digitization_data_output_categories)
+###     3.1.2. 3D Digitization Data Output Categories
 
 The production of a single 3D model can entail a large number and variety of digital files, all of which may be offered under Open Access for specific audiences. A broad overview of digital file categories follows.
 
 
 
-####            [3.1.2.1. Input Data](#input_data)
+####            3.1.2.1. Input Data
 
 Input data is the raw data captured at the initial digitization stage. For example, in a photogrammetry workflow, input data comprises digital images; in a laser scanning workflow, this would be the files output from the laser scanning hardware.
 
 
 
-####            [3.1.2.2. Project Files](#project_files)
+####            3.1.2.2. Project Files
 
 Most 3D production workflows entail some processing or cleaning of raw data inputs. Edited data will most likely be stored in a proprietary format designed to be opened by a single, specific piece of software.
 
 
 
-####            [3.1.2.3. Archival 3D Data](#archival_3d_data)
+####            3.1.2.3. Archival 3D Data
 
 Archival 3D data are the highest quality and fidelity output files from a given digitization scenario, intended to be accessible and readable in perpetuity. This data is likely of most use to expert audiences, including internal personnel responsible for collection management. Recommended archival 3D file formats for cultural heritage projects include X3D, U3D, PLY, DAE, OBJ, and STL.[^35]
 
 
 
-####            [3.1.2.4. Derivative 3D Data](#derivative_3d_data)
+####            3.1.2.4. Derivative 3D Data
 
 Derivative 3D data are 3D models derived from the archival 3D data, most likely simplified in some way and converted to other 3D file formats to facilitate quick and easy access and re-use as part of an Open Access offering for wider audiences.
 
 
 
-####            [3.1.2.5. Metadata and Paradata](#metadata_and_paradata)
+####            3.1.2.5. Metadata and Paradata
 
 For all of the previous types of data, it is useful to provide additional context to what the 3D data is (metadata) and how it was captured or created and processed (paradata).
 

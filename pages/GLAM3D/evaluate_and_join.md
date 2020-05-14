@@ -5,7 +5,7 @@ sidebar: glam3D_sidebar
 permalink: evaluate_and_join.html
 
 ---
-## [8. Evaluate](#evaluate)
+## 8. Evaluate
 
 Ongoing evaluation must be a key element of your Open Access program. Once it has successfully launched, schedule time to review what worked and what did not work, and to document unexpected challenges. Review your original goals in light of your experience and refine them for the future.
 
@@ -13,7 +13,7 @@ Finally, do not keep that evaluation to yourself. The Open Access community embr
 
 
 
-## [9. Join The Community](#join_the_community)
+## 9. Join The Community
 
 Open Access for 3D collections is experiencing a formative moment. It has the benefit of building on the accumulated knowledge of 2D digitization and the broader Open Access community. A handful of leaders have begun to blaze a trail forward to help define what Open Access can mean for 3D cultural objects.
 
