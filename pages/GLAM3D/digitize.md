@@ -6,7 +6,7 @@ permalink: digitize.html
 
 ---
 
-##    [6.1. 3D Scanning](#3d_scanning)
+##    6.1. 3D Scanning
 
 This section will provide you with best practices for 3D digitization. It will not suggest a single workflow because there is no universal workflow for capturing cultural resources in 3D. Most resources are unique in size, shape, material, handling guidelines, accessibility, and portability. Most GLAM organizations and digitization projects are unique in their staffing, funding, goals, and audiences.
 
@@ -16,7 +16,7 @@ Instead of searching for a single 3D digitization solution, it is more practical
 
 
 
-###        [6.1.1. Do Your Research](#do_your_research)
+###        6.1.1. Do Your Research
 Spending time to research existing workflows, case studies, and advice will save you time in the long run. Read academic papers but also visit or subscribe to specialized blogs and forums, and follow experts and amateurs alike on social media. Piece together a knowledge base that is suitable to your goals before you begin and make a note of resources you feel will be valuable to revisit later. Don’t be afraid to reach out to colleagues, manufacturers, and software developers directly for specific advice—it can save you hours of searching and maybe even some money too.
 
 Below are a few online communities you may wish to consider joining, as well as a general reading list:
@@ -56,20 +56,20 @@ Below are a few online communities you may wish to consider joining, as well as 
 
 
 
-###        [6.1.2. Capture the Best Result You Can And Work Transparently](#capture_the_best_result_you_can_and_work_transparently)
+###        6.1.2. Capture the Best Result You Can And Work Transparently
 
 No matter how well resourced and organized, your 3D digitization project will likely be limited in some way. The equipment and time available to you will largely dictate the resolution and fidelity of your 3D output. Be transparent about those limitations to your users. Publishing lower-resolution and even incomplete 3D scans is fine as long as you also make it clear to audiences what it is they are viewing and how it was made.
 
-###   [6.1.3. Document Your Process As Thoroughly As Possible](#document_your_process_as_thoroughly_as_possible)
+###   6.1.3. Document Your Process As Thoroughly As Possible
 
 Following on from the previous point, and to re-assert the importance of meta- and paradata, record the details of your digitization and post-production process as much as possible. From the moment you begin your work, make note of the equipment you are using, decisions you are making, and the circumstances of the capture environment. Continue to document decisions made during processing and post-production and aim to publish this information at the same time as the 3D models.
 
-###   [6.1.4. Plan For Mistakes And Technical Issues](#plan_for_mistakes_and_technical_issues)
+###   6.1.4. Plan For Mistakes And Technical Issues
 
 Things don’t always go according to plan, but you can prepare your workflow to cope with this. Give yourself more time than you need to conduct digitization. Plan extra and backup digitization sessions. If you are new to a 3D digitization process, budget time to make tests and get familiar with your tools. Unless your work is highly specialized, you will no doubt find an answer online to any unexpected roadblocks you experience.
 
 
-### [6.1.5. Archive Input Data And Project Files As Well As Output 3D Data](#archive_input_data_and_project_files_as_well_as_output_3D_data)
+### 6.1.5. Archive Input Data And Project Files As Well As Output 3D Data
 
 In an ideal world, all the data that is captured and produced during digitization would be available and archived in a way that accords with best practices. While this can quickly run to terabytes of data, making input data and project files available means other people can verify and build on your work. It will also allow you to go back to make additional uses of your scanning efforts as new technology develops. Long-term data storage and security should be considered during your project planning.
 
@@ -77,9 +77,9 @@ Cultural sector collections management, digital asset management, and digital pr
 
 
 
-##  [6.2. Data Structures](#data_structures)
+##  6.2. Data Structures
 
-###        [6.2.1. Metadata and Paradata](#metadata_and_paradata)
+###        6.2.1. Metadata and Paradata
 
 Metadata related to 3D models of cultural resources includes information about the 3D file(s) and information regarding the cultural resource itself. The paradata explains how a 3D model was generated and details decisions that were made during this process. Meta- and paradata make a given 3D model more valuable and re-usable: If audiences better know what they are viewing or downloading, they are better able to understand it and incorporate it into their own plans.
 
@@ -107,7 +107,7 @@ What constitutes a complete metadata set and best practice for associating it wi
 
 Among the mature 3D digitization initiatives for cultural heritage, the [Smithsonian 3D Metadata Model](https://dpo.si.edu/blog/smithsonian-3d-metadata-model) offers one of the most complete attempts at defining a metadata scheme for cultural heritage 3D, based on extensive experience digitizing resources from multiple collections.
 
-###     [6.2.2. Data Files](#data_files)
+###     6.2.2. Data Files
 
 The input and project files that you offer under Open Access will vary depending on your capture, processing, and post-production methods. The output and derivative 3D files will also vary depending on your project goals.
 
@@ -150,7 +150,7 @@ Two newer open 3D interchange formats that support embedded animations, color ma
 
 Duplicating or exporting a 3D model in multiple formats will of course take more time and significantly increase data storage requirements. This effect is compounded if 3D models at multiple resolutions for each file format are required. One approach to mitigate such issues might be to produce and maintain high-resolution “master” projects and 3D models files, only creating derivatives as and when they are required, it being even better if this process can be automated.
 
-###     [6.2.3. Data Packages](#data_packages)
+###     6.2.3. Data Packages
 
 By deliberately choosing a combination of 3D file formats, data resolutions, and linked meta- and paradata, it is possible to build “data packages” aimed at specific audiences. As part of digitization project planning, it is likely a good exercise to define target data packages and budgeting post-production resources to their preparation. If you are not sure of the best data package for your audience, it will behoove you to reach out to that audience before beginning digitization.
 

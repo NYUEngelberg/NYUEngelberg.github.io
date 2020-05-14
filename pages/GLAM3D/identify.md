@@ -14,7 +14,7 @@ This section will help you find answers to some of those questions.
 
 
 
-##    [5.1. Which Works Are Good Technical Matches with 3D Scanning?](#which_works_are_good_technical_matches_with_3D_scanning)
+##    5.1. Which Works Are Good Technical Matches with 3D Scanning?
 
 Once a pool of cultural resources has been identified for digitization, the physical properties of those resources will largely dictate the method of digitization, or even disqualify them from digitization.
 
@@ -230,7 +230,7 @@ Photogrammetry “focus stacking” workflow, x-ray CT.
 
 
 
-###        [5.1.2. Coin](#coin)
+###        5.1.2. Coin
 
 **Significant Characteristics:**
 Very small (less than 1 inch), highly detailed surface features, metallic, internal and external features.
@@ -268,7 +268,7 @@ Photogrammetry with polarized light + focus stacking workflow, structured light 
 
 
 
-###        [5.1.3. Mammal Bone](#mammal_bone)
+###        5.1.3. Mammal Bone
 
 **Significant Characteristics:**
 Very small (less than 1 inch) to medium size (a few feet), internal and external features, complex self-occluding forms.
@@ -307,7 +307,7 @@ Photogrammetry, structured light Scanning, x-ray CT.
 
 
 
-###        [5.1.4. Engraved Metal Platter](#engraved_metal_platter)
+###        5.1.4. Engraved Metal Platter
 **Significant Characteristics:**
 
 Metallic/shiny, fine surface detail, thin.
@@ -345,7 +345,7 @@ Photogrammetry with polarized light, structured light scanning, r-ray CT.
 
 
 
-###     [5.1.5. Glass Ornament](#glass_ornament)
+###     5.1.5. Glass Ornament
 
 **Significant Characteristics:**
 
@@ -386,7 +386,7 @@ Photogrammetry with polarized light + dulling spray, structured light scanning, 
 
 
 
-###        [5.1.6. Statue](#statue)
+###        5.1.6. Statue
 
 **Significant Characteristics:**
 
@@ -427,7 +427,7 @@ Photogrammetry, structured light scanning (depending on subject size), x-ray CT 
 
 
 
-###   [5.1.7. Building Interior and Exterior](#building_interior_and_exterior)       
+###   5.1.7. Building Interior and Exterior      
 
 **Significant Characteristics:**
 
@@ -467,7 +467,7 @@ Photogrammetry, LiDAR.
 ###### Technique: Photogrammetry.
 
 
-### [5.1.8. Performance](#performance)
+### 5.1.8. Performance
 
 **Significant Characteristics:**
 
@@ -487,7 +487,7 @@ We do not currently have a good example of an Open Access representation of a pe
 
 
 
-## [5.2. Cultural and Other Non-Legal Considerations](#cultural_and_other_non-legal_considerations)
+## 5.2. Cultural and Other Non-Legal Considerations
 
 There may also be non-legal factors to consider when selecting works to digitize and make available to the public.[^44] While these factors may vary widely depending on the nature of your collection, one factor to consider is how you can effectively propagate an awareness of the cultural context that created a work in the first place.
 
@@ -497,7 +497,7 @@ One innovative approach to cultural resources originating with indigenous commun
 
 
 
-##    [5.3. Navigating Copyright and the Public Domain](#navigating_copyright_and_the_public_domain)
+##    5.3. Navigating Copyright and the Public Domain
 
 Copyright status is another factor to consider when identifying cultural resources to make available to the public.[^46] Although copyright law varies from country to country, this section is intended to provide a working overview of the main concepts to consider. This should make it easier to coordinate with the legal department of your institution or outside legal experts to identify works unencumbered by copyright restrictions. In most cases, it will be easier to start working with items that are in the public domain, which means that their use is not restricted by copyright law.
 
@@ -509,7 +509,7 @@ Once the period of protection for a work has expired, it enters the public domai
 
 
 
-###        [5.3.1. Copyright in Digitized Objects](#copyright_in_digitized_objects)
+###        5.3.1. Copyright in Digitized Objects
 
 
 Digitizing an in-copyright work without permission will likely infringe on the rights of the copyright holder. In light of this, it may be wise to begin digitization with works that are already in the public domain.
@@ -518,7 +518,7 @@ For works already in the public domain, there have been questions as to whether 
 
 
 
-###        [5.3.2. Copyright in Metadata](#copyright_in_metadata)
+###        5.3.2. Copyright in Metadata
 
 In addition to the digitized cultural artifact itself, many institutions will make para- and metadata about the object available to the public. This metadata may include straightforward technical information, such as the work’s dimensions, year of creation, or physical location in the institution itself. It may also include more nuanced information, such as prose written by a curator providing context and background information.
 
@@ -526,7 +526,7 @@ As a general matter, individual pieces of technically descriptive information—
 
 
 
-###        [5.3.3. Other Legal Rights](#other_legal_rights)
+###        5.3.3. Other Legal Rights
 
 Although copyright is often the first legal consideration for Open Access digitization projects, the act of digitizing and releasing digital versions of objects in your collection can raise a number of other potential legal challenges. As noted earlier, objects may be encumbered by moral rights, cultural heritage laws, or other non-copyright-based restrictions on use. Your legal collaborators may be able to help you identify additional rules to be aware of when selecting works for digitization and dissemination.
 

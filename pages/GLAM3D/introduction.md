@@ -15,7 +15,7 @@ Amina’s story is the result of two powerful trends shaping the Galleries, Libr
 
 
 
-### [1.1 What This Paper Will Help You Achieve](#what_this_paper_will_help_you_achieve)
+### 1.1 What This Paper Will Help You Achieve
 
 This resource is designed to help you implement an Open Access program for the 3D digitization of cultural resources (e.g., human- and natural-made objects; events; and environments). In most cases, it assumes “you” are working at a GLAM institution and are interested in implementing a 3D Open Access program there. It provides you with the tools to identify technical and legal characteristics of cultural resources that will lend themselves to digitization. The paper describes the steps required to actually create these resources, helping you approach the digital content creation process with confidence. Finally, this paper will explain how you can launch a successful Open Access program, allowing the public to engage with digitized versions of the works in your collection at a broad scale.
 
@@ -25,7 +25,7 @@ Starting your digital content creation process with Open Access approaches and m
 
 
 
-### [1.2   How This Paper Is Structured](#how_this_paper_is_structured)
+### 1.2   How This Paper Is Structured
 
 This paper is designed to be both an introduction and reference to your digital 3D content creation process. An initial reading will give you a grounding in how to begin to approach your Open Access program. As you start to implement the program, this paper can serve as a reference to return to in order to understand specific points that suddenly become relevant.
 
@@ -38,38 +38,38 @@ At that point, the paper begins to focus on the process itself. These sections w
 The technology and practices related to Open Access 3D digital content creation and its release under Open Access principles are rapidly evolving. We hope to regularly update this paper and website in order to give you confidence that the information you are receiving is as relevant and timely as possible.
 
 
-###    [1.3. How to Approach Your Open Access Program](#how_to_approach_your_open_access_program)
+###    1.3. How to Approach Your Open Access Program
 
 Your Open Access program involves a number of steps. Each of the steps summarized below is explored more fully in its corresponding section.[^2]
 
 
 
-####        [1.3.1. Set Goals](#set_goals)
+####        1.3.1. Set Goals
 
 Identify the key objectives, routes to, and measure of success for your 3D digital content creation and publishing project. This includes identifying potential users and those users’ needs. Creating and distributing 3D digital content involves a number of choices and tradeoffs. Having concrete goals will help you evaluate your options and make decisions to match your intended outcomes. When setting goals, be sure to keep in mind the distinction between project outputs (e.g., “X number of 3D models published online”) and outcomes (e.g., “Increased engagement with our organization’s online collection records”).
 
 
 
-####        [1.3.2. Identify](#identify)
+####        1.3.2. Identify
 
 Select cultural resources for digital content creation that align with your project goals and assess their suitability for digital 3D creation methods based on technical, legal, and ethical grounds.
 
 
 
-####        [1.3.3. Digitize](#digitize)
+####        1.3.3. Digitize
 
 Create digital content of the cultural resource in 3D through born digital or digitization methods, record metadata, paradata, structured data, and document the process openly.[^3]
 
 
 
-####        [1.3.4. Disseminate](#disseminate)
+####        1.3.4. Disseminate
 
 Deliver the output 3D files to your identified audience in the best way possible. This includes making the files viewable to users and making various versions of the files available to users, as well as associated para and metadata about the object, the files, and provenance for both.  \
 
 
 
 
-####        [1.3.5. Evaluate](#evaluate)
+####        1.3.5. Evaluate
 
 Having established goals and implemented the Open Access program, it is time to reflect upon what worked, what did not, and what is left to do. Whenever possible, this evaluation should be shared publicly and with open licenses to the wider Open GLAM sector so that others can learn from your successes.
 
