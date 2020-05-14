@@ -216,14 +216,17 @@ Photogrammetry “focus stacking” workflow, x-ray CT.
 ###### Technique: Photogrammetry + [Focus Stacking](https://en.wikipedia.org/wiki/Focus_stacking)
 
 
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/e302b32112bd4ae3aa503468d7440492/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/ligia-e302b32112bd4ae3aa503468d7440492?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Ligia</a>
+        by <a href="https://sketchfab.com/fishguy?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">fishguy</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text6.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/Lock-Text6.png "image_tooltip")
-
-
-[Pheidole lucida queen](https://sketchfab.com/models/c35bce7a8efb4bf5b852654b15931cf7) by [Economolab, JP](https://sketchfab.com/arilab)—x-ray CT scan to surface model.
+###### Technique: X-ray CT scan to surface model.
 
 
 
@@ -252,14 +255,16 @@ Photogrammetry with polarized light + focus stacking workflow, structured light 
 ###### Technique: Photogrammetry
 
 
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/48e52062e37d4a6194a36f76f6eb959f/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/dupondius-doctave-a-la-tete-de-belier-48e52062e37d4a6194a36f76f6eb959f?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Dupondius d&#39;Octave à la tête de bélier</a>
+        by <a href="https://sketchfab.com/museesaintraymond?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Musée Saint-Raymond</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text8.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text8.png "image_tooltip")
-
-
-[Silver Denarius | Silberdenar](https://sketchfab.com/models/34a498eb7df2491ba8a3ba5186df86f0) by [LAD BW, DE](https://sketchfab.com/ladbw)—structured light scanning.
+###### Technique: structured light scanning.
 
 
 
@@ -289,15 +294,16 @@ Photogrammetry, structured light Scanning, x-ray CT.
 
 ###### Technique: X-ray CT to surface model
 
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/ce69bdef58a54fcea5aefa7ec266117a/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/thylacine-cynocephalus-skull-ce69bdef58a54fcea5aefa7ec266117a?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thylacine Cynocephalus skull</a>
+        by <a href="https://sketchfab.com/CDHR_ANU?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Centre for Digital Humanities Research</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text10.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text10.png "image_tooltip")
-
-
-[Mary Rose carpenter’s skull](https://sketchfab.com/models/4b1ad3107de049f6af2c6d77f0113b56) by [MaryRose@SwanseaUniversity, UK](https://sketchfab.com/ncoa)—photogrammetry.
+###### Technique: Photogrammetry.
 
 
 
@@ -315,28 +321,27 @@ Photogrammetry with polarized light, structured light scanning, r-ray CT.
 
 **Examples:**
 
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text11.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text11.png "image_tooltip")
-
-
-[Copy of the Temperance Basin](https://sketchfab.com/models/a506e2a0307e4d589c9c6f8e74846d58) by [The V&A Museum, UK](https://sketchfab.com/vamuseum)—structured light scanning.
-
-
-
 <div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/9d2c9b89148d4de6a173339b4a20a052/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/7aae42d34c45432391eeae1a6b4069cb/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-        <a href="https://sketchfab.com/3d-models/metal-platter-9d2c9b89148d4de6a173339b4a20a052?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Metal Platter</a>
-        by <a href="https://sketchfab.com/santacruzmah?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Santa Cruz Museum of Art and History</a>
+        <a href="https://sketchfab.com/3d-models/bowl-7aae42d34c45432391eeae1a6b4069cb?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Bowl</a>
+        by <a href="https://sketchfab.com/varldskulturmuseerna?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Världskulturmuseerna</a>
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
 
-###### Technique: Photogrammetry
+###### Technique: Structured light scanning.
+
+
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/97575b982f5944baa0c9062d8107a983/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/decorative-battle-axe-97575b982f5944baa0c9062d8107a983?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Decorative Battle Axe</a>
+        by <a href="https://sketchfab.com/ArmsMuseum?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Arms Museum</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
 
 
 
@@ -356,24 +361,28 @@ Photogrammetry with polarized light + dulling spray, structured light scanning, 
 
 **Examples:**
 
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/54d983443b164650b3482ded09f62e34/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/machine-made-glass-bottle-redone-54d983443b164650b3482ded09f62e34?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Machine-Made Glass Bottle (redone)</a>
+        by <a href="https://sketchfab.com/mhoots23?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">mhoots23</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
+###### Technique: Laser scanning + dulling spray.
 
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text13.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/49be84870371410781845ff53d36c018/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/blue-glass-bead-with-eye-decoration-t-051-49be84870371410781845ff53d36c018?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Blue glass bead with &#39;eye&#39; decoration, T 051</a>
+        by <a href="https://sketchfab.com/Limerick3D?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Limerick3D</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-
-![alt_text](images/Lock-Text13.png "image_tooltip")
- \
-[Blaschka "Football Sea Squirt" (CT & Photos)](https://sketchfab.com/models/321092996865487eae77bf232b7f3f7d) by [ARC-3D](https://sketchfab.com/ARC-3D)—[Peter Fried, US](https://sketchfab.com/ARC-3D)—x-ray CT and photogrammetry.
-
-
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text14.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text14.png "image_tooltip")
-
-
-[Roman Glass Vase](https://sketchfab.com/models/92621c63c8a047d2aa879ac927b12687) by [Art History in 3D at the University of Miami, US](https://sketchfab.com/umiamiarh)—photogrammetry.
+###### Technique: Photogrammetry.
 
 
 
@@ -393,25 +402,28 @@ Photogrammetry, structured light scanning (depending on subject size), x-ray CT 
 
 **Examples:**
 
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/ff3dd192a81944a0a93a54beb8a7a27f/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/1952513-head-of-amenhotep-iii-ff3dd192a81944a0a93a54beb8a7a27f?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">1952.513 Head of Amenhotep III</a>
+        by <a href="https://sketchfab.com/clevelandart?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cleveland Museum of Art</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
+###### Technique: Photogrammetry.
 
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text15.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/50f50abf45414ad8a658325df7a5fcb3/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/discobolus-the-discus-thrower-50f50abf45414ad8a658325df7a5fcb3?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Discobolus (The Discus Thrower)</a>
+        by <a href="https://sketchfab.com/smkmuseum?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">SMK – National Gallery of Denmark</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
+###### Technique: Structured light scanning.
 
-![alt_text](images/Lock-Text15.png "image_tooltip")
-
-
-[Maternal affection](https://sketchfab.com/models/fcbd7acf26814169a5bd3a6ca9cb2003) by [Fitzwilliam Museum, UK](https://sketchfab.com/fitzwilliammuseum)—structured light scanning.
-
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text16.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text16.png "image_tooltip")
-
-
-[Statue of A’a](https://sketchfab.com/models/e4dd6d342fa044b99732b484985797b6) by [The British Museum, UK](https://sketchfab.com/britishmuseum)—photogrammetry.
 
 
 
@@ -471,15 +483,7 @@ Photogrammetry, structured light scanning (for the performer), motion capture (f
 
 **Example:**
 
-
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text19.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text19.png "image_tooltip")
-
-
-[新莊地藏庵頭前庄官將首：喊班 (Xinzhuang Jizo head in front of Zhuang officials: shouting class)](https://sketchfab.com/models/14b63c40815d4ceebe4e88852961d5cb) by [中國科大數媒系─表演捕捉與動畫科技研究室 (Department of Digital Media, University of Science and Technology of China-Performance Capture and Animation Technology Research Lab)](https://sketchfab.com/CuteDmd-MocapLab)—3D modeling, motion capture.
+We do not currently have a good example of an Open Access representation of a performance. Please email engelberg.center@nyu.edu to suggest one.
 
 
 
