@@ -52,13 +52,13 @@ Another common type of 3D model is the point cloud. Instead of representing a ph
 
 Both surface model and point cloud files can also include color data that is either captured as part of the 3D digitization process or authored as part of data post processing or during a 3D modeling workflow.
 
-A more in-depth look at the anatomy of 3D files can be found in the “Anatomy of a 3D Model” section in the Appendix.
+A more in-depth look at the anatomy of 3D files can be found in the [Anatomy of a 3D Model](/appendix.html#ii-anatomy-of-a-3d-model) section in the Appendix.
 
 
 
 ###        3.1.1. Creating 3D Models
 
-This section includes some general guidance regarding commonly used 3D creation techniques. A more in-depth analysis of each technique can be found in the Appendix section “Common 3D Capture and 3D Creation Techniques and Software.”
+This section includes some general guidance regarding commonly used 3D creation techniques. A more in-depth analysis of each technique can be found in the Appendix section [Common 3D Capture and 3D Creation Techniques and Software](/appendix.html#3d_capturee_and_3d_creation_techniques_and_software).
 
 Broadly speaking, creating a 3D model of a cultural resource will entail either a 3D digitization or 3D modeling workflow. The former uses a chain of equipment and software to capture a cultural resource’s likeness in 3D; the latter typically involves a 3D artist or designer building a 3D reconstruction or illustration of the same.
 
@@ -192,7 +192,7 @@ Recording and exposing detailed technical information that describes how a cultu
 
 A few 3D file formats allow for additional text data to be embedded within the file itself. However, the varied software and platform support for metadata embedded in a 3D file combined with the ease with which a 3D file can be edited make this a somewhat unreliable method.
 
-A more common and robust way to save or supply metadata is as an external text file, web page or database entry that can be provided alongside a 3D model at the moment of end user interaction with the 3D data. Refer to Section 6.2 on Data Structures for further information.
+A more common and robust way to save or supply metadata is as an external text file, web page or database entry that can be provided alongside a 3D model at the moment of end user interaction with the 3D data. Refer to [Section 6.2](/digitize.html#62-data-structures) on Data Structures for further information.
 
 If it is technically possible and practical to both embed metadata and paradata in a 3D file and provide links to permanent external records, this increases the chances of contextual information about a 3D model remaining linked to it as it is downloaded, re-used, and remixed.
 
