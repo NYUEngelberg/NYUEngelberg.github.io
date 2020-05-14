@@ -59,11 +59,6 @@ On February 25, 2020, the Smithsonian took an important step to include 3D model
 
 A 3D model primarily differs from a 2D image by the addition of an extra dimension. Pixels in a digital 2D image exist on an X and Y axis (left and right, up and down), pixels in a 3D model can exist on these planes but also the Z axis, (forward and backward/closer and farther away from the viewer).
 
-
-
-<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text27.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![2D perspective compared to 3D perspective](images/2dvs3d.png "2D perspective compared to 3D perspective")
 
 ###### Illustration of the difference between a 2D image and 3D model, [https://help.sketchfab.com/hc/en-us/articles/360017787651-Learning-3D-Part-I-Simple-geometry](https://help.sketchfab.com/hc/en-us/articles/360017787651-Learning-3D-Part-I-Simple-geometry).
@@ -106,7 +101,15 @@ Triangles, quads, and ngons are collectively referred to as **faces**.
 
 By joining and aligning 3D faces, we are able to begin describing 3D shapes from simple pyramids and cubes, all the way up to complex forms like statues, vases, skulls, entire buildings, land masses, etc. These joined up faces are referred to as the **mesh**, **geometry**, or **surface** of a 3D model.
 
-Example: [AT 237 Harpoceras falciferum (Fossil ammonite)](https://sketchfab.com/models/004a3d0dea654f89a9814cd65053b449) by [3D Fossils GB](https://sketchfab.com/3dFossils).
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/229976b3db4646b39c44e57a7e3d8744/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/mammuthus-primigenius-blumbach-229976b3db4646b39c44e57a7e3d8744?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Mammuthus primigenius (Blumbach)</a>
+        by <a href="https://sketchfab.com/Smithsonian?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">The Smithsonian Institution</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
 
 As a general rule, the more vertices, edges, and faces used to describe a given cultural resource, the more accurately that form will be described in digital 3D. This is often referred to as the **resolution** or **fidelity** of a 3D model. As the resolution of a 3D model increases, so too does the file size and the computational power required to create, capture, and display it in real-time 3D.
 
@@ -118,6 +121,7 @@ As a general rule, the more vertices, edges, and faces used to describe a given 
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
+
 
 
 
@@ -143,6 +147,7 @@ One way to color a 3D mesh is to assign a color value to each individual vertex.
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
+
 
 
 
@@ -324,6 +329,20 @@ In the real world, understanding of the visible physical properties as described
 
 Just as in a museum environment, lighting can make a huge difference to how a cultural resource is visually presented, which in turn has an effect on how an object is understood by a viewer.[^90]
 
+
+![Unlit version of the Nefertiti bust](images/nefertiti_unlit.png "Unlit version of the Nefertiti bust")
+
+###### An unlit version of the Nefertiti bust by [AD&D 4D](https://sketchfab.com/3d-models/what-is-the-genuine-nefertiti-1295e14c5e634465aa2438004bb8886c) under a CC BY 4.0 license
+
+
+
+![Unlit version of the Nefertiti bust](images/nefertiti_lit.png "Unlit version of the Nefertiti bust")
+
+###### A version of the Nefertiti bust with lighting by [AD&D 4D](https://sketchfab.com/3d-models/what-is-the-genuine-nefertiti-1295e14c5e634465aa2438004bb8886c) under a CC BY 4.0 license
+
+
+...the same 3D scene with a simulated lighting environment.
+
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/1295e14c5e634465aa2438004bb8886c/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -332,18 +351,6 @@ Just as in a museum environment, lighting can make a huge difference to how a cu
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
-
-
-
-###### An unlit version of the Nefertiti bust
-
-
-
-<p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text45.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text45.png "image_tooltip")
-...the same 3D scene with a simulated lighting environment.
 
 
 
@@ -591,13 +598,15 @@ Typical subjects for a modeling workflow include inorganic structures, architect
 
 
 
-<p id="gdcalert47" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text46.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert48">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/4552d90409924583b1fadfc9953134cb/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/the-parthenon-rebuilt-4552d90409924583b1fadfc9953134cb?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">The Parthenon Rebuilt</a>
+        by <a href="https://sketchfab.com/mdzhang?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Myles Zhang</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-
-![alt_text](images/Lock-Text46.png "image_tooltip")
-
-
-[Bull Sand Fort, Humber Estuary, WW2](https://sketchfab.com/models/b731f4ef37f347b1adaf980d54b9d379) reconstruction by [Hannah Stamp (Rice)](https://sketchfab.com/hannahrice).
 
 
 
@@ -621,13 +630,15 @@ Texture painting makes use of the UV mapping color method described previously a
 
 
 
-<p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text47.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/e70e5e444e51422e902a65e4d4fe97f9/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/polychrome-relief-depiction-of-maat-e70e5e444e51422e902a65e4d4fe97f9?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Polychrome Relief Depiction of Ma&#39;at</a>
+        by <a href="https://sketchfab.com/IPCH_Yale?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">IPCH Digitization Lab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-
-![alt_text](images/Lock-Text47.png "image_tooltip")
-
-
-[South Cross, Castledermot—polychromatic](https://sketchfab.com/models/c9c9b1d74d6945c2980a5f0481433b97) by [John McCarthy](https://sketchfab.com/JohnMccarthy).
 
 
 
@@ -648,15 +659,15 @@ Typical subjects for a sculpting workflow include organic forms, animals, plants
 
 [ZBrush](https://pixologic.com/)
 
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/0b36d63fd4e44ab6b59088438d4da441/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/the-punishment-a-study-of-farnese-hercules-0b36d63fd4e44ab6b59088438d4da441?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">The Punishment- A study of Farnese Hercules</a>
+        by <a href="https://sketchfab.com/DeepakCC?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Deepak C C</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-
-<p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text48.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text48.png "image_tooltip")
-
-
-[Buddha Statue Hand Studies](https://sketchfab.com/models/28bbbcdc75d44f50aea6b57ab124ef6f) by [boonie4dee](https://sketchfab.com/booni4dee).
 
 
 
@@ -678,13 +689,15 @@ A voxel workflow can be used to create 3D representations of most subjects. but 
 
 
 
-<p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text49.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/d6f8fae36f99455380593507dcce85ab/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/gumusler-monastery-d6f8fae36f99455380593507dcce85ab?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Gumusler Monastery</a>
+        by <a href="https://sketchfab.com/sundai?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">sundai</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-
-![alt_text](images/Lock-Text49.png "image_tooltip")
-
-
-[Digital Kids: Imagine, Build and Reveal, #1](https://sketchfab.com/models/2b9a66a39c464df2b4bfc64fc1ba64e7) by [V&A Digital Classroom](https://sketchfab.com/vandadigitalclassroom).
 
 
 

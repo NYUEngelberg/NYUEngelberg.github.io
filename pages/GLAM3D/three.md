@@ -70,19 +70,27 @@ By way of a simple example showing comparative outputs of digitization and 3D mo
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/5161d4ea1ae54ff793e38c84aeb0a4d9/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/relogio-lanterna-frances-french-lantern-clock-5161d4ea1ae54ff793e38c84aeb0a4d9?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Relógio Lanterna Francês | French Lantern Clock</a>
+        by <a href="https://sketchfab.com/carpetudo?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Morbase | Museu Virtual</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
+###### An example of a 3D output from a digitization workflow.
 
-![alt_text](images/Lock-Text3.png "image_tooltip")
-An example of a 3D output from a digitization workflow: Photogrammetric model of [villa room by Cotswold Archaeology](https://sketchfab.com/models/880e8668f49d4dbdb367def61fb4c41a).
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/645b243403404ec2bc6745a7bdcd0888/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/elizabethan-navigational-clock-compendium-645b243403404ec2bc6745a7bdcd0888?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">ELIZABETHAN NAVIGATIONAL CLOCK COMPENDIUM</a>
+        by <a href="https://sketchfab.com/Binkley-Piratepants?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Binkley-Spacetrucker</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text4.png "image_tooltip")
-A similar subject (an ancient Roman villa) as created via a 3D modeling workflow: Reconstruction—[Roman room in Londinium by Mieke Roth](https://sketchfab.com/models/627c75ee13334940ba42c51e87272714) for The British Museum.
+###### A similar subject as created via a 3D modeling workflow.
 
 Both methods of 3D production require a certain amount of practice to yield effective results (if you are undertaking the 3D production yourself), or commercial companies can be hired to do the work for you. The advice in this white paper is based on the assertion that building in-house capacity for 3D production is the better long-term strategy. Doing so will better enable the effective inclusion of 3D in every relevant aspect of your organization’s work, future proofing its capacity for media production. The proven maturity of audiences and use cases for 3D models makes setting up and staffing a 3D digitization program now as equally useful as investing in a 2D photography program.
 
