@@ -481,7 +481,7 @@ Photogrammetry, structured light scanning (for the performer), motion capture (f
 
 [新莊地藏庵頭前庄官將首：喊班 (Xinzhuang Jizo head in front of Zhuang officials: shouting class)](https://sketchfab.com/models/14b63c40815d4ceebe4e88852961d5cb) by [中國科大數媒系─表演捕捉與動畫科技研究室 (Department of Digital Media, University of Science and Technology of China-Performance Capture and Animation Technology Research Lab)](https://sketchfab.com/CuteDmd-MocapLab)—3D modeling, motion capture.
 
-(_target_)
+
 
 ## [5.2. Cultural and Other Non-Legal Considerations](#cultural_and_other_non-legal_considerations)
 

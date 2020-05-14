@@ -216,6 +216,3 @@ For further guidance regarding what kinds of metadata and paradata to collect an
 
 [^35]:
      _See_ _3D und Virtual Reality_, IANUS (November 22, 2016), [https://www.ianus-fdz.de/it-empfehlungen/3d](https://www.ianus-fdz.de/it-empfehlungen/3d); _see also_ Anas Alaoui M’Darhri et al., _Share - Publish - Store - Preserve. Methodologies, Tools and Challenges for 3D Use in Social Sciences and Humanities_, PARTHENOS (February 2019), [https://hal.archives-ouvertes.fr/hal-02155055/document](https://hal.archives-ouvertes.fr/hal-02155055/document); _see also_ _Guides to Good Practice_, Archeology Data Service, [https://guides.archaeologydataservice.ac.uk/g2gp/3d_3-2](https://guides.archaeologydataservice.ac.uk/g2gp/3d_3-2), last accessed April 16, 2020.
-
-
-<!-- Docs to Markdown version 1.0β22 -->

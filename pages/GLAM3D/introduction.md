@@ -85,6 +85,3 @@ Having established goals and implemented the Open Access program, it is time to 
 
 [^3]:
      The London Charter, see [http://www.londoncharter.org/](http://www.londoncharter.org/) and ReACH Technical Appendix, see [https://www.researchgate.net/publication/326776418_Technical_Appendix_ReACH_Declaration](https://www.researchgate.net/publication/326776418_Technical_Appendix_ReACH_Declaration) provide additional information about digitizing cultural objects.
-
-
-<!-- Docs to Markdown version 1.0β22 -->

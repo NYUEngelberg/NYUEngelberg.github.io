@@ -79,7 +79,7 @@ Knowing that we have three axes of movement, we can place a point in 3D space th
     </p>
 </div>
 
-(_target_)
+
 
 ###### Point cloud of St. Alfege Church
 
@@ -119,7 +119,7 @@ As a general rule, the more vertices, edges, and faces used to describe a given 
     </p>
 </div>
 
-(_target_)
+
 
 Deciding the output resolution for your 3D model should take into account the intended audience and destination for the data.
 
@@ -144,7 +144,7 @@ One way to color a 3D mesh is to assign a color value to each individual vertex.
     </p>
 </div>
 
-(_target_)
+
 
 
 
@@ -229,7 +229,7 @@ It is possible as part of the post-processing of a 3D model, however, to author 
 
 ...the model with a roughness map and lighting applied. Note the reflective highlight now apparent in the areas of gold leaf. The effect is even more apparent when viewed in 3D.
 
-(_target_)
+
 
 # [iii. Common Types of 3D Model](#common_types_of_3d_model)
 
@@ -306,7 +306,7 @@ The cross-sectional images can be used to generate **volumetric 3D data** —tha
     </p>
 </div>
 
-(_target_)
+
 
 
 ###        [iii.vi.ii. 3D Post-Production—Materials and Lighting](#3d_post_production_Materials_and_lighting)
@@ -333,7 +333,7 @@ Just as in a museum environment, lighting can make a huge difference to how a cu
     </p>
 </div>
 
-(_target_)
+
 
 ###### An unlit version of the Nefertiti bust
 
