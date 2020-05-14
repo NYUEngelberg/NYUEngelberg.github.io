@@ -2,7 +2,7 @@
 title: 8.  Evaluate and Join
 summary: some words for a summary
 sidebar: glam3D_sidebar
-permalink: eight.html
+permalink: evaluate_and_join.html
 
 ---
 ## [8. Evaluate](#evaluate)

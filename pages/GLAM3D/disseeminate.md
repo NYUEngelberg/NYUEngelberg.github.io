@@ -2,7 +2,7 @@
 title: 7.  Disseminate
 summary: some words for a summary
 sidebar: glam3D_sidebar
-permalink: seven.html
+permalink: disseminate.html
 
 ---
 ##    [7.1. Review Goal-Setting](#review_goal-setting)

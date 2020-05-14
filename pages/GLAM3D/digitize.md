@@ -2,7 +2,7 @@
 title: 6.  Digitize
 summary: some words for a summary
 sidebar: glam3D_sidebar
-permalink: six.html
+permalink: digitize.html
 
 ---
 
