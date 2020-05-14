@@ -764,7 +764,7 @@ Initially you can simply try running one or all of the suggested software applic
 
 ###        [v.i.iv. Publishing](#publishing)
 
-See the Choosing an Online 3D Viewer section for hosted and self-hosted options.
+See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-3d-viewer) section for hosted and self-hosted options.
 
 ## Notes
 
