@@ -9,7 +9,7 @@ entries:
     output: web, pdf
     folderitems:
       - title: Welcome to GLAM 3D
-        url: /GLAM3D_landing_page.html
+        url: /index.html
         output: web, pdf
 
       - title: 1.  Introduction
