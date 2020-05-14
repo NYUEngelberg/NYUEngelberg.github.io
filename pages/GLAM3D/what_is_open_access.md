@@ -18,31 +18,31 @@ The speed of digital content creation is fast and accelerating, and your organiz
 
 
 
-##    [2.1. What Are You Providing Access To?](#what_are_you_providing_access_to)
+##    2.1. What Are You Providing Access To?
 
 Your Open Access program provides access to various cultural resources. The nature of those resources depends on the defining characteristics, contexts, locations, and situations of your organization. Three categories of cultural resources, as conceived of and defined by the authors, are:
 
 
 
-###       [2.1.1. Events](#events)
+###       2.1.1. Events
 
 An event is an activated occurrence accomplished by humans, nature, or generative artificial intelligence. While these events happen in a specific time and place, they can be documented in a wide variety of ways, from written accounts, to photographs, to conceptual frameworks (e.g., CIDOC-CRM), to 3D digital content.
 
 
 
-###       [2.1.2. Environments](#environments)        
+###       2.1.2. Environments        
 
 An environment is a place, setting, site, or structure made and affected by human, natural, or computationally generative activity.
 
 
 
-###       [2.1.3 Objects](#objects)        
+###       2.1.3 Objects        
 
 An object is an intangible, such as a dance performed at a specific time and place, or tangible, such as a manuscript, manifestation with cohesive properties that may be animate or inanimate, made by humans, generative artificial intelligence, or nature. Objects exist in many forms and types. Documents, which are records that take a form in media, are included within the context of objects for this paper.
 
 
 
-##    [2.2. Consider Notions of Heritage with Cultural Resources](#consider_notions_of_heritage_with_cultural_resources)
+##    2.2. Consider Notions of Heritage with Cultural Resources
 
 When preparing to implement digital content production and Open Access programs, it is important to consider notions of heritage with respect to cultural resources. Heritage is a concept that for some may elicit celebration or pride and reflect on a sense of tradition, while for others, heritage is linked to problematic practices such as entitled inheritance, hypernationalism, patrimony, and provincialism.
 
@@ -52,7 +52,7 @@ Discerning ethical positions on heritage and cultural resources is a consultativ
 
 
 
-##    [2.3. Open Access Drives An Organization’s Mission and Empowers Its Vision](#open_access_drives_an_organizations_mission_and_empowers_its_vision)
+##    2.3. Open Access Drives An Organization’s Mission and Empowers Its Vision
 
 Open Access is one of the most important priorities of any 21st-century cultural organization. Many institutions have priorities for public engagement and service as core elements of their missions. This commitment to service extends to both commercial and non-commercial entities related to an organization, including individuals, academics, and corporations, as well as nongovernmental and community organizations.
 
@@ -67,9 +67,9 @@ To put it directly and simply, Open Access is mission and vision critical for an
 
 
 
-##    [2.4. What Does Open Access Achieve For A Cultural Organization?](#what_does_open_access_achieve_for_a_cultural_organization)[^9]
+##    2.4. What Does Open Access Achieve For A Cultural Organization?[^9]
 
-###   [2.4.1. Increased Engagement with Cultural Resources](#increased_engagement_with_cultural_resources)
+###   2.4.1. Increased Engagement with Cultural Resources
 
 Open Access increases engagement with cultural resources by closing the gap between discovery and re-use of resources by users, allowing users to sidestep burdensome, unnecessarily costly, and inefficient rights and permissions processes in order to engage with a cultural resource they discover. Open Access cultural resources propagate across sites and into communities, significantly increasing the likelihood that a member of the public will come into contact with them in the near term after launch, on an institution’s own hosted platform, or with the long-tail in partnership with organizations such as Creative Commons,[^10] Internet Archive, and Wikimedia.
 
@@ -77,7 +77,7 @@ For example, Wikimedia users have viewed works from The Metropolitan Museum of A
 
 
 
-###        [2.4.2. Cost Savings and Reprioritization](#cost_savings_and_reprioritization)
+###        2.4.2. Cost Savings and Reprioritization
 
 A key incentive for cultural organizations to do Open Access is cost savings and reprioritization of staff time, labor, and tools. The cost of operating a rights and permissions program often exceeds associated revenue because of staff salaries, benefits, and inefficiencies in the process of administering policies and fulfilling requests.[^14] Licensing simply does not generate net revenue for most cultural resource stewards and creators, including cultural organizations.
 
@@ -87,7 +87,7 @@ Staff tasks and roles formerly dedicated to rights and permissions processes can
 
 
 
-###        [2.4.3. New Creative and Economic Opportunities](#new_creative_and_economic_opportunities)
+###        2.4.3. New Creative and Economic Opportunities
 
 Open Access can provide new creative and economic opportunities for organizations or independent content creators. Many cultural institutions also have businesses within them, such as brand, licensing, and trademark, as well as merchandising and retail. Cultural institutions operating businesses in an Open Access context need to think differently, take new approaches, and abandon highly controlling licensing agreements with limited terms.[^15] An Open Access marketplace is more competitive and free as makers have to inspire engagement and purchases through the quality of their product without the shield of restricted licensing frameworks. Innovative applications of digital content products, empowered by Open Access, can accelerate potential profits in the digital economy, especially in partnership with organizations and influencers that magnify the customer engagement with your brands.
 
@@ -103,7 +103,7 @@ Digital production tools for cultural resource makers are becoming more accessib
 
 
 
-###        [2.4.4. Potential for Greater Authenticity Through Ubiquity](#potential_for_greater_authenticity_through_ubiquity)
+###        2.4.4. Potential for Greater Authenticity Through Ubiquity
 
 Open Access cultural resources may have the potential for greater authenticity than closed cultural resources through the amplification of ideas and sources, along with critical interrogation.
 
