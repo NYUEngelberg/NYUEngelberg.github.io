@@ -2,7 +2,7 @@
 title: 4.  Set Goals
 summary: some words for a summary
 sidebar: glam3D_sidebar
-permalink: four.html
+permalink: set_goals.html
 
 ---
 

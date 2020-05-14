@@ -2,7 +2,7 @@
 title: 2.  What Is Open Access?
 summary: Open Access encompasses a holistic and interdependent set of legal, philosophical, policy, and production conditions for an organization.
 sidebar: glam3D_sidebar
-permalink: two.html
+permalink: what_is_open_access.html
 
 ---
 
