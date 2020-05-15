@@ -109,6 +109,12 @@ Identify desired partnerships as part of the goal-setting process based on aspec
 
 Partnerships can take many forms, such as collaboration with local universities and volunteers,[^41] online communities,[^42] or commercial companies.[^43]
 
+<br>
+<br>
+**_NEXT SECTION -> [Identify](/identify.html)_**
+
+***
+
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 

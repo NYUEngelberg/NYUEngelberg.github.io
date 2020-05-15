@@ -74,6 +74,13 @@ Deliver the output 3D files to your identified audience in the best way possible
 Having established goals and implemented the Open Access program, it is time to reflect upon what worked, what did not, and what is left to do. Whenever possible, this evaluation should be shared publicly and with open licenses to the wider Open GLAM sector so that others can learn from your successes.
 
 
+<br>
+<br>
+**_NEXT SECTION -> [What is Open Access?](/what_is_open_access.html)_**
+
+***
+
+
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 

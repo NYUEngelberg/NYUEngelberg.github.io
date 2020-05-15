@@ -113,6 +113,12 @@ Open Access content can increase the quality and number of citations, links, vie
 
 Cultural resources, especially those in the worldwide public domain, are the foundations of Open Access and speak to the truth of a shared commons of creation and use. Cultural resources are a wellspring that continually inspire and give life to new forms of creation. Their essences carry on throughout time by being passed between and through humanity and nature and by being incorporated and re-incorporated. As such, cultural resources are not wholly lost or diminished. They may migrate, mix, and recombine to form new entities. 3D models of cultural resources can make new connections and interactive creative manifestations possible for so many around the world through events, environments, and objects with their immersive presences.[^27] 3D models will define new dimensions and build immersive synergistic spaces for cultural resources.
 
+<br>
+<br>
+**_NEXT SECTION -> [What is a 3D Model?](/what_is_a_3D_model.html)_**
+
+***
+
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 

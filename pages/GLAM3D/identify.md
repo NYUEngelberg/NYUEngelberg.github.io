@@ -203,7 +203,7 @@ Photogrammetry “focus stacking” workflow, x-ray CT.
 
 
 
-
+###### Technique: Photogrammetry + [Focus Stacking](https://en.wikipedia.org/wiki/Focus_stacking)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/0cff43d6c8c14a058c3c8ed16e8bcb58/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -213,9 +213,9 @@ Photogrammetry “focus stacking” workflow, x-ray CT.
     </p>
 </div>
 
-###### Technique: Photogrammetry + [Focus Stacking](https://en.wikipedia.org/wiki/Focus_stacking)
 
 
+###### Technique: X-ray CT scan to surface model.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/e302b32112bd4ae3aa503468d7440492/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -226,7 +226,7 @@ Photogrammetry “focus stacking” workflow, x-ray CT.
 </div>
 
 
-###### Technique: X-ray CT scan to surface model.
+
 
 
 
@@ -243,6 +243,7 @@ Photogrammetry with polarized light + focus stacking workflow, structured light 
 
 **Examples:**
 
+###### Technique: Photogrammetry
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/bb8dc376703c401586785b811fe28e15/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -252,9 +253,9 @@ Photogrammetry with polarized light + focus stacking workflow, structured light 
     </p>
 </div>
 
-###### Technique: Photogrammetry
 
 
+###### Technique: structured light scanning.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/48e52062e37d4a6194a36f76f6eb959f/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -264,7 +265,7 @@ Photogrammetry with polarized light + focus stacking workflow, structured light 
     </p>
 </div>
 
-###### Technique: structured light scanning.
+
 
 
 
@@ -283,6 +284,7 @@ Photogrammetry, structured light Scanning, x-ray CT.
 
 **Examples:**
 
+###### Technique: X-ray CT to surface model
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/41d5fd1b83644f398de7cfc6304ef794/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -292,8 +294,8 @@ Photogrammetry, structured light Scanning, x-ray CT.
     </p>
 </div>
 
-###### Technique: X-ray CT to surface model
 
+###### Technique: Photogrammetry.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/ce69bdef58a54fcea5aefa7ec266117a/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -303,7 +305,7 @@ Photogrammetry, structured light Scanning, x-ray CT.
     </p>
 </div>
 
-###### Technique: Photogrammetry.
+
 
 
 
@@ -321,6 +323,7 @@ Photogrammetry with polarized light, structured light scanning, r-ray CT.
 
 **Examples:**
 
+###### Technique: Structured light scanning.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/7aae42d34c45432391eeae1a6b4069cb/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -330,7 +333,7 @@ Photogrammetry with polarized light, structured light scanning, r-ray CT.
     </p>
 </div>
 
-###### Technique: Structured light scanning.
+
 
 
 <div class="sketchfab-embed-wrapper">
@@ -361,6 +364,7 @@ Photogrammetry with polarized light + dulling spray, structured light scanning, 
 
 **Examples:**
 
+###### Technique: Laser scanning + dulling spray.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/54d983443b164650b3482ded09f62e34/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -370,9 +374,9 @@ Photogrammetry with polarized light + dulling spray, structured light scanning, 
     </p>
 </div>
 
-###### Technique: Laser scanning + dulling spray.
 
 
+###### Technique: Photogrammetry.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/49be84870371410781845ff53d36c018/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -382,7 +386,7 @@ Photogrammetry with polarized light + dulling spray, structured light scanning, 
     </p>
 </div>
 
-###### Technique: Photogrammetry.
+
 
 
 
@@ -402,6 +406,7 @@ Photogrammetry, structured light scanning (depending on subject size), x-ray CT 
 
 **Examples:**
 
+###### Technique: Photogrammetry.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/ff3dd192a81944a0a93a54beb8a7a27f/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -411,8 +416,8 @@ Photogrammetry, structured light scanning (depending on subject size), x-ray CT 
     </p>
 </div>
 
-###### Technique: Photogrammetry.
 
+###### Technique: Structured light scanning.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/50f50abf45414ad8a658325df7a5fcb3/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -422,7 +427,7 @@ Photogrammetry, structured light scanning (depending on subject size), x-ray CT 
     </p>
 </div>
 
-###### Technique: Structured light scanning.
+
 
 
 
@@ -443,6 +448,7 @@ Photogrammetry, LiDAR.
 
 **Examples:**
 
+###### Technique: LiDAR + photogrammetry
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/17bd8188447b48baab75125b9ad20788/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -452,9 +458,9 @@ Photogrammetry, LiDAR.
     </p>
 </div>
 
-###### Technique: LiDAR + photogrammetry
 
 
+###### Technique: Photogrammetry.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/feb9ad17e042418c8e759b81e3b2e5d7/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -464,7 +470,7 @@ Photogrammetry, LiDAR.
     </p>
 </div>
 
-###### Technique: Photogrammetry.
+
 
 
 ### 5.1.8. Performance
@@ -533,6 +539,12 @@ Although copyright is often the first legal consideration for Open Access digiti
 In doing so, it is important to avoid the temptation of the “easy no.” When digitizing large numbers of physical items, it can be easy to imagine edge scenarios where some specific use of the digitized version of the item could violate a law or right (e.g., “what if someone took a digitized version of this crown, created a replica, and tried to pass themselves off as a monarch?”). When faced with this possibility, it can be tempting to broadly exclude categories of works from a digitization program. Avoid this trap by fully articulating the nature of the concern. Also, explore if the concern is specific to 3D models. In many cases the same concern could, at least in theory, be applied to 2D images as well. If your institution is comfortable making 2D images of an object available to the public, in most cases it should also be comfortable making 3D versions available as well.
 
 Finally, in many cases, including a disclaimer that indicates that the files are being released to be used “for any lawful purpose” can address some of these concerns from the perspective of the institution. These types of disclaimers are discussed in [Section 7.7.1.1](/disseminate.html#7711-legal-agreements).
+
+<br>
+<br>
+**_NEXT SECTION -> [Digitize?](/digitize.html)_**
+
+***
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes

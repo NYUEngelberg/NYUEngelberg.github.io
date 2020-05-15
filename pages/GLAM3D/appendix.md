@@ -59,12 +59,14 @@ On February 25, 2020, the Smithsonian took an important step to include 3D model
 
 A 3D model primarily differs from a 2D image by the addition of an extra dimension. Pixels in a digital 2D image exist on an X and Y axis (left and right, up and down), pixels in a 3D model can exist on these planes but also the Z axis, (forward and backward/closer and farther away from the viewer).
 
+###### Illustration of the difference between a 2D image and 3D model, [https://help.sketchfab.com/hc/en-us/articles/360017787651-Learning-3D-Part-I-Simple-geometry](https://help.sketchfab.com/hc/en-us/articles/360017787651-Learning-3D-Part-I-Simple-geometry).
 ![2D perspective compared to 3D perspective](images/2dvs3d.png "2D perspective compared to 3D perspective")
 
-###### Illustration of the difference between a 2D image and 3D model, [https://help.sketchfab.com/hc/en-us/articles/360017787651-Learning-3D-Part-I-Simple-geometry](https://help.sketchfab.com/hc/en-us/articles/360017787651-Learning-3D-Part-I-Simple-geometry).
+
 
 Knowing that we have three axes of movement, we can place a point in 3D space that exists somewhere along each plane of movement. With regard to 3D, we generally call this point a **vertex**. A 3D model composed exclusively of **vertices** is known as a **point cloud**.
 
+###### Point cloud of St. Alfege Church
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/3d531d9bb4dc479ca66e30136cf89229/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -76,7 +78,7 @@ Knowing that we have three axes of movement, we can place a point in 3D space th
 
 
 
-###### Point cloud of St. Alfege Church
+
 
 If we join two **vertices** in different 3D positions with a line, we create an **edge**.
 
@@ -163,10 +165,12 @@ To align the 3D surface with the 2D image, certain edges on the mesh are designa
 
 A simple analogy for a UV map is flattening the six sides of a 3D cube:
 
+###### [Cube UV Map Demo](https://sketchfab.com/models/4627658087f3482f8a2732c722e2bfeb) by [Thomas Flynn](https://sketchfab.com/nebulousflynn), viewed with [Sketchfab’s Model Inspector](https://help.sketchfab.com/hc/en-us/articles/115004862686-Model-Inspector) to show the UV mapped image next to the 3D model. The red dot indicates a shared position across both 3D and 2D spaces.
+
 ![Flattened cube image](images/flat_cube.png "flattened cube")
 
 
-###### [Cube UV Map Demo](https://sketchfab.com/models/4627658087f3482f8a2732c722e2bfeb) by [Thomas Flynn](https://sketchfab.com/nebulousflynn), viewed with [Sketchfab’s Model Inspector](https://help.sketchfab.com/hc/en-us/articles/115004862686-Model-Inspector) to show the UV mapped image next to the 3D model. The red dot indicates a shared position across both 3D and 2D spaces.
+
 
 Image maps for 3D models are saved in a 1:1 format and in pixel sizes that are “powers of two”—that is, 128x128 pixels, 512x512 pixels, 1024x1024 pixels, etc. As you might expect, the larger the UV image map dimensions, the higher the number of pixels are assigned to a given 3D face, and the visual resolution is increased. This in turn increases the 3D model’s overall file size and the computational processing power required to render it.
 
@@ -193,16 +197,17 @@ Each face of a 3D model has a surface direction, known as a _normal_. This direc
 
 A common remedy for this is to encode complicated surface information from a high-resolution version of our model into a special texture map called a **normal map** and then map that to the lower-resolution mesh.
 
+###### 3D model [Quarter Normal Map RTI](https://sketchfab.com/models/b7ea8c18fba84041a3259013703aeb32) by [Kevin Falcetano](https://sketchfab.com/falce003) rendered without a normal map...
 ![Scan without a normal map](images/coin_no_normal_map.png "Scan without a normal map")
 
 
-###### 3D model [Quarter Normal Map RTI](https://sketchfab.com/models/b7ea8c18fba84041a3259013703aeb32) by [Kevin Falcetano](https://sketchfab.com/falce003) rendered without a normal map...
-
-
-![Scan with normal map](images/coin_normal_map.png "Scan with normal map")
 
 
 ###### ...and with a normal map. This model is composed of a single quad face.
+![Scan with normal map](images/coin_normal_map.png "Scan with normal map")
+
+
+
 
 
 
@@ -212,9 +217,10 @@ Any given cultural resource may include several different surface finishes or be
 
 It is possible as part of the post-processing of a 3D model, however, to author a special texture map called a **roughness map** that can be applied to a 3D model’s UV-mapped surface and show different areas of the surface as having different specular properties. A roughness map is a grayscale image which, depending on the 3D viewer being used, will show darker areas as rough and lighter areas as smooth or vice versa.[^88]
 
+###### Chrysanthemums by a Stream rendered without a roughness map or simulated lighting.
 ![Image of a model without a roughness map or simulated light](images/shade_no_simulated_light.png "Image of a model without a roughness map or simulated light")
 
-###### Chrysanthemums by a Stream rendered without a roughness map or simulated lighting.
+###### ...the model with a roughness map and lighting applied. Note the reflective highlight now apparent in the areas of gold leaf. The effect is even more apparent when viewed in 3D. It is possible to view an 'unlit' version of this embed by using the [model inspector](https://help.sketchfab.com/hc/en-us/articles/115004862686-Model-Inspector).
 
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/cbbc0ab5634946d3bfc949c0aff685e6/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -226,7 +232,7 @@ It is possible as part of the post-processing of a 3D model, however, to author 
 </div>
 
 
-...the model with a roughness map and lighting applied. Note the reflective highlight now apparent in the areas of gold leaf. The effect is even more apparent when viewed in 3D. It is possible to view an 'unlit' version of this embed by using the [model inspector](https://help.sketchfab.com/hc/en-us/articles/115004862686-Model-Inspector).
+
 
 
 
@@ -282,11 +288,12 @@ Volumetric data is less common than surface model data in cultural heritage appl
 
 The cross-sectional images can be used to generate **volumetric 3D data** —that is, data that visualizes densities of volume.
 
+###### Volumetric render of a Gorilla Cranium derived from DICOM files in [aleph-viewer.com](https://aleph-viewer.com/).
 
 ![Volumetric data](images/volumetric_data.png "volumetric data")
 
 
-###### Volumetric render of a Gorilla Cranium derived from DICOM files in [aleph-viewer.com](https://aleph-viewer.com/).
+
 
 
 
@@ -324,16 +331,18 @@ In the real world, understanding of the visible physical properties as described
 
 Just as in a museum environment, lighting can make a huge difference to how a cultural resource is visually presented, which in turn has an effect on how an object is understood by a viewer.[^90]
 
+###### An unlit version of the Nefertiti bust by [AD&D 4D](https://sketchfab.com/3d-models/what-is-the-genuine-nefertiti-1295e14c5e634465aa2438004bb8886c) under a CC BY 4.0 license.
 
 ![Unlit version of the Nefertiti bust](images/nefertiti_unlit.png "Unlit version of the Nefertiti bust")
 
-###### An unlit version of the Nefertiti bust by [AD&D 4D](https://sketchfab.com/3d-models/what-is-the-genuine-nefertiti-1295e14c5e634465aa2438004bb8886c) under a CC BY 4.0 license
 
 
+
+###### A version of the Nefertiti bust with lighting by [AD&D 4D](https://sketchfab.com/3d-models/what-is-the-genuine-nefertiti-1295e14c5e634465aa2438004bb8886c) under a CC BY 4.0 license
 
 ![Unlit version of the Nefertiti bust](images/nefertiti_lit.png "Unlit version of the Nefertiti bust")
 
-###### A version of the Nefertiti bust with lighting by [AD&D 4D](https://sketchfab.com/3d-models/what-is-the-genuine-nefertiti-1295e14c5e634465aa2438004bb8886c) under a CC BY 4.0 license
+
 
 
 ...the same 3D scene with a simulated lighting environment.
@@ -765,6 +774,8 @@ Initially you can simply try running one or all of the suggested software applic
 ###        [v.i.iv. Publishing](#publishing)
 
 See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-3d-viewer) section for hosted and self-hosted options.
+
+***
 
 ## Notes
 
