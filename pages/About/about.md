@@ -2,10 +2,10 @@
 title: About
 sidebar: glam3D_sidebar
 permalink: about.html
-output: web, pdf
-toc: false
 folder: About
+toc: false
 ---
+
 
 Glam3D.org brings together best practices for conceiving, designing, and executing 3D Open Access programs at GLAM institutions.  It is an evolving resource and we encourage you to email us if you have suggestions for improvements, additions, or corrections.
 
