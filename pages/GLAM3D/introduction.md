@@ -64,7 +64,7 @@ Create digital content of the cultural resource in 3D through born digital or di
 
 ####        1.3.4. [Disseminate](/disseminate.html)
 
-Deliver the output 3D files to your identified audience in the best way possible. This includes making the files viewable to users and making various versions of the files available to users, as well as associated para and metadata about the object, the files, and provenance for both.  \
+Deliver the output 3D files to your identified audience in the best way possible. This includes making the files viewable to users and making various versions of the files available to users, as well as associated para and metadata about the object, the files, and provenance for both.  
 
 
 

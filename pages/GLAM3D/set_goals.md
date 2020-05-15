@@ -32,7 +32,7 @@ Some examples of 3D data made available primarily for scholarly use can be found
 
 Instead of forming the core of scholarly analysis, educational uses of 3D models rely on the models to facilitate the learning of a related subject. They can be used to illustrate a type of jewelry feature or allow students to explore a species of insect. This application differs from what we describe as “scholarly” uses in that the 3D models are not necessarily the focus of the educational experience or research. Instead, the 3D model is used to facilitate learning about a related subject.
 
-In conjunction with the expert knowledge associated with a cultural resource, 3D models are a perfect match for teaching about cultural heritage as part of an [object-based learning program](https://www.ucl.ac.uk/culture/schools/teaching-object-based-learning). \
+In conjunction with the expert knowledge associated with a cultural resource, 3D models are a perfect match for teaching about cultural heritage as part of an [object-based learning program](https://www.ucl.ac.uk/culture/schools/teaching-object-based-learning). 
 
 
 Some examples of 3D models being used in the classroom are provided below:

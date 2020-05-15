@@ -656,7 +656,7 @@ Typical subjects for a sculpting workflow include organic forms, animals, plants
 
 [3DCoat](https://3dcoat.com/)
 
-[Blender](https://www.blender.org/) \
+[Blender](https://www.blender.org/) 
 [Mudbox](Mudbox)
 
 [Meshmixer](http://www.meshmixer.com/)
