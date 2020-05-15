@@ -31,7 +31,7 @@ Below are a few online communities you may wish to consider joining, as well as 
 
 [LIB3DVR](https://lib.vt.edu/research-learning/lib3dvr.html)
 
-[CLIR 3D/VR](http://vrpreservation.oucreate.com/Colloquium/) \
+[CLIR 3D/VR](http://vrpreservation.oucreate.com/Colloquium/) 
 [3D Scanning Users Facebook Group](https://www.facebook.com/groups/3dsug/)
 
 [Open Heritage 3D](https://openheritage3d.org/)
