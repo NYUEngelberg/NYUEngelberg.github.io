@@ -173,6 +173,12 @@ Three example data packages follow:
 *   Highly optimized derivative 3D data—e.g., GLTF, USDZ, low-resolution texture maps (1024x1024 pixels)
 *   Basic metadata
 
+<br>
+<br>
+**_NEXT SECTION -> [Disseminate](/disseminate.html)_**
+
+***
+
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 

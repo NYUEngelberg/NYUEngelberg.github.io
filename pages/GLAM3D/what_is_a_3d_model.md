@@ -25,29 +25,29 @@ Some common use cases for 3D models include:
 
 Probably the most common type of 3D model is a surface model, a digital description of the outward contours and appearance of a physical shape or form. A surface model is built of faces, and, similarly to the pixel dimensions of a 2D image, the resolution of a 3D model can be described for the most part in terms of the number of faces (the facecount) used to represent a cultural resource. Surface models are a common output from photogrammetry, structured light, and x-ray CT workflows.
 
-
+###### 3D surface model of Marble head of Herakles from The Metropolitan Museum of Art with the face edges (the wireframe) highlighted. This model was created using a photogrammetry workflow.
 ![Herakles wireframe head](images/herakles_full.png "Herakles wireframe head")
 
 
-###### 3D surface model of Marble head of Herakles from The Metropolitan Museum of Art with the face edges (the wireframe) highlighted. This model was created using a photogrammetry workflow.
+
 
 As the name suggests, this surface model has no concept or record of a cultural resource’s internal structure—it is akin to a papier-mâché model in the real world: empty on the inside. By way of example, a 3D surface model of a wooden statue holds no record of the wood’s internal grain.
 
 
-
+###### The same 3D surface model of Marble head of Herakles bisected, showing that it is hollow inside. The inward faces have been colored blue and a light and shadow added for easier recognition of this feature.
 ![Herakles wireframe head bisected](images/herakles_half.png "Herakles wireframe head bisected")
 
 
-###### The same 3D surface model of Marble head of Herakles bisected, showing that it is hollow inside. The inward faces have been colored blue and a light and shadow added for easier recognition of this feature.
+
 
 Another common type of 3D model is the point cloud. Instead of representing a physical shape with faces, we can also describe it using a number points or dots arranged in 3D space.
 
 
-
+###### The same cultural resource represented by 3D as a point cloud.
 ![Herakles Pointcloud](images/herakles_pointcloud.png "Herakles Pointcloud")
 
 
-###### The same cultural resource represented by 3D as a point cloud.
+
 
 
 Both surface model and point cloud files can also include color data that is either captured as part of the 3D digitization process or authored as part of data post processing or during a 3D modeling workflow.
@@ -69,7 +69,7 @@ While this paper would be remiss in not mentioning both digitization and modelin
 By way of a simple example showing comparative outputs of digitization and 3D modeling workflows, consider the two representations of a Roman villa below as typical outputs of the two processes.
 
 
-
+###### An example of a 3D output from a digitization workflow.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/5161d4ea1ae54ff793e38c84aeb0a4d9/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -79,8 +79,8 @@ By way of a simple example showing comparative outputs of digitization and 3D mo
     </p>
 </div>
 
-###### An example of a 3D output from a digitization workflow.
 
+###### A similar subject as created via a 3D modeling workflow.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/645b243403404ec2bc6745a7bdcd0888/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -90,7 +90,7 @@ By way of a simple example showing comparative outputs of digitization and 3D mo
     </p>
 </div>
 
-###### A similar subject as created via a 3D modeling workflow.
+
 
 Both methods of 3D production require a certain amount of practice to yield effective results (if you are undertaking the 3D production yourself), or commercial companies can be hired to do the work for you. The advice in this white paper is based on the assertion that building in-house capacity for 3D production is the better long-term strategy. Doing so will better enable the effective inclusion of 3D in every relevant aspect of your organization’s work, future proofing its capacity for media production. The proven maturity of audiences and use cases for 3D models makes setting up and staffing a 3D digitization program now as equally useful as investing in a 2D photography program.
 
@@ -197,6 +197,12 @@ A more common and robust way to save or supply metadata is as an external text f
 If it is technically possible and practical to both embed metadata and paradata in a 3D file and provide links to permanent external records, this increases the chances of contextual information about a 3D model remaining linked to it as it is downloaded, re-used, and remixed.
 
 For further guidance regarding what kinds of metadata and paradata to collect and how to do so, explore the work of Cultural Heritage Imaging and their [Digital Lab Notebook](http://culturalheritageimaging.org/Technologies/Digital_Lab_Notebook/), the [Europeana 3D Task Force Report](https://pro.europeana.eu/files/Europeana_Professional/Europeana_Network/Europeana_Network_Task_Forces/Final_reports/3D-TF-final%20report.pdf), and the [Smithsonian 3D Metadata Model](https://dpo.si.edu/blog/smithsonian-3d-metadata-model).
+
+<br>
+<br>
+**_NEXT SECTION -> [Set Goals](set_goals.html)_**
+
+***
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes

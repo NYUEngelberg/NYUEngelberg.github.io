@@ -22,3 +22,7 @@ At the same time, technology and best practices are rapidly evolving. Today’s 
 All of these factors combine to create an opportunity to help define what it means to build a successful Open Access 3D program. What uses make sense? What files are best? Where should you look for partnerships? These are questions we are working together to answer.
 
 This resource was created at a moment in late 2019 and early 2020 to help bring together the current best answers to those questions. We hope it will be useful to you and the larger community, and that you will help evolve it with us.
+
+<br>
+<br>
+**_NEXT SECTION -> [Appendix](/appendix.html)_**

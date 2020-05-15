@@ -44,11 +44,11 @@ The same 3D model can generally be displayed using different 3D viewing software
 Each software reads the 3D data file(s) and displays it as pixels on the screen—this is known as _rendering_. The part of a software that calculates what the digital file should look like on screen is known as a _rendering engine_. Different rendering engines support different file types and file-specific data. As a result, the same 3D file can look very different in different 3D viewers. That means you will be making choices about how people view the files you create, not just how you will create them.
 
 
-
+###### _Baluster vase, from a five-piece graniture_ rendered in the Smithsonian Institution's Voyager 3D viewer
 <iframe name="Smithsonian Voyager" src="https://3d-api.si.edu/voyager/3d_package:d8c62634-4ebc-11ea-b77f-2e728ce88125" width="800" height="450" allowfullscreen="true"></iframe>
 
-###### _Baluster vase, from a five-piece graniture_ rendered in the Smithsonian Institution's Voyager 3D viewer
 
+###### _Baluster vase, from a five-piece graniture_ rendered in the Sketchfab 3D viewer
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/76a3f7bf75d049458dfaa48aa342e0b8/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -58,7 +58,7 @@ Each software reads the 3D data file(s) and displays it as pixels on the screen�
     </p>
 </div>
 
-###### _Baluster vase, from a five-piece graniture_ rendered in the Sketchfab 3D viewer
+
 
 
 
@@ -115,8 +115,6 @@ Publishing images, animations, and video derived from 3D models can be a helpful
 
 **High-Resolution Image Renders**
 
-
-
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/b9766d88112141369b170070fb973c96/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -125,6 +123,7 @@ Publishing images, animations, and video derived from 3D models can be a helpful
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
+
 
 
 
@@ -154,9 +153,10 @@ Good search engine optimization (SEO) of web pages featuring your 3D models will
 ###        7.5.2. Data Interfaces/APIs
 Making your data available via both human and machine interfaces—that is to say browsable web pages as well as APIs—allows for different forms of engagement. The former caters to individuals and individuals presenting your work to a group (e.g., teachers presenting to a classroom of students); the latter can plug your cultural 3D data into entire digital platforms and get it in front of potentially massive 3D-oriented communities.
 
+###### Browsing 3D models hosted on sketchfab.com in Facebook’s Spark AR application (used to make Instagram AR filters) is made possible by an [API integration](https://sparkar.facebook.com/ar-studio/learn/documentation/docs/ar-library/).
 ![Screenshot of the Sketchfab - Spark API integration](images/sketchfab_facebook_api.png "Screenshot of the Sketchfab - Spark API integration")
 
-###### Browsing 3D models hosted on sketchfab.com in Facebook’s Spark AR application (used to make Instagram AR filters) is made possible by an [API integration](https://sparkar.facebook.com/ar-studio/learn/documentation/docs/ar-library/).
+
 
 [Sketchfab API](https://sketchfab.com/developers)
 
@@ -254,6 +254,12 @@ Institutions should strive to present legal and legal-adjacent information in as
 Many cultural objects have other considerations or cultural restrictions that are important to communicate to users. While these considerations and restrictions may not be legally binding, many users will benefit from being aware of them. Cultural sources may also be more supportive of digitization and dissemination efforts when they are accompanied by this type of information.
 
 Local Contexts’ [Traditional Knowledge labels](http://localcontexts.org/tk-labels/) help to facilitate the communication of these types of non-legal use considerations. The labels give cultures that created the works a way to clearly communicate important context to users. They also give users a straightforward way to identify these restrictions and incorporate them into their application.
+
+<br>
+<br>
+**_NEXT SECTION -> [Evaluate and Join](/evaluate_and_join.html)_**
+
+***
 
 ## Notes
 
