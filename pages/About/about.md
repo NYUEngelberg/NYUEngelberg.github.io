@@ -7,7 +7,7 @@ toc: false
 ---
 
 
-Glam3D.org brings together best practices for conceiving, designing, and executing 3D Open Access programs at GLAM institutions.  It is an evolving resource and we encourage you to email us if you have suggestions for improvements, additions, or corrections.
+Glam3D.org brings together best practices for conceiving, designing, and executing 3D Open Access programs at GLAM institutions.  It is an evolving resource and **we encourage you to email us at engelberg.center@nyu.edu** if you have suggestions for improvements, additions, or corrections.
 
 Glam3D.org is a project of the [Engelberg Center on Innovation Law & Policy at NYU Law](https://www.law.nyu.edu/centers/engelberg).  It was originally created in 2020 by Sketchfab Cultural Heritage Lead [Thomas Flynn](https://twitter.com/nebulousflynn), Engelberg Center Fellow [Neal Stimler](https://www.law.nyu.edu/centers/engelberg/team/stimler), and Engelberg Center Executive Director [Michael Weinberg](https://www.law.nyu.edu/centers/engelberg/team/weinberg), in consultation with a wide variety of 3D digitization and Open Access experts from around the world.  Glam3D.org could not exist without the generous and valuable feedback from this community.
 
