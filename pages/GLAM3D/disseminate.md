@@ -25,16 +25,17 @@ A step further is to embed contextual and descriptive information within the 3D 
 
 In this manner, it is possible to create interactive 3D tours of digitized cultural resources as a proxy for in-gallery experiences like guided object handling.
 
+###### Numbered annotations make it easy to draw attention to specific places in the model.
 
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/773d1cd8ce614e7d9f6d0cca1677782c/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/ancient-maya-plate-for-chocolates-773d1cd8ce614e7d9f6d0cca1677782c?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Ancient Maya plate for chocolates</a>
+        by <a href="https://sketchfab.com/tokovinin3d?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Alexandre Tokovinine</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Lock-Text20.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Lock-Text20.png "image_tooltip")
-
-
-
-[Quiriguá Zoomorph P Annotated Tour by University of South Florida Libraries](https://sketchfab.com/models/d53a8c1dd53f44c282c4bb2b56f26d26).
 
 
 
