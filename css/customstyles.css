@@ -1284,7 +1284,7 @@ body.home .post-content a:hover {
 }
 
 body.home a.anchorjs-link {
-  display: hidden;
+  display: none;
 }
 
 body.home .shaded {
