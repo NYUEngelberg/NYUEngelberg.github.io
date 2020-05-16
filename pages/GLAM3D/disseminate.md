@@ -5,7 +5,7 @@ sidebar: glam3D_sidebar
 permalink: disseminate.html
 
 ---
-##    [7.1. Review Goal-Setting](#review_goal-setting)
+##    7.1. Review Goal-Setting
 
 At this stage of a project, when the 3D models have been produced, documented, and archived locally, there is a natural break in activity, which presents an opportunity to review the goals that have been previously set for your project.
 
@@ -13,7 +13,7 @@ Digitization projects can take a long time to complete and new examples of disse
 
 
 
-##    [7.2. Publish as Interactive 3D for Browsing Audiences](#publish_as_interactive_3d_for_browsing_audiences)
+##    7.2. Publish as Interactive 3D for Browsing Audiences
 
 As described in the “What is a 3D Model?” section, for an audience to truly experience a digital 3D model, it needs to be interactive. At a very basic level, this means an audience member must be able to turn or tumble a 3D model to view the model from different angles and zoom in and out to get a closer look or broader overview of the resource. While this was previously only possible via dedicated applications running on specialized hardware, thanks to modern web standards like WebGL, it is possible to offer proper 3D interactive experiences in any modern browser. That means the model is accessible to all users, even those without the technical expertise to use their own 3D modeling software.
 
@@ -39,16 +39,16 @@ In this manner, it is possible to create interactive 3D tours of digitized cultu
 
 
 
-###        [7.2.1. Notes on Digital Display](#notes_on_digital_display)
+###        7.2.1. Notes on Digital Display
 
 The same 3D model can generally be displayed using different 3D viewing software (often referred to as a _3D viewer_). 3D viewing software is different from 3D editing software (often referred to as a _3D editor_) in that the primary purpose or functionality is to simply display 3D data on screen as opposed to editing or converting it in any significant way.
 
 Each software reads the 3D data file(s) and displays it as pixels on the screen—this is known as _rendering_. The part of a software that calculates what the digital file should look like on screen is known as a _rendering engine_. Different rendering engines support different file types and file-specific data. As a result, the same 3D file can look very different in different 3D viewers. That means you will be making choices about how people view the files you create, not just how you will create them.
 
 
-
+<div class="sketchfab-embed-wrapper">
 <iframe name="Smithsonian Voyager" src="https://3d-api.si.edu/voyager/3d_package:d8c62634-4ebc-11ea-b77f-2e728ce88125" width="800" height="450" allowfullscreen="true"></iframe>
-
+</div>
 ###### _Baluster vase, from a five-piece graniture_ rendered in the Smithsonian Institution's Voyager 3D viewer
 
 <div class="sketchfab-embed-wrapper">
@@ -64,13 +64,13 @@ Each software reads the 3D data file(s) and displays it as pixels on the screen�
 
 
 
-###        [7.2.2. Choosing an Online 3D Viewer](#choosing_an_online_3d_viewer)
+###        7.2.2. Choosing an Online 3D Viewer
 
 Deciding on which 3D viewer you use to display your 3D models online will largely depend on your project goals, your organization’s policies for using third-party platforms, and capacity for ongoing technical support and development.
 
 
 
-####            [7.2.2.1. Self-Hosted Storage and Display Solutions](#self-hosted_storage_and_display_solutions)[^58]
+####            7.2.2.1. Self-Hosted Storage and Display Solutions][^58]
 Self storage and hosting can offer greater control over how our 3D models are presented (e.g., custom interfaces) and how people interact with and access them (e.g., only via your organization’s website). These benefits come at the expense of maintaining web servers and application code.
 
 * [3DHOP](http://vcg.isti.cnr.it/3dhop/)
@@ -81,7 +81,7 @@ Self storage and hosting can offer greater control over how our 3D models are pr
 
 
 
-####            [7.2.2.2. Hosted Storage and Display Solutions](#hosted_storage_and_display_solutions)
+####            7.2.2.2. Hosted Storage and Display Solutions
 
 Using a hosted 3D viewer service is the quickest route to interactive online publication for your 3D data. Generally, using a hosted 3D viewer will require uploading your data to third-party-owned web servers and agreement to platform-specific terms of use. Benefits of using a hosted storage and display solution include reduced technical and staff overheads for you and your organization, and dissemination of your 3D models to an existing, 3D literate community.
 
@@ -95,7 +95,7 @@ Using a hosted 3D viewer service is the quickest route to interactive online pub
 
 
 
-##  [7.3. Publish the 3D Data for Download](#publish_the_3d_data_for_download)
+##  7.3. Publish the 3D Data for Download
 
 Publishing a cultural resource as an interactive 3D model goes a long way to making 3D models findable and accessible. The next step is to make the 3D data available for download (hopefully alongside an interactive viewing experience). Published 3D data should be in an interoperable format—i.e., a 3D file that can be opened and edited in a piece of software. Publishing 3D data in an inaccessible format—for example, as a downloadable 3D PDF or self-contained app—is essentially a dead end for data re-use.
 
@@ -111,7 +111,7 @@ A managed approach in which an end user must, for example, request 3D data via e
 
 
 
-##    [7.4. Publish Derivative Content](#publish_derivative_content)
+##    7.4. Publish Derivative Content
 
 Publishing images, animations, and video derived from 3D models can be a helpful complement to the 3D data or viewer itself. Using media and media platforms that audiences are more familiar with can be an enticing gateway to engaging with the 3D data itself. Some examples:
 
