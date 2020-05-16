@@ -915,9 +915,11 @@ span.soft {
     }
 }
 
+
 *:hover > .anchorjs-link {
-    display: none;
+    display: inline;
 }
+
 
 .kbCaption {
     color: white;
@@ -1257,7 +1259,7 @@ body.home .post-content a:hover{
 
 }
 
-body.home .post-content a.anchorjs-link{
+body.home a.anchorjs-link {
   display: none;
 }
 
