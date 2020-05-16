@@ -142,13 +142,14 @@ In addition to describing a shape or form in 3D, a mesh can have (among other th
 One way to color a 3D mesh is to assign a color value to each individual vertex. The color of any connected edge or face is then calculated on a gradient between the joined vertices. This is known as **vertex coloring**, and a mesh colored in this way is said to be **vertex colored**. The surface color of a vertex colored mesh is therefore directly linked to the fidelity of the mesh—if you reduce the resolution of the mesh, you reduce the resolution of the surface color information.
 
 <div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/fdb7cf90407e49f49159aab85e2b7971/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/a5452bd007124f03834de96bd9701079/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-        <a href="https://sketchfab.com/3d-models/bust-of-herakles-vertex-colour-only-fdb7cf90407e49f49159aab85e2b7971?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Bust of Herakles - Vertex Colour Only</a>
+        <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-100k-vertex-color-only-a5452bd007124f03834de96bd9701079?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head of Amenhotep III 100k - Vertex Color Only</a>
         by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
+
 
 
 
@@ -248,7 +249,15 @@ While there are as many types of 3D files as there are applications for 3D, we w
 Several 3D file formats support a 3D mesh in conjunction with a linked or embedded image map. Image files either need to be stored alongside the 3D mesh or are embedded in the 3D file itself.
 
 
-![Scan with mesh and UV texture](images/mesh_and_texture.png "Scan with mesh and UV texture")
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/02cc5cd1893f484696a8b45923a242aa/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-5k-colour-texture-02cc5cd1893f484696a8b45923a242aa?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head of Amenhotep III 5k Colour Texture</a>
+        by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
 
 
 
@@ -258,7 +267,15 @@ Several 3D file formats support a 3D mesh in conjunction with a linked or embedd
 A 3D mesh without any color data applied is said to be **untextured**. Untextured meshes are useful in situations in which the color information related to a cultural resource is not of use—for example, in certain methods of 3D printing or when the 3D form itself is what is important. Some 3D capture techniques like **X-ray computed tomography (CT scanning)** or some **structured light** scanning will not capture color data at the time of digitization.
 
 
-![Untextured mesh render](images/untextured_mesh.png "Untextured mesh render")
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/2f8b8099ed0f4846b12d17852cf233e5/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-surface-model-2f8b8099ed0f4846b12d17852cf233e5?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head of Amenhotep III - Surface Model</a>
+        by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
 
 
 
@@ -266,7 +283,15 @@ A 3D mesh without any color data applied is said to be **untextured**. Untexture
 
 The description of this coloring method is covered above, and it is a common output of some types of 3D scanning processes. Typically, any process that involves the capture or computation of colored vertices as part of 3D data production can lead to a vertex colored mesh output.
 
-![Vertex colored mesh](images/vertex_colored_mesh.png "Vertex colored mesh")
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/a5452bd007124f03834de96bd9701079/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-100k-vertex-color-only-a5452bd007124f03834de96bd9701079?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head of Amenhotep III 100k - Vertex Color Only</a>
+        by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
 
 
 
@@ -275,7 +300,15 @@ The description of this coloring method is covered above, and it is a common out
 
 A point cloud or pointcloud is exactly what it sounds like: a 3D model made up exclusively of vertices (points). These kinds of files are commonly an output of LiDAR scanners (often referred to as _laser scanners_) or photogrammetry software. The vertices in a point cloud can be uncolored or have a color value assigned to them.
 
-![Point cloud](images/herakles_pointcloud.png "point cloud")
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/78ec567ee0c347d1bbb64cca531f1bab/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-150k-pointcloud-78ec567ee0c347d1bbb64cca531f1bab?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head of Amenhotep III 150k Pointcloud</a>
+        by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
 
 
 
@@ -656,7 +689,7 @@ Typical subjects for a sculpting workflow include organic forms, animals, plants
 
 [3DCoat](https://3dcoat.com/)
 
-[Blender](https://www.blender.org/) 
+[Blender](https://www.blender.org/)
 [Mudbox](Mudbox)
 
 [Meshmixer](http://www.meshmixer.com/)

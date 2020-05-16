@@ -25,8 +25,16 @@ Some common use cases for 3D models include:
 
 Probably the most common type of 3D model is a surface model, a digital description of the outward contours and appearance of a physical shape or form. A surface model is built of faces, and, similarly to the pixel dimensions of a 2D image, the resolution of a 3D model can be described for the most part in terms of the number of faces (the facecount) used to represent a cultural resource. Surface models are a common output from photogrammetry, structured light, and x-ray CT workflows.
 
-###### 3D surface model of Marble head of Herakles from The Metropolitan Museum of Art with the face edges (the wireframe) highlighted. This model was created using a photogrammetry workflow.
-![Herakles wireframe head](images/herakles_full.png "Herakles wireframe head")
+###### 3D surface model of Marble head of Head of Amenhotep III derived from a model published by The Cleveland Museum of Art - the face edges (the wireframe) are highlighted. This model was created using a photogrammetry workflow.
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/2f8b8099ed0f4846b12d17852cf233e5/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-surface-model-2f8b8099ed0f4846b12d17852cf233e5?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head of Amenhotep III - Surface Model</a>
+        by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
 
 
 
@@ -34,8 +42,16 @@ Probably the most common type of 3D model is a surface model, a digital descript
 As the name suggests, this surface model has no concept or record of a cultural resource’s internal structure—it is akin to a papier-mâché model in the real world: empty on the inside. By way of example, a 3D surface model of a wooden statue holds no record of the wood’s internal grain.
 
 
-###### The same 3D surface model of Marble head of Herakles bisected, showing that it is hollow inside. The inward faces have been colored blue and a light and shadow added for easier recognition of this feature.
-![Herakles wireframe head bisected](images/herakles_half.png "Herakles wireframe head bisected")
+###### The same 3D surface model of Head of Amenhotep III bisected, showing that it is hollow inside. The inward faces have been colored blue and a light and shadow added for easier recognition of this feature.
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/b4d80f3e2f4e42cf97009d1c513499fe/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-insideoutside-b4d80f3e2f4e42cf97009d1c513499fe?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head Of Amenhotep III - &quot;Inside/Outside&quot;</a>
+        by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
 
 
 
@@ -44,7 +60,15 @@ Another common type of 3D model is the point cloud. Instead of representing a ph
 
 
 ###### The same cultural resource represented by 3D as a point cloud.
-![Herakles Pointcloud](images/herakles_pointcloud.png "Herakles Pointcloud")
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/78ec567ee0c347d1bbb64cca531f1bab/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-150k-pointcloud-78ec567ee0c347d1bbb64cca531f1bab?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head of Amenhotep III 150k Pointcloud</a>
+        by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
+
 
 
 
