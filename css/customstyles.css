@@ -1199,3 +1199,61 @@ h4.panel-title {
         display:block !important;
     }
 }
+
+/* body overrides */
+body.home {
+  background-image: url("../images/CMA_ArtLens_Exhibition_OpenAccess_2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body.home .post-content {
+  min-height: 100vh;
+}
+
+body.home .post-header,
+body.home .post-content {
+  color: white;
+}
+
+body.home .shaded {
+  display: none;
+}
+
+body.home footer {
+  background: white;
+}
+
+/* Post content overrides */
+
+.post-content {
+  /* restrict characters in a line */
+  max-width: 75ch;
+  width: 100%;
+}
+
+.post-content img {
+  /* ensure images aren't bigger than screen */
+  max-width: 100%;
+}
+
+.post-content a {
+  word-wrap: break-word;
+}
+
+.post-content .sketchfab-embed-wrapper {
+  /* hack to make iframes fit, 75% = height/width * 100% or 480/640*100%. */
+  padding-bottom: 75%;
+  position: relative;
+  height: 0;
+  max-width: 100%;
+  width: 100%;
+}
+
+.post-content .sketchfab-embed-wrapper > iframe {
+  /* allow iframe to fit above div */
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}

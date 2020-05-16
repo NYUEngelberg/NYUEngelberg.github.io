@@ -9,7 +9,7 @@ h3 {color: #FF6699; }
 h4 {color: #808080; }
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-    background-color: #00CCFF;
+    background-color: #8b59b4;
     color: white;
 }
 
@@ -30,7 +30,7 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
 }
 
 .navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-cubes.fa-lg.navbar-brand:hover {
-     color: #f0f0f0;
+    color: #f0f0f0;
 }
 
 .nav li.thirdlevel > a {
@@ -86,7 +86,7 @@ a[data-toggle="tooltip"] {
 body.print h1 {color: #8b59b4 !important; font-size:28px;}
 body.print h2 {color: #595959 !important; font-size:24px;}
 body.print h3 {color: #FF6699 !important; font-size:14px;}
-body.print h4 {color: #679DCE !important; font-size:14px; font-style: italic;}
+body.print h4 {color: #8b59b4 !important; font-size:14px; font-style: italic;}
 
 .anchorjs-link:hover {
     color: #4D2A69;
