@@ -916,8 +916,7 @@ span.soft {
 }
 
 *:hover > .anchorjs-link {
-    transition: color .25s linear;
-    text-decoration: none;
+    display: none;
 }
 
 .kbCaption {
@@ -1201,6 +1200,13 @@ h4.panel-title {
     }
 }
 
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #8b59b4
+}
+
 /* body overrides */
 body.home {
   background-image: url("../images/glam3D_header_image_v1_2.jpg");
@@ -1229,10 +1235,30 @@ body.home .post-header{
 }
 
 body.home .post-header,
-body.home .post-content{
+body.home .post-content,
+body.home .post-content a{
   color: white;
   max-width: 75ch;
 
+}
+
+body.home .post-content a{
+  border: none;
+  background-color: inherit;
+  padding: 10px 24px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+body.home .post-content a:hover{
+  background: #8b59b4;
+  text-decoration: none;
+  border-radius: 5px;
+
+}
+
+body.home .post-content a.anchorjs-link{
+  display: none;
 }
 
 body.home .shaded {
@@ -1240,6 +1266,12 @@ body.home .shaded {
 }
 
 body.home .post-content p{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+body.home .post-content h3{
+  color: white;
   margin-left: 40px;
   margin-right: 40px;
 }

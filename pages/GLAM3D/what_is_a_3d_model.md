@@ -224,7 +224,7 @@ For further guidance regarding what kinds of metadata and paradata to collect an
 
 <br>
 <br>
-**_NEXT SECTION -> [Set Goals](set_goals.html)_**
+**_NEXT SECTION [Set Goals](set_goals.html)_**
 
 ***
 
