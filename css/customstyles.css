@@ -297,6 +297,7 @@ li.dropdownActive a {
 
 footer {
     font-size: smaller;
+
 }
 
 /* FAQ page */
@@ -1205,17 +1206,23 @@ body.home {
   background-image: url("../images/glam3D_header_image_v1_2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  max-height: 75vh;
+}
+
+body.home .post-title-main {
+  margin-bottom: 0;
+  line-height: 3;
+  margin-left: 40px;
 }
 
 
 body.home .post-content {
-  min-height: 75vh;
-  height: 0;
+  min-height: 15vh;
+  background-color: rgba(44, 23, 61, 0.95);
 }
 
 body.home .post-header{
-  padding-top: 20vh;
+  margin-top: 20vh;
+  background-color: rgba(44, 23, 61, 0.95);
 }
 
 body.home .post-header,
@@ -1229,11 +1236,14 @@ body.home .shaded {
   display: none;
 }
 
-
+body.home .post-content .p{
+  margin: 0;
+}
 
 
 body.home footer {
   background: white;
+  margin-top: 50vh;
 }
 
 /* Post content overrides */
@@ -1270,9 +1280,3 @@ body.home footer {
   width: 100%;
   height: 100%;
 }
-
-  /* index footer overrides */
-
-.footer.home {
-  margin: -80px;
-  }
