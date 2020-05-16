@@ -1,6 +1,6 @@
 ---
 title: 3.  What is a 3D Model?
-summary: some words for a summary
+summary: A 3D model is just another kind of image. It is a way to show something to another person who is geographically or temporally removed from the original, physical cultural resource.
 sidebar: glam3D_sidebar
 permalink: what_is_a_3D_model.html
 

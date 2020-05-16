@@ -1,6 +1,6 @@
 ---
 title: 1.  Introduction
-summary: some words for a summary
+summary: 
 sidebar: glam3D_sidebar
 permalink: introduction.html
 

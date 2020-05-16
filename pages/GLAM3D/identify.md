@@ -1,6 +1,6 @@
 ---
 title: 5.  Identify
-summary: some words for a summary
+summary: 
 sidebar: glam3D_sidebar
 permalink: identify.html
 

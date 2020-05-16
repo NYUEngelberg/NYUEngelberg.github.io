@@ -1,6 +1,6 @@
 ---
 title: 8.  Evaluate and Join
-summary: some words for a summary
+summary: 
 sidebar: glam3D_sidebar
 permalink: evaluate_and_join.html
 

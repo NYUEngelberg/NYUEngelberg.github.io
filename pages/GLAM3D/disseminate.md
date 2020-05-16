@@ -1,6 +1,6 @@
 ---
 title: 7.  Disseminate
-summary: some words for a summary
+summary: 
 sidebar: glam3D_sidebar
 permalink: disseminate.html
 

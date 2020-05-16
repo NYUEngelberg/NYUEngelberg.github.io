@@ -1,6 +1,6 @@
 ---
 title: Appendix
-summary: some words for a summary
+summary: 
 sidebar: glam3D_sidebar
 permalink: appendix.html
 

@@ -592,8 +592,20 @@ a.fa.fa-envelope-o.mailto {
     font-weight: 600;
 }
 
-h3 {color: #ED1951; font-weight:normal; font-size:130%;}
-h4 {color: #808080; font-weight:normal; font-size:120%; font-style:italic;}
+h3 {
+  color: inherit;
+  font-weight:normal;
+  font-size:130%;
+  margin-left: 30px;
+}
+
+h4 {
+  color: inherit;
+  font-weight:normal;
+  font-size:120%;
+  font-style:italic;
+  margin-left: 45px;
+}
 
 .alert, .callout {
     overflow: hidden;
@@ -664,6 +676,8 @@ button.cursorNorm {
 h2  {
     font-size:24px;
     line-height:29px;
+    margin-left: 15px;
+    }
 }
 span.otherProgrammingLanguages {
     font-style: normal;
@@ -1219,7 +1233,8 @@ body.home {
 body.home .post-title-main {
   margin-bottom: 0;
   line-height: 2.8;
-  margin-left: 40px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 body.home .post-content {
@@ -1229,7 +1244,7 @@ body.home .post-content {
   border-bottom-right-radius: 10px;
 }
 
-body.home .post-header{
+body.home .post-header {
   margin-top: 20vh;
   background-color: rgba(44, 23, 61, 0.95);
   border-top-left-radius: 10px;
@@ -1238,25 +1253,23 @@ body.home .post-header{
 
 body.home .post-header,
 body.home .post-content,
-body.home .post-content a{
+body.home .post-content a {
   color: white;
   max-width: 75ch;
 
 }
 
-body.home .post-content a{
-  border: none;
+body.home .post-content a {
   background-color: inherit;
   padding: 10px 24px;
   cursor: pointer;
   display: inline-block;
 }
 
-body.home .post-content a:hover{
+body.home .post-content a:hover {
   background: #8b59b4;
   text-decoration: none;
   border-radius: 5px;
-
 }
 
 body.home a.anchorjs-link {
@@ -1268,14 +1281,14 @@ body.home .shaded {
 }
 
 body.home .post-content p{
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 body.home .post-content h3{
   color: white;
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 
