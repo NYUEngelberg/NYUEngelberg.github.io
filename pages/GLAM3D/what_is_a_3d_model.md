@@ -110,7 +110,7 @@ By way of a simple example showing comparative outputs of digitization and 3D mo
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/elizabethan-navigational-clock-compendium-645b243403404ec2bc6745a7bdcd0888?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">ELIZABETHAN NAVIGATIONAL CLOCK COMPENDIUM</a>
         by <a href="https://sketchfab.com/Binkley-Piratepants?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Binkley-Spacetrucker</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -220,11 +220,11 @@ A more common and robust way to save or supply metadata is as an external text f
 
 If it is technically possible and practical to both embed metadata and paradata in a 3D file and provide links to permanent external records, this increases the chances of contextual information about a 3D model remaining linked to it as it is downloaded, re-used, and remixed.
 
-For further guidance regarding what kinds of metadata and paradata to collect and how to do so, explore the work of Cultural Heritage Imaging and their [Digital Lab Notebook](http://culturalheritageimaging.org/Technologies/Digital_Lab_Notebook/), the [Europeana 3D Task Force Report](https://pro.europeana.eu/files/Europeana_Professional/Europeana_Network/Europeana_Network_Task_Forces/Final_reports/3D-TF-final%20report.pdf), and the [Smithsonian 3D Metadata Model](https://dpo.si.edu/blog/smithsonian-3d-metadata-model).
+For further guidance regarding what kinds of metadata and paradata to collect and how to do so, explore the work of Cultural Heritage Imaging and their [Digital Lab Notebook](http://culturalheritageimaging.org/Technologies/Digital_Lab_Notebook/), the [Europeana 3D Task Force Report](https://pro.europeana.eu/files/Europeana_Professional/Europeana_Network/Europeana_Network_Task_Forces/Final_reports/3D-TF-final%20report.pdf), and the [Smithsonian 3D Metadata Model](https://dpo.si.edu/blog/smithsonian-3d-metadata-model)._
 
 <br>
 <br>
-**_NEXT SECTION [Set Goals](set_goals.html)_**
+**NEXT SECTION [Set Goals](set_goals.html)**
 
 ***
 

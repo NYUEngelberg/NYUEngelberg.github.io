@@ -1,6 +1,6 @@
 ---
 title: 5.  Identify
-summary: 
+summary:
 sidebar: glam3D_sidebar
 permalink: identify.html
 
@@ -211,7 +211,7 @@ Photogrammetry “focus stacking” workflow, x-ray CT.
         by <a href="https://sketchfab.com/disc3d?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Digital Archive of Natural History (DiNArDa)</a>
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
-</div>
+</div>_
 
 
 
@@ -221,7 +221,7 @@ Photogrammetry “focus stacking” workflow, x-ray CT.
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/ligia-e302b32112bd4ae3aa503468d7440492?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Ligia</a>
         by <a href="https://sketchfab.com/fishguy?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">fishguy</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -249,7 +249,7 @@ Photogrammetry with polarized light + focus stacking workflow, structured light 
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/aureus-de-marc-aurele-bb8dc376703c401586785b811fe28e15?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Aureus de Marc Aurèle</a>
         by <a href="https://sketchfab.com/museesaintraymond?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Musée Saint-Raymond</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -261,7 +261,7 @@ Photogrammetry with polarized light + focus stacking workflow, structured light 
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/dupondius-doctave-a-la-tete-de-belier-48e52062e37d4a6194a36f76f6eb959f?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Dupondius d&#39;Octave à la tête de bélier</a>
         by <a href="https://sketchfab.com/museesaintraymond?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Musée Saint-Raymond</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -290,7 +290,7 @@ Photogrammetry, structured light Scanning, x-ray CT.
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/risch-rotkreuz-mammut-stosszahn-mammoth-tusk-41d5fd1b83644f398de7cfc6304ef794?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Risch-Rotkreuz, Mammut-Stosszahn / mammoth tusk</a>
         by <a href="https://sketchfab.com/ADA-ZG?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">ADA ZG</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -301,7 +301,7 @@ Photogrammetry, structured light Scanning, x-ray CT.
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/thylacine-cynocephalus-skull-ce69bdef58a54fcea5aefa7ec266117a?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thylacine Cynocephalus skull</a>
         by <a href="https://sketchfab.com/CDHR_ANU?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Centre for Digital Humanities Research</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -329,7 +329,7 @@ Photogrammetry with polarized light, structured light scanning, r-ray CT.
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/bowl-7aae42d34c45432391eeae1a6b4069cb?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Bowl</a>
         by <a href="https://sketchfab.com/varldskulturmuseerna?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Världskulturmuseerna</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -341,7 +341,7 @@ Photogrammetry with polarized light, structured light scanning, r-ray CT.
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/decorative-battle-axe-97575b982f5944baa0c9062d8107a983?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Decorative Battle Axe</a>
         by <a href="https://sketchfab.com/ArmsMuseum?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Arms Museum</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -370,7 +370,7 @@ Photogrammetry with polarized light + dulling spray, structured light scanning, 
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/machine-made-glass-bottle-redone-54d983443b164650b3482ded09f62e34?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Machine-Made Glass Bottle (redone)</a>
         by <a href="https://sketchfab.com/mhoots23?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">mhoots23</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -382,7 +382,7 @@ Photogrammetry with polarized light + dulling spray, structured light scanning, 
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/blue-glass-bead-with-eye-decoration-t-051-49be84870371410781845ff53d36c018?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Blue glass bead with &#39;eye&#39; decoration, T 051</a>
         by <a href="https://sketchfab.com/Limerick3D?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Limerick3D</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -412,7 +412,7 @@ Photogrammetry, structured light scanning (depending on subject size), x-ray CT 
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/1952513-head-of-amenhotep-iii-ff3dd192a81944a0a93a54beb8a7a27f?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">1952.513 Head of Amenhotep III</a>
         by <a href="https://sketchfab.com/clevelandart?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cleveland Museum of Art</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -423,7 +423,7 @@ Photogrammetry, structured light scanning (depending on subject size), x-ray CT 
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/discobolus-the-discus-thrower-50f50abf45414ad8a658325df7a5fcb3?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Discobolus (The Discus Thrower)</a>
         by <a href="https://sketchfab.com/smkmuseum?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">SMK – National Gallery of Denmark</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -454,7 +454,7 @@ Photogrammetry, LiDAR.
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/sy-carola-point-cloud-17bd8188447b48baab75125b9ad20788?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">SY Carola (point cloud)</a>
         by <a href="https://sketchfab.com/ScottishMaritimeMuseum?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Scottish Maritime Museum</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -466,7 +466,7 @@ Photogrammetry, LiDAR.
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/the-great-drawing-room-feb9ad17e042418c8e759b81e3b2e5d7?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">The Great Drawing Room</a>
         by <a href="https://sketchfab.com/TheHallwylMuseum?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">The Hallwyl Museum (Hallwylska museet)</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -542,7 +542,7 @@ Finally, in many cases, including a disclaimer that indicates that the files are
 
 <br>
 <br>
-**_NEXT SECTION -> [Digitize?](/digitize.html)_**
+**NEXT SECTION [Digitize?](/digitize.html)**
 
 ***
 

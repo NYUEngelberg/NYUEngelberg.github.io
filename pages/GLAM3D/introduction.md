@@ -1,6 +1,6 @@
 ---
 title: 1.  Introduction
-summary: 
+summary:
 sidebar: glam3D_sidebar
 permalink: introduction.html
 
@@ -76,7 +76,7 @@ Having established goals and implemented the Open Access program, it is time to 
 
 <br>
 <br>
-**_NEXT SECTION -> [What is Open Access?](/what_is_open_access.html)_**
+**NEXT SECTION [What is Open Access?](/what_is_open_access.html)**
 
 ***
 

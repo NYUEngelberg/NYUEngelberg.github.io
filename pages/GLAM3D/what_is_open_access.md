@@ -115,7 +115,7 @@ Cultural resources, especially those in the worldwide public domain, are the fou
 
 <br>
 <br>
-**_NEXT SECTION -> [What is a 3D Model?](/what_is_a_3D_model.html)_**
+**NEXT SECTION [What is a 3D Model?](/what_is_a_3D_model.html)**
 
 ***
 

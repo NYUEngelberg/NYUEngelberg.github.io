@@ -1,6 +1,6 @@
 ---
 title: Appendix
-summary: 
+summary:
 sidebar: glam3D_sidebar
 permalink: appendix.html
 
@@ -131,13 +131,13 @@ Deciding the output resolution for your 3D model should take into account the in
 
 
 
-###    ii.ii. Color
+####    ii.ii. Color
 
 In addition to describing a shape or form in 3D, a mesh can have (among other things) color information attached to or embedded within it. There are a number of techniques that can be used to add color to a 3D model. They vary based on the original source of the color information, how the color information is attached to specific points on the shape, and how the integrity of the color changes as the model is scaled.
 
 
 
-####        ii.ii.i. Vertex Color
+#####        ii.ii.i. Vertex Color
 
 One way to color a 3D mesh is to assign a color value to each individual vertex. The color of any connected edge or face is then calculated on a gradient between the joined vertices. This is known as **vertex coloring**, and a mesh colored in this way is said to be **vertex colored**. The surface color of a vertex colored mesh is therefore directly linked to the fidelity of the mesh—if you reduce the resolution of the mesh, you reduce the resolution of the surface color information.
 
@@ -146,7 +146,7 @@ One way to color a 3D mesh is to assign a color value to each individual vertex.
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-100k-vertex-color-only-a5452bd007124f03834de96bd9701079?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head of Amenhotep III 100k - Vertex Color Only</a>
         by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -156,7 +156,7 @@ One way to color a 3D mesh is to assign a color value to each individual vertex.
 
 
 
-####        ii.ii.ii. UV Texture Maps
+#####        ii.ii.ii. UV Texture Maps
 
 In addition to coloring a 3D face using a blended gradient, it is possible to assign part of a 2D image file to fill the polygon or triangle surface. The method of assigning parts of an image to a 3D mesh surface is called **UV mapping**. This allows you to create the shape of the object in 3D and then apply a 2D image of the object to give it color and visual texture.
 
@@ -184,7 +184,7 @@ Vertex coloring and UV mapping are not mutually exclusive, and the same 3D mesh 
 
 
 
-####        ii.ii.iii. Normal and Roughness Map—Specialized UV maps
+#####        ii.ii.iii. Normal and Roughness Map—Specialized UV maps
 
 In addition to coloring the faces of a 3D mesh, there are several other texture maps[^87] that can have a dramatic effect on the presentation of a 3D model. Two baseline recommended map types are described below, but there are many more that can be created and applied to a 3D model to help more accurately render a given cultural resource.
 
@@ -192,7 +192,7 @@ In addition to coloring the faces of a 3D mesh, there are several other texture 
 
 
 
-#####            ii.ii.iii.i. Normal Maps
+######            ii.ii.iii.i. Normal Maps
 
 Each face of a 3D model has a surface direction, known as a _normal_. This direction dictates how simulated light bounces off the surface. If we have simplified or decimated a 3D model significantly during optimization, we can run into the problem that a single face replaces much more complex geometry.
 
@@ -212,7 +212,7 @@ A common remedy for this is to encode complicated surface information from a hig
 
 
 
-####            [ii.ii.iii.ii Roughness Maps](#roughness_maps)
+#####            [ii.ii.iii.ii Roughness Maps](#roughness_maps)
 
 Any given cultural resource may include several different surface finishes or be made of several different materials, perhaps with significant differences in how rough or shiny they are. It is not currently possible to easily capture such variation during digitization.
 
@@ -228,7 +228,7 @@ It is possible as part of the post-processing of a 3D model, however, to author 
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/chrysanthemums-by-a-stream-byobu-cbbc0ab5634946d3bfc949c0aff685e6?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">&#39;Chrysanthemums by a Stream&#39;, byōbu</a>
         by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -238,13 +238,13 @@ It is possible as part of the post-processing of a 3D model, however, to author 
 
 
 
-# [iii. Common Types of 3D Model](#common_types_of_3d_model)
+## [iii. Common Types of 3D Model](#common_types_of_3d_model)
 
 While there are as many types of 3D files as there are applications for 3D, we will now look at types of 3D models most common to cultural heritage applications. Note that we are not talking about _file formats_ just yet, simply the general groups of 3D files you can expect to come across in the wild.
 
 
 
-##    [iii.i. Mesh + UV Texture Maps](#mesh_uv_texture_maps)
+###    [iii.i. Mesh + UV Texture Maps](#mesh_uv_texture_maps)
 
 Several 3D file formats support a 3D mesh in conjunction with a linked or embedded image map. Image files either need to be stored alongside the 3D mesh or are embedded in the 3D file itself.
 
@@ -254,7 +254,7 @@ Several 3D file formats support a 3D mesh in conjunction with a linked or embedd
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-5k-colour-texture-02cc5cd1893f484696a8b45923a242aa?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head of Amenhotep III 5k Colour Texture</a>
         by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -262,7 +262,7 @@ Several 3D file formats support a 3D mesh in conjunction with a linked or embedd
 
 
 
-##    [iii.ii. Untextured Mesh](#untextured_mesh)
+###    [iii.ii. Untextured Mesh](#untextured_mesh)
 
 A 3D mesh without any color data applied is said to be **untextured**. Untextured meshes are useful in situations in which the color information related to a cultural resource is not of use—for example, in certain methods of 3D printing or when the 3D form itself is what is important. Some 3D capture techniques like **X-ray computed tomography (CT scanning)** or some **structured light** scanning will not capture color data at the time of digitization.
 
@@ -272,14 +272,14 @@ A 3D mesh without any color data applied is said to be **untextured**. Untexture
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-surface-model-2f8b8099ed0f4846b12d17852cf233e5?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head of Amenhotep III - Surface Model</a>
         by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
 
 
 
-##    [iii.iii. Vertex Colored Mesh](#vertex_colored_mesh)
+###    [iii.iii. Vertex Colored Mesh](#vertex_colored_mesh)
 
 The description of this coloring method is covered above, and it is a common output of some types of 3D scanning processes. Typically, any process that involves the capture or computation of colored vertices as part of 3D data production can lead to a vertex colored mesh output.
 
@@ -288,7 +288,7 @@ The description of this coloring method is covered above, and it is a common out
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-100k-vertex-color-only-a5452bd007124f03834de96bd9701079?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head of Amenhotep III 100k - Vertex Color Only</a>
         by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -296,7 +296,7 @@ The description of this coloring method is covered above, and it is a common out
 
 
 
-##    [iii.iv. Point Cloud](#point_cloud)
+###    [iii.iv. Point Cloud](#point_cloud)
 
 A point cloud or pointcloud is exactly what it sounds like: a 3D model made up exclusively of vertices (points). These kinds of files are commonly an output of LiDAR scanners (often referred to as _laser scanners_) or photogrammetry software. The vertices in a point cloud can be uncolored or have a color value assigned to them.
 
@@ -305,7 +305,7 @@ A point cloud or pointcloud is exactly what it sounds like: a 3D model made up e
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/head-of-amenhotep-iii-150k-pointcloud-78ec567ee0c347d1bbb64cca531f1bab?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Head of Amenhotep III 150k Pointcloud</a>
         by <a href="https://sketchfab.com/nebulousflynn?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Thomas Flynn</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -313,7 +313,7 @@ A point cloud or pointcloud is exactly what it sounds like: a 3D model made up e
 
 
 
-##    [iii.v. Volumetric Data](#volumetric_data)
+###    [iii.v. Volumetric Data](#volumetric_data)
 
 Volumetric data is less common than surface model data in cultural heritage applications, and it is possible to generate a surface model from a volumetric input using specialized software.
 
@@ -330,9 +330,9 @@ The cross-sectional images can be used to generate **volumetric 3D data** —tha
 
 
 
-##    [iii.vi. Additional features](#additional_features)
+###    [iii.vi. Additional features](#additional_features)
 
-###        [iii.vi.i. Animation](#animation)
+####        [iii.vi.i. Animation](#animation)
 
 3D models can be animated in several ways. While animating models is beyond the scope of this paper, animation can help better describe how a cultural resource is constructed, functioned, or was used. Animation could also be the only way to record certain cultural performances, such as dance or theatre.
 
@@ -342,14 +342,14 @@ The cross-sectional images can be used to generate **volumetric 3D data** —tha
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/columbian-press-no-3180-b6bd7b136b1e46dda66c6068d6dbb927?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Columbian Press No 3180</a>
         by <a href="https://sketchfab.com/arboo?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">arboo</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
 
 
 
-###        [iii.vi.ii. 3D Post-Production—Materials and Lighting](#3d_post_production_Materials_and_lighting)
+####        [iii.vi.ii. 3D Post-Production—Materials and Lighting](#3d_post_production_Materials_and_lighting)
 
 When we talk about “capturing a cultural resource in 3D,” we are most often referring to documenting the physical shape of the resource and possibly the surface color as well. Many cultural resources, however, are made from materials that possess specific physical properties that also contribute to a viewer’s understanding of the resource.
 
@@ -385,20 +385,20 @@ Just as in a museum environment, lighting can make a huge difference to how a cu
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/what-is-the-genuine-nefertiti-1295e14c5e634465aa2438004bb8886c?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">What is the genuine Nefertiti?</a>
         by <a href="https://sketchfab.com/add4d?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">AD&amp;D  4D</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
 
 
-# [iv. Common 3D Capture and 3D Creation Techniques and Software](#3d_capturee_and_3d_creation_techniques_and_software)
+## [iv. Common 3D Capture and 3D Creation Techniques and Software](#3d_capturee_and_3d_creation_techniques_and_software)
 
-##    [iv.i. Capture](#capture)
+###    [iv.i. Capture](#capture)
 **Capture** refers to the process of recording an existing cultural resource via digitization process.
 
 
 
-###        [iv.i.i. Photogrammetry](#photogrammetry)
+####        [iv.i.i. Photogrammetry](#photogrammetry)
 
 As photography is a method for converting 3D information into a 2D format, photogrammetry does the opposite, converting 2D information back into digital 3D.
 
@@ -449,7 +449,7 @@ Difficult to capture subjects that are very shiny, transparent, extremely fine (
 
 
 
-###        [iv.i.ii. Structured Light](#structured_light)
+####        [iv.i.ii. Structured Light](#structured_light)
 
 Structured light 3D scanners use specially calibrated projectors and cameras simultaneously projecting and recording a known pattern of lines or grids onto the subject being scanned. Dedicated software then defines a 3D surface model, based upon the distortions in the recorded line or grid pattern made by the subject.
 
@@ -489,7 +489,7 @@ Attempting to scan very large objects generally results in the creation of unusa
 
 
 
-###        [iv.i.iii. LiDAR / Laser Scanning](#lidar_laser_scanning)
+####        [iv.i.iii. LiDAR / Laser Scanning](#lidar_laser_scanning)
 
 Laser scanning hardware is most often used in building information modeling (BIM) to record spaces and architectural scale features. Essentially, laser scanning works by firing a laser from a central unit and recording the 3D position of any surface it strikes, based upon how long the reflected light takes to return to the base station.
 
@@ -527,7 +527,7 @@ No surface or UV mapped color capture, generally not suitable for smaller object
 
 
 
-###        [iv.i.iv. X-ray Computed Tomography](#x-ray_computed_tomography)
+####        [iv.i.iv. X-ray Computed Tomography](#x-ray_computed_tomography)
 
 Commonly used in medical and scientific fields.
 
@@ -565,7 +565,7 @@ No surface color information, scan size limited by x-ray machine volume/portabil
 
 
 
-###        [iv.i.v. Motion Capture](#motion_capture)
+####        [iv.i.v. Motion Capture](#motion_capture)
 
 As the name suggests, motion capture is a digitization technique for capturing movement, most often that of human beings (e.g., full body, facial, hand motion). Traditionally this technique has required studio spaces with specialized cameras and tracking targets attached to the human performers. More recent developments in depth-sensing cameras and even smartphones are making motion capture a much more accessible technology.
 
@@ -605,7 +605,7 @@ No 3D model capture.
 
 
 
-##    [iv.ii. 3D Reconstruction and Creation](#3d_reconstruction_and_creation)
+###    [iv.ii. 3D Reconstruction and Creation](#3d_reconstruction_and_creation)
 
 In addition to 3D scanning of a cultural resource, another way to generate 3D content is to engage a 3D artist to create it from scratch. This method is especially applicable to any cultural resource that is “unscannable,” no longer exists or was destroyed, or never existed in the first place—e.g., a fictional space or object.
 
@@ -615,7 +615,7 @@ Several sub-disciplines of creative work are applicable to generating 3D models 
 
 
 
-###        [iv.ii.i. Modeling](#modeling)
+####        [iv.ii.i. Modeling](#modeling)
 
 3D modeling is the process of creating a three-dimensional representation of a surface or object by manipulating faces/polygons, edges, and vertices in simulated 3D space. Just as Adobe Photoshop and MS Paint are software programs used to create 2D art, 3D modeling software allows users to make art that can be explored in three dimensions.
 
@@ -640,14 +640,14 @@ Typical subjects for a modeling workflow include inorganic structures, architect
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/the-parthenon-rebuilt-4552d90409924583b1fadfc9953134cb?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">The Parthenon Rebuilt</a>
         by <a href="https://sketchfab.com/mdzhang?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Myles Zhang</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
 
 
 
-###        [iv.ii.ii. Texture Painting](#texture_painting)
+####        [iv.ii.ii. Texture Painting](#texture_painting)
 
 Once a 3D model has been created, an additional (sometimes essential) stage in production is to apply realistic colors and materials to the geometry. All texture maps (i.e., color, normal, roughness) can be digitally painted onto a 3D mesh, whether a 3D scan or something that has been created by a 3D artist.
 
@@ -672,14 +672,14 @@ Texture painting makes use of the UV mapping color method described previously a
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/polychrome-relief-depiction-of-maat-e70e5e444e51422e902a65e4d4fe97f9?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Polychrome Relief Depiction of Ma&#39;at</a>
         by <a href="https://sketchfab.com/IPCH_Yale?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">IPCH Digitization Lab</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
 
 
 
-###        [iv.ii.iii. Sculpting](#sculpting)
+####        [iv.ii.iii. Sculpting](#sculpting)
 
 As the name suggests, 3D sculpting is the process of manipulating a 3D object as if it was made out of a material similar to clay. You can push, pull, smooth, grab, pinch, and edit a 3D object to be whatever you’d like.
 
@@ -701,14 +701,14 @@ Typical subjects for a sculpting workflow include organic forms, animals, plants
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/the-punishment-a-study-of-farnese-hercules-0b36d63fd4e44ab6b59088438d4da441?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">The Punishment- A study of Farnese Hercules</a>
         by <a href="https://sketchfab.com/DeepakCC?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Deepak C C</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
 
 
 
-####        [iv.ii.iv. Voxels](#voxels)
+#####        [iv.ii.iv. Voxels](#voxels)
 
 A creation popularized by the videogame _Minecraft_, voxel-based 3D modeling uses visible 3D cubes or blocks (voxels) to build a 3D form. Voxel-based creations can be built “block by block” or existing meshes can be converted to a voxel form using a 3D editor. By no means useful for scientific study or hyper-realistic reconstructions, voxel-based 3D models can still be used to engage with wide-ranging audiences, especially younger crowds.[^93]
 
@@ -731,27 +731,27 @@ A voxel workflow can be used to create 3D representations of most subjects. but 
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/gumusler-monastery-d6f8fae36f99455380593507dcce85ab?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Gumusler Monastery</a>
         by <a href="https://sketchfab.com/sundai?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">sundai</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
 
 
 
-# [v. Quick Start 3D Digitization Guide](#quick_start_digitization_guide)
+## [v. Quick Start 3D Digitization Guide](#quick_start_digitization_guide)
 
 As a word of warning, be careful when using this “let’s just go ahead and capture some 3D and publish it” approach—you may unwittingly be laying a potentially unstable foundation for your organization’s 3D digitization program. Be mindful of how you share your project with your colleagues and in public as people new to the concept will often derive their opinion of 3D digitization and its potential benefits and shortcomings based upon your work.
 
 You should also be aware that any time spent on a project will inevitably generate some form of technical and skill “debt”—i.e., commitment to processes and workflows based on the fact that they exist and are seen as the easiest option. This could make it difficult to change and adapt digitization workflows as required once proper planning is undertaken.
 
 
-##    [v.i. 3D Capture Workflow](#3d_capture_workflow)
+###    [v.i. 3D Capture Workflow](#3d_capture_workflow)
 
 The cheapest and most accessible 3D capture workflow available to you is most likely photogrammetry. The input data are digital images and the required software runs on most computer hardware, with the caveat that on older and less powerful hardware, you will likely have to wait a lot longer for a 3D output to be processed. It is recognized that this suggested technology chain may still be unaffordable to some organizations.
 
 
 
-###        [v.i.i. Camera](#camera)
+####        [v.i.i. Camera](#camera)
 
 Your personal digital camera or smartphone camera are likely good enough for a test project.
 
@@ -759,7 +759,7 @@ Tested.com hosts a good “[photography for photogrammetry” guide](https://www
 
 
 
-###        [v.i.ii. Software](#software)
+####        [v.i.ii. Software](#software)
 
 Here’s a list of free photogrammetry software, with system requirements and official tutorials for each option. It is highly recommended that you review and consider the potential ongoing costs of using commercial software.
 
@@ -798,13 +798,13 @@ Here’s a list of free photogrammetry software, with system requirements and of
 *   [System Requirements](https://www.autodesk.co.uk/products/recap/free-trial#system-requirements)
 *   [Official Tutorials](https://knowledge.autodesk.com/support/recap/learn?sort=score)
 
-###        [v.i.iii. Computer Hardware](#computer_hardware)
+####        [v.i.iii. Computer Hardware](#computer_hardware)
 
 Initially you can simply try running one or all of the suggested software applications on your existing computer hardware. If you find that installing the software does not work or processing takes too long or frequently fails, then it might be time to consider investing in something new, basing your purchase on the system requirements in the software section.
 
 
 
-###        [v.i.iv. Publishing](#publishing)
+####       [v.i.iv. Publishing](#publishing)
 
 See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-3d-viewer) section for hosted and self-hosted options.
 

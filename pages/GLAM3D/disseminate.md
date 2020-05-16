@@ -1,6 +1,6 @@
 ---
 title: 7.  Disseminate
-summary: 
+summary:
 sidebar: glam3D_sidebar
 permalink: disseminate.html
 
@@ -124,7 +124,7 @@ Publishing images, animations, and video derived from 3D models can be a helpful
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
         <a href="https://sketchfab.com/3d-models/king-gustav-vasas-helmet-with-a-gilt-crown-b9766d88112141369b170070fb973c96?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">King Gustav Vasa&#39;s Helmet with a Gilt Crown</a>
         by <a href="https://sketchfab.com/TheRoyalArmoury?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">The Royal Armoury (Livrustkammaren)</a>
-        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>_
     </p>
 </div>
 
@@ -256,6 +256,14 @@ Institutions should strive to present legal and legal-adjacent information in as
 Many cultural objects have other considerations or cultural restrictions that are important to communicate to users. While these considerations and restrictions may not be legally binding, many users will benefit from being aware of them. Cultural sources may also be more supportive of digitization and dissemination efforts when they are accompanied by this type of information.
 
 Local Contexts’ [Traditional Knowledge labels](http://localcontexts.org/tk-labels/) help to facilitate the communication of these types of non-legal use considerations. The labels give cultures that created the works a way to clearly communicate important context to users. They also give users a straightforward way to identify these restrictions and incorporate them into their application.
+
+<br>
+<br>
+**NEXT SECTION [Evaluate and Join](evaluate_and_join.html)**
+
+***
+
+<!-- Footnotes themselves at the bottom. -->
 
 ## Notes
 

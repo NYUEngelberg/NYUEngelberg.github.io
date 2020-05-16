@@ -1,6 +1,6 @@
 ---
 title: 4.  Set Goals
-summary: 
+summary:
 sidebar: glam3D_sidebar
 permalink: set_goals.html
 
@@ -111,7 +111,7 @@ Partnerships can take many forms, such as collaboration with local universities 
 
 <br>
 <br>
-**_NEXT SECTION -> [Identify](/identify.html)_**
+**NEXT SECTION [Identify](/identify.html)**
 
 ***
 

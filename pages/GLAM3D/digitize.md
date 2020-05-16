@@ -1,6 +1,6 @@
 ---
 title: 6.  Digitize
-summary: 
+summary:
 sidebar: glam3D_sidebar
 permalink: digitize.html
 
@@ -175,7 +175,7 @@ Three example data packages follow:
 
 <br>
 <br>
-**_NEXT SECTION -> [Disseminate](/disseminate.html)_**
+**NEXT SECTION [Disseminate](/disseminate.html)**
 
 ***
 

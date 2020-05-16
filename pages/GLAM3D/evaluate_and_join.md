@@ -1,6 +1,6 @@
 ---
 title: 8.  Evaluate and Join
-summary: 
+summary:
 sidebar: glam3D_sidebar
 permalink: evaluate_and_join.html
 
@@ -25,4 +25,4 @@ This resource was created at a moment in late 2019 and early 2020 to help bring 
 
 <br>
 <br>
-**_NEXT SECTION -> [Appendix](/appendix.html)_**
+NEXT SECTION [Appendix](/appendix.html)
