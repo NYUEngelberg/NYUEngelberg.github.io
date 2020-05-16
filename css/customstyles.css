@@ -1214,7 +1214,6 @@ body.home .post-title-main {
   margin-left: 40px;
 }
 
-
 body.home .post-content {
   min-height: 15vh;
   background-color: rgba(44, 23, 61, 0.95);
@@ -1236,8 +1235,9 @@ body.home .shaded {
   display: none;
 }
 
-body.home .post-content .p{
-  margin: 0;
+body.home .post-content p{
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 
