@@ -181,11 +181,18 @@ table tr td {
     hyphens: auto;
 }
 
+p a {
+  color: #7b3ead;
+}
+
+h2,h3,h4,h5,h6 a{
+    color: #7b3ead;
+}
 
 p.external a {
     text-align:right;
     font-size:12px;
-    color: #4D2A69;
+    color: #7b3ead;
     display:inline;
 }
 
@@ -961,6 +968,7 @@ a[href^="http://"]:after, a[href^="https://"]:after {
     display: inline-block;
     text-decoration: none;
     padding-left: 3px;
+    color: #7b3ead;
 }
 
 /* Strip the outbound icon when this class is present */
@@ -969,6 +977,7 @@ a.no_icon:after
  {
     content:"" !important;
     padding-left: 0;
+    color: #7b3ead;
 }
 
 .btn-default {
