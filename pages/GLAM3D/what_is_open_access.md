@@ -67,11 +67,11 @@ To put it directly and simply, Open Access is mission and vision critical for an
 
 
 
-##    2.4. What Does Open Access Achieve For A Cultural Organization?[^9]
+##    2.4. What Does Open Access Achieve For A Cultural Organization?
 
 ###   2.4.1. Increased Engagement with Cultural Resources
 
-Open Access increases engagement with cultural resources by closing the gap between discovery and re-use of resources by users, allowing users to sidestep burdensome, unnecessarily costly, and inefficient rights and permissions processes in order to engage with a cultural resource they discover. Open Access cultural resources propagate across sites and into communities, significantly increasing the likelihood that a member of the public will come into contact with them in the near term after launch, on an institution’s own hosted platform, or with the long-tail in partnership with organizations such as Creative Commons,[^10] Internet Archive, and Wikimedia.
+Open Access increases engagement with cultural resources by closing the gap between discovery and re-use of resources by users, allowing users to sidestep burdensome, unnecessarily costly, and inefficient rights and permissions processes in order to engage with a cultural resource they discover.[^9] Open Access cultural resources propagate across sites and into communities, significantly increasing the likelihood that a member of the public will come into contact with them in the near term after launch, on an institution’s own hosted platform, or with the long-tail in partnership with organizations such as Creative Commons,[^10] Internet Archive, and Wikimedia.
 
 For example, Wikimedia users have viewed works from The Metropolitan Museum of Art’s Open Access collection over 565 million times since 2017.[^11] The Cleveland Museum of Art’s Open Access collection had over 8 million views in its first year alone.[^12] Works from the Rijksmuseum Open Access collection—an early leader—have been viewed almost 2 billion times.[^13] The numbers demonstrate availability and reach through partnership on platforms focused on dedicated user communities with popular appeal and wider awareness.
 
@@ -148,7 +148,7 @@ Cultural resources, especially those in the worldwide public domain, are the fou
      _Category Details for Images from Metropolitan Museum of Art_, Wikimedia, [https://tools.wmflabs.org/glamtools/baglama2/#gid=290&month=201911,](https://tools.wmflabs.org/glamtools/baglama2/#gid=290&month=201911) last accessed April 16, 2020.
 
 [^12]:
-    _ Category Details for Images from Cleveland Museum of Art_, Wikimedia, [https://tools.wmflabs.org/glamtools/baglama2/#gid=341&month=201908,](https://tools.wmflabs.org/glamtools/baglama2/#gid=341&month=201908) last accessed April 16, 2020.
+    _Category Details for Images from Cleveland Museum of Art_, Wikimedia, [https://tools.wmflabs.org/glamtools/baglama2/#gid=341&month=201908,](https://tools.wmflabs.org/glamtools/baglama2/#gid=341&month=201908) last accessed April 16, 2020.
 
 [^13]:
      _Category Details for Rijksmuseum Amsterdam_, Wikimedia, [https://tools.wmflabs.org/glamtools/baglama2/#gid=113&month=202003,](https://tools.wmflabs.org/glamtools/baglama2/#gid=113&month=202003) last accessed April 16, 2020.
@@ -172,7 +172,7 @@ Cultural resources, especially those in the worldwide public domain, are the fou
      Matt Wisdom, _3D Will Make Retailers a Lot of Money (If They Can Solve These 3 Problems)_, VentureBeat (October 23, 2019), [https://venturebeat.com/2019/10/23/3d-will-make-retailers-a-lot-of-money-if-they-can-solve-these-3-problems/](https://venturebeat.com/2019/10/23/3d-will-make-retailers-a-lot-of-money-if-they-can-solve-these-3-problems/)
 
 [^20]:
-     Stuart Jeffrey, _Digital heritage objects, authorship, ownership and engagement_,_ in _Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions (ed. Paola Di Giuseppantonio Di Franco et al. 2018) 49-59, [https://www.academia.edu/37391064/Authenticity_and_cultural_heritage_in_the_age_of_3D_digital_reproductions](https://www.academia.edu/37391064/Authenticity_and_cultural_heritage_in_the_age_of_3D_digital_reproductions)
+     Stuart Jeffrey, _Digital heritage objects, authorship, ownership and engagement_,_ in _Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions (ed. Paola Di Giuseppantonio Di Franco et al. 2018) 49-59, [https://www.academia.edu/37391064/ Authenticity_and_cultural_heritage_in_ the_age_of_3D_digital_reproductions](https://www.academia.edu/37391064/Authenticity_and_cultural_heritage_in_the_age_of_3D_digital_reproductions)
 
 [^21]:
      Denis Sutton, _Authenticity in Art_, _in_ The Oxford Handbook of Aesthetics_ _Vol. 1. (ed. Jerrold Levinson, 2009) 1-17 [https://doi.org/10.1093/oxfordhb/9780199279456.001.0001](https://doi.org/10.1093/oxfordhb/9780199279456.001.0001)
@@ -193,4 +193,4 @@ Cultural resources, especially those in the worldwide public domain, are the fou
      _See_ Harry Verwayen et al., _The Problem of the Yellow Milkmaid: A Business Model Perspective on Open Metadata_, Europeana Pro (November 2011), [https://pro.europeana.eu/files/Europeana_Professional/Publications/Whitepaper_2-The_Yellow_Milkmaid.pdf](https://pro.europeana.eu/files/Europeana_Professional/Publications/Whitepaper_2-The_Yellow_Milkmaid.pdf)
 
 [^27]:
-     Paola Di Giuseppantonio Di Franco et al., _Introduction: Why Authenticity Still Matters Today, in_ Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions (2018) 2, [https://www.academia.edu/37391064/Authenticity_and_cultural_heritage_in_the_age_of_3D_digital_reproductions](https://www.academia.edu/37391064/Authenticity_and_cultural_heritage_in_the_age_of_3D_digital_reproductions)
+     Paola Di Giuseppantonio Di Franco et al., _Introduction: Why Authenticity Still Matters Today, in_ Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions (2018) 2, [https://www.academia.edu/37391064/ Authenticity_and_cultural_ heritage_in_the_age_of_3D_ digital_reproductions](https://www.academia.edu/37391064/Authenticity_and_cultural_heritage_in_the_age_of_3D_digital_reproductions)

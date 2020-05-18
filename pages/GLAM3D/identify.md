@@ -542,7 +542,7 @@ Finally, in many cases, including a disclaimer that indicates that the files are
 
 <br>
 <br>
-**NEXT SECTION [Digitize?](/digitize.html)**
+**NEXT SECTION [Digitize](/digitize.html)**
 
 ***
 
