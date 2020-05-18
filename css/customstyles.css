@@ -267,7 +267,7 @@ div#toc ul li ul {
 }
 
 div#toc a{
-  color: #7b3ead;
+  color: #2f1742;
 }
 
 div#toc ul li ul li::before {
@@ -1354,4 +1354,11 @@ body.home footer {
 
 .post-content .sketchfab-embed-wrapper > h2,h4,h5,h6 {
   margin-left: 0px;
+}
+
+/*footnote styling overrides*/
+
+body.footnotes a{
+  color: #7b3ead;
+  word-wrap: break-word;
 }
