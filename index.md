@@ -6,6 +6,10 @@ toc: false
 bodyClass: home
 ---
 
-The technology and practices related to Open Access 3D digital content creation and its release under Open Access principles are rapidly evolving. We hope to regularly update this paper and website in order to give you confidence that the information you are receiving is as relevant and timely as possible.
+If you are thinking about starting a 3D Open Access program you have come to the right place!
+
+This site will walk you through the entire process of planning, creating, and launching an Open Access 3D scanning program.  It is designed to have something for everyone, from 3D beginners to 3D experts.  
+
+Glam3D.org is an open resource that welcomes contributions and suggestions from the community
 <br>
 ### [GET STARTED](introduction.html)
