@@ -203,7 +203,7 @@ Photogrammetry “focus stacking” workflow, x-ray CT.
 
 
 
-###### Technique: Photogrammetry + [Focus Stacking](https://en.wikipedia.org/wiki/Focus_stacking)
+###### [*Cryptocephalus sericeus* by Digital Archive of Natural History, CC BY 4.0](https://sketchfab.com/3d-models/cryptocephalus-sericeus-0cff43d6c8c14a058c3c8ed16e8bcb58), Technique: Photogrammetry + [Focus Stacking](https://en.wikipedia.org/wiki/Focus_stacking)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/0cff43d6c8c14a058c3c8ed16e8bcb58/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -215,7 +215,7 @@ Photogrammetry “focus stacking” workflow, x-ray CT.
 
 
 
-###### Technique: X-ray CT scan to surface model.
+###### [*Ligia* by fishguy, CC BY 4.0](https://sketchfab.com/models/e302b32112bd4ae3aa503468d7440492), Technique: X-ray CT scan to surface model.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/e302b32112bd4ae3aa503468d7440492/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -243,7 +243,7 @@ Photogrammetry with polarized light + focus stacking workflow, structured light 
 
 **Examples:**
 
-###### Technique: Photogrammetry
+###### [*Aureus de Marc Aurèle* by Musée Saint-Raymond](https://sketchfab.com/3d-models/aureus-de-marc-aurele-bb8dc376703c401586785b811fe28e15), Technique: Photogrammetry
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/bb8dc376703c401586785b811fe28e15/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -255,7 +255,8 @@ Photogrammetry with polarized light + focus stacking workflow, structured light 
 
 
 
-###### Technique: structured light scanning.
+###### [*Dupondius d'Octave à la tête de bélier* by
+Musée Saint-Raymond](https://sketchfab.com/models/48e52062e37d4a6194a36f76f6eb959f), Technique: structured light scanning.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/48e52062e37d4a6194a36f76f6eb959f/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -284,7 +285,7 @@ Photogrammetry, structured light Scanning, x-ray CT.
 
 **Examples:**
 
-###### Technique: X-ray CT to surface model
+###### [*Risch-Rotkreuz, Mammut-Stosszahn / mammoth tusk* by ADA ZG, CC BY 4.0](https://sketchfab.com/models/41d5fd1b83644f398de7cfc6304ef794), Technique: X-ray CT to surface model
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/41d5fd1b83644f398de7cfc6304ef794/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -295,7 +296,7 @@ Photogrammetry, structured light Scanning, x-ray CT.
 </div>
 
 
-###### Technique: Photogrammetry.
+###### [*Thylacinus Cynocephalus cranium* by Centre for Digital Humanities Research, CC BY 4.0](https://sketchfab.com/3d-models/thylacinus-cynocephalus-cranium-ce69bdef58a54fcea5aefa7ec266117a), Technique: Photogrammetry.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/ce69bdef58a54fcea5aefa7ec266117a/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -323,7 +324,8 @@ Photogrammetry with polarized light, structured light scanning, r-ray CT.
 
 **Examples:**
 
-###### Technique: Structured light scanning.
+###### [*Bowl* by
+Världskulturmuseerna, CC BY 4.0](https://sketchfab.com/3d-models/bowl-7aae42d34c45432391eeae1a6b4069cb), Technique: Structured light scanning.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/7aae42d34c45432391eeae1a6b4069cb/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -335,7 +337,7 @@ Photogrammetry with polarized light, structured light scanning, r-ray CT.
 
 
 
-###### Technique: Photogrammetry.
+###### [*Decorative Battle Axe* by Arms Museum](https://sketchfab.com/3d-models/decorative-battle-axe-97575b982f5944baa0c9062d8107a983), Technique: Photogrammetry.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/97575b982f5944baa0c9062d8107a983/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -364,7 +366,7 @@ Photogrammetry with polarized light + dulling spray, structured light scanning, 
 
 **Examples:**
 
-###### Technique: Laser scanning + dulling spray.
+###### [*Machine-made Glass Bottle (redone)* by mhoots23, CC BY 4.0](https://sketchfab.com/3d-models/machine-made-glass-bottle-redone-54d983443b164650b3482ded09f62e34), Technique: Laser scanning + dulling spray.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/54d983443b164650b3482ded09f62e34/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -376,7 +378,7 @@ Photogrammetry with polarized light + dulling spray, structured light scanning, 
 
 
 
-###### Technique: Photogrammetry.
+###### [*Blue glass bead with 'eye' decoration, T 051* by Limerick3D](https://sketchfab.com/3d-models/blue-glass-bead-with-eye-decoration-t-051-49be84870371410781845ff53d36c018), Technique: Photogrammetry.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/49be84870371410781845ff53d36c018/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -406,7 +408,7 @@ Photogrammetry, structured light scanning (depending on subject size), x-ray CT 
 
 **Examples:**
 
-###### Technique: Photogrammetry.
+###### [*1952.513 Head of Amenhotep III* by Cleveland Museum of Art](https://sketchfab.com/3d-models/1952513-head-of-amenhotep-iii-ff3dd192a81944a0a93a54beb8a7a27f), Technique: Photogrammetry.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/ff3dd192a81944a0a93a54beb8a7a27f/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -417,7 +419,7 @@ Photogrammetry, structured light scanning (depending on subject size), x-ray CT 
 </div>
 
 
-###### Technique: Structured light scanning.
+###### [*Discobolus (The Discus Thrower)* by SMK - National Gallery of Denmark](https://sketchfab.com/3d-models/discobolus-the-discus-thrower-50f50abf45414ad8a658325df7a5fcb3), Technique: Structured light scanning.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/50f50abf45414ad8a658325df7a5fcb3/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -448,7 +450,7 @@ Photogrammetry, LiDAR.
 
 **Examples:**
 
-###### Technique: LiDAR + photogrammetry
+###### [*SY Carola (point cloud)* by Scottish Maritime Museum](https://sketchfab.com/3d-models/sy-carola-point-cloud-17bd8188447b48baab75125b9ad20788), Technique: LiDAR + photogrammetry
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/17bd8188447b48baab75125b9ad20788/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -460,7 +462,8 @@ Photogrammetry, LiDAR.
 
 
 
-###### Technique: Photogrammetry.
+###### [*The Great Drawing Room* by
+The Hallwyl Museum (Hallwylska museet), CC BY 4.0](https://sketchfab.com/3d-models/the-great-drawing-room-feb9ad17e042418c8e759b81e3b2e5d7), Technique: Photogrammetry.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/feb9ad17e042418c8e759b81e3b2e5d7/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">

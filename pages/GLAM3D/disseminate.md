@@ -25,7 +25,7 @@ A step further is to embed contextual and descriptive information within the 3D 
 
 In this manner, it is possible to create interactive 3D tours of digitized cultural resources as a proxy for in-gallery experiences like guided object handling.
 
-###### Numbered annotations make it easy to draw attention to specific places in the model.
+###### Numbered annotations make it easy to draw attention to specific places in the model. [*Ancient Maya plate for chocolates* by Alexandre Tokovinine, CC BY 4.0](https://sketchfab.com/3d-models/ancient-maya-plate-for-chocolates-773d1cd8ce614e7d9f6d0cca1677782c)
 
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/773d1cd8ce614e7d9f6d0cca1677782c/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -45,12 +45,12 @@ The same 3D model can generally be displayed using different 3D viewing software
 
 Each software reads the 3D data file(s) and displays it as pixels on the screen—this is known as _rendering_. The part of a software that calculates what the digital file should look like on screen is known as a _rendering engine_. Different rendering engines support different file types and file-specific data. As a result, the same 3D file can look very different in different 3D viewers. That means you will be making choices about how people view the files you create, not just how you will create them.
 
-###### _Baluster vase, from a five-piece graniture_ rendered in the Smithsonian Institution's Voyager 3D viewer
+###### [Baluster vase, from a five-piece graniture](https://3d-api.si.edu/voyager/3d_package:d8c62634-4ebc-11ea-b77f-2e728ce88125) rendered in the Smithsonian Institution's Voyager 3D viewer
 <div class="sketchfab-embed-wrapper">
 <iframe name="Smithsonian Voyager" src="https://3d-api.si.edu/voyager/3d_package:d8c62634-4ebc-11ea-b77f-2e728ce88125" width="800" height="450" allowfullscreen="true"></iframe>
 </div>
 
-###### _Baluster vase, from a five-piece graniture_ rendered in the Sketchfab 3D viewer
+###### [Baluster vase, from a five-piece graniture](https://sketchfab.com/3d-models/baluster-vase-from-a-five-piece-garniture-76a3f7bf75d049458dfaa48aa342e0b8) rendered in the Sketchfab 3D viewer
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/76a3f7bf75d049458dfaa48aa342e0b8/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -118,7 +118,7 @@ Publishing images, animations, and video derived from 3D models can be a helpful
 **High-Resolution Image Renders**
 
 
-
+###### [*King Gustav Vasa's Helmet with a Gilt Crown* by The Royal Armoury (Livrustkammaren), CC BY 4.0](https://sketchfab.com/3d-models/king-gustav-vasas-helmet-with-a-gilt-crown-b9766d88112141369b170070fb973c96)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/b9766d88112141369b170070fb973c96/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -142,18 +142,18 @@ Publishing images, animations, and video derived from 3D models can be a helpful
 
 
 
-##    [7.5. Availability and Findability](#availability_and_findability)
+##    7.5. Availability and Findability
 
 Publishing the 3D data online in any form does not signify the end of an Open Access digitization project. An element of promotion and making the invitation to re-use 3D data clear to target audiences is essential to increase engagement with any Open Access program. Some select considerations for publishing your 3D outputs are laid out below. For guidelines to improve the findability, accessibility, interoperability, and re-use of any kind of digital assets, consider reviewing the [FAIR Principles](https://www.go-fair.org/fair-principles/).
 
 
 
-###        [7.5.1. SEO](#seo)
+###        7.5.1. SEO
 Good search engine optimization (SEO) of web pages featuring your 3D models will help people discover your project online. If somebody performs a web search for “[your organization name] Open Access” or “[term related to cultural resource] 3D model” (as two basic examples), they should be pointed in the right direction.
 
 
 
-###        [7.5.2. Data Interfaces/APIs](#data_interfaces_apis)
+###        7.5.2. Data Interfaces/APIs
 Making your data available via both human and machine interfaces—that is to say browsable web pages as well as APIs—allows for different forms of engagement. The former caters to individuals and individuals presenting your work to a group (e.g., teachers presenting to a classroom of students); the latter can plug your cultural 3D data into entire digital platforms and get it in front of potentially massive 3D-oriented communities.
 
 ###### Browsing 3D models hosted on sketchfab.com in Facebook’s Spark AR application (used to make Instagram AR filters) is made possible by an [API integration](https://sparkar.facebook.com/ar-studio/learn/documentation/docs/ar-library/).
@@ -167,13 +167,13 @@ Making your data available via both human and machine interfaces—that is to sa
 
 [Google Poly API](https://developers.google.com/poly/develop/api)
 
-##    [7.6. Active Promotion](#active_promotion)
+##    7.6. Active Promotion
 
 Once 3D data has been published, it should be a priority to advocate for its re-use by colleagues within your GLAM organization as much as by your target audiences. Teach people how 3D models can be embedded in object collection pages, exhibition marketing, in-gallery interactive—wherever it’s relevant. Make a special effort to support marketing and social media teams in understanding how they can draw on 3D model resources to create engaging content tailored for audiences where they already exist—i.e., digital newsletters, blog articles, and social media platforms.
 
 
 
-###        [7.6.1. Partnerships](#partnerships)
+###        7.6.1. Partnerships
 
 Any strategy for disseminating 3D content online should define basic partner platforms to help deliver the same 3D content in as many ways as possible. Different online platforms offer varying functionality and often cater to specific audiences and choosing the right platforms.
 
@@ -202,19 +202,19 @@ Some platforms to consider:
 *   [Wikimedia Commons](https://commons.wikimedia.org/) -
 “We’ve enabled a new feature that allows you to upload three-dimensional (3D) models.”
 
-##    [7.7. Legal Infrastructure](#legal_infrastructure)
+##    7.7. Legal Infrastructure
 
 It is critical to include legal information about digitized cultural assets to users. Without this information, users will be unable to make full use of digitized assets.
 
 
 
-###        [7.7.1. Licensing Best Practices (Digitizations of Cultural Objects)](#licensing_best_practices_digitizations_of_cultural_objects)
+###        7.7.1. Licensing Best Practices (Digitizations of Cultural Objects)
 
 As described in Section 5.3, many jurisdictions do not—or soon may not—recognize an additional copyright interest in digitizations. As a result, in many cases—although certainly not all—digitizing institutions will not have a copyright interest in the digital file that represents a cultural object. In light of this ambiguity, institutions should use licenses to clarify how users may make use of files included in Open Access initiatives.
 
 
 
-####            [7.7.1.1. Legal Agreements](#legal_agreements)
+####            7.7.1.1. Legal Agreements
 
 The current best practice is to use the [Creative Commons CC0 mark](https://creativecommons.org/share-your-work/public-domain/cc0/) on all Open Access digitized objects. The CC0 mark is designed to waive any copyright interest jurisdictions may grant your institution in the digitizations themselves. This includes the jurisdiction where your institution is based, as well as jurisdictions where your user may be based. Using the CC0 mark makes it clear to all users that the digitizing institution does not claim additional legal rights in a digitized object in the relatively unlikely event that those rights do exist.
 
@@ -228,7 +228,7 @@ Institutions should also avoid the impulse to impose additional restrictions on 
 
 
 
-####            [7.7.1.2. Non-Legal Indicators](#non-legal_indicators)
+####            7.7.1.2. Non-Legal Indicators
 
 While it is not best practice to impose legal restrictions on the use of digitized cultural objects, it is acceptable to make non-binding requests of those users. This is especially true in the case of restrictions—such as a requirement of attribution—that the institution is unlikely to actively enforce through legal mechanisms. It is critical that the institution makes it clear that it understands these requests to be non-binding, and not to cloak them in quasi-legal language or presentation styles.
 
@@ -238,7 +238,7 @@ These best practices have generally been developed for cultural objects in the p
 
 
 
-###        [7.7.2. Licensing Best Practices (Metadata and Descriptions)](#licensing_best_practices_metadata_and_descriptions)
+###        7.7.2. Licensing Best Practices (Metadata and Descriptions)
 
 Section 5.3 explains that digitizing institutions may have more legal rights in information such as metadata and descriptions of digitized cultural objects than digitized versions of the objects themselves. Nonetheless, it is best practice for digitizing institutions to license all metadata and descriptions using the CC0 license.
 
@@ -247,12 +247,12 @@ Other permissive licensing structures (such as the attribution requirement of a 
 As with the digitized objects themselves, nothing in the use of CC0 prevents the digitizing institution from requesting attribution or feedback on re-use. The difference between a request and a legally binding demand increases the amount of flexibility available to the user.
 
 
-###        [7.7.3. Presenting Legal and Quasi-Legal Language](#presenting_legal_and_quasi-legal_language)
+###        7.7.3. Presenting Legal and Quasi-Legal Language
 
 Institutions should strive to present legal and legal-adjacent information in as approachable a manner as possible, and to streamline its presentation to the public. While licenses, warranties, and requests are important, they can also be intimidating to users without a background in legal text. The mere presence of “legalese” can act as a barrier for perfectly legitimate uses. Successful Open Access projects are inviting to users. While it may feel like adding one additional clause to address an edge case is responsible stewardship or lawyering, the cost of doing so may be reducing the types of engagement that motivate the initiative in the first place.
 
 
-###        [7.7.4. Cultural Labelling](#cultural_labeling)
+###        7.7.4. Cultural Labelling
 
 Many cultural objects have other considerations or cultural restrictions that are important to communicate to users. While these considerations and restrictions may not be legally binding, many users will benefit from being aware of them. Cultural sources may also be more supportive of digitization and dissemination efforts when they are accompanied by this type of information.
 

@@ -66,7 +66,7 @@ A 3D model primarily differs from a 2D image by the addition of an extra dimensi
 
 Knowing that we have three axes of movement, we can place a point in 3D space that exists somewhere along each plane of movement. With regard to 3D, we generally call this point a **vertex**. A 3D model composed exclusively of **vertices** is known as a **point cloud**.
 
-###### Point cloud of St. Alfege Church
+###### Point cloud of [*St. Alfege Church Greenwich* by GreenwichVistaLand, CC BY 4.0](https://sketchfab.com/3d-models/st-alfege-church-greenwich-3d531d9bb4dc479ca66e30136cf89229)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/3d531d9bb4dc479ca66e30136cf89229/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -103,6 +103,7 @@ Triangles, quads, and ngons are collectively referred to as **faces**.
 
 By joining and aligning 3D faces, we are able to begin describing 3D shapes from simple pyramids and cubes, all the way up to complex forms like statues, vases, skulls, entire buildings, land masses, etc. These joined up faces are referred to as the **mesh**, **geometry**, or **surface** of a 3D model.
 
+###### [*Mammuthus primigenius (Blumbach)* by The Smithsonian Institution](https://sketchfab.com/3d-models/mammuthus-primigenius-blumbach-229976b3db4646b39c44e57a7e3d8744)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/229976b3db4646b39c44e57a7e3d8744/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -115,6 +116,7 @@ By joining and aligning 3D faces, we are able to begin describing 3D shapes from
 
 As a general rule, the more vertices, edges, and faces used to describe a given cultural resource, the more accurately that form will be described in digital 3D. This is often referred to as the **resolution** or **fidelity** of a 3D model. As the resolution of a 3D model increases, so too does the file size and the computational power required to create, capture, and display it in real-time 3D.
 
+###### [*Surface Mesh Resolution Comparison* by Thomas Flynn, CC BY 4.0](https://sketchfab.com/3d-models/surface-mesh-resolution-comparison-8c65ab68b4ec4bd5a2bdc9f8f072023a)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/8c65ab68b4ec4bd5a2bdc9f8f072023a/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -141,6 +143,7 @@ In addition to describing a shape or form in 3D, a mesh can have (among other th
 
 One way to color a 3D mesh is to assign a color value to each individual vertex. The color of any connected edge or face is then calculated on a gradient between the joined vertices. This is known as **vertex coloring**, and a mesh colored in this way is said to be **vertex colored**. The surface color of a vertex colored mesh is therefore directly linked to the fidelity of the mesh—if you reduce the resolution of the mesh, you reduce the resolution of the surface color information.
 
+###### [*Head of Amenhotep III 100k - Vertex Color Only* by Thomas Flynn, CC BY 4.0](https://sketchfab.com/3d-models/head-of-amenhotep-iii-100k-vertex-color-only-a5452bd007124f03834de96bd9701079)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/a5452bd007124f03834de96bd9701079/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -221,7 +224,7 @@ It is possible as part of the post-processing of a 3D model, however, to author 
 ###### Chrysanthemums by a Stream rendered without a roughness map or simulated lighting.
 ![Image of a model without a roughness map or simulated light](images/shade_no_simulated_light.png "Image of a model without a roughness map or simulated light")
 
-###### ...the model with a roughness map and lighting applied. Note the reflective highlight now apparent in the areas of gold leaf. The effect is even more apparent when viewed in 3D. It is possible to view an 'unlit' version of this embed by using the [model inspector](https://help.sketchfab.com/hc/en-us/articles/115004862686-Model-Inspector).
+###### ...the [model](https://sketchfab.com/models/cbbc0ab5634946d3bfc949c0aff685e6) with a roughness map and lighting applied. Note the reflective highlight now apparent in the areas of gold leaf. The effect is even more apparent when viewed in 3D. It is possible to view an 'unlit' version of this embed by using the [model inspector](https://help.sketchfab.com/hc/en-us/articles/115004862686-Model-Inspector).
 
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/cbbc0ab5634946d3bfc949c0aff685e6/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -248,7 +251,7 @@ While there are as many types of 3D files as there are applications for 3D, we w
 
 Several 3D file formats support a 3D mesh in conjunction with a linked or embedded image map. Image files either need to be stored alongside the 3D mesh or are embedded in the 3D file itself.
 
-
+###### [*Head of Amenhotep III 5k Colour Texture* by Thomas Flynn, CC BY 4.0](https://sketchfab.com/3d-models/head-of-amenhotep-iii-5k-colour-texture-02cc5cd1893f484696a8b45923a242aa)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/02cc5cd1893f484696a8b45923a242aa/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -266,7 +269,7 @@ Several 3D file formats support a 3D mesh in conjunction with a linked or embedd
 
 A 3D mesh without any color data applied is said to be **untextured**. Untextured meshes are useful in situations in which the color information related to a cultural resource is not of use—for example, in certain methods of 3D printing or when the 3D form itself is what is important. Some 3D capture techniques like **X-ray computed tomography (CT scanning)** or some **structured light** scanning will not capture color data at the time of digitization.
 
-
+###### [*Head of Amenhotep III - Surface Model* by Thomas Flynn CC BY 4.0](https://sketchfab.com/3d-models/head-of-amenhotep-iii-surface-model-2f8b8099ed0f4846b12d17852cf233e5)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/2f8b8099ed0f4846b12d17852cf233e5/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -283,6 +286,7 @@ A 3D mesh without any color data applied is said to be **untextured**. Untexture
 
 The description of this coloring method is covered above, and it is a common output of some types of 3D scanning processes. Typically, any process that involves the capture or computation of colored vertices as part of 3D data production can lead to a vertex colored mesh output.
 
+###### [*Head of Amenhotep III 100k - Vertex Color Only* by Thomas Flynn, CC BY 4.0](https://sketchfab.com/3d-models/head-of-amenhotep-iii-100k-vertex-color-only-a5452bd007124f03834de96bd9701079)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/a5452bd007124f03834de96bd9701079/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -300,6 +304,7 @@ The description of this coloring method is covered above, and it is a common out
 
 A point cloud or pointcloud is exactly what it sounds like: a 3D model made up exclusively of vertices (points). These kinds of files are commonly an output of LiDAR scanners (often referred to as _laser scanners_) or photogrammetry software. The vertices in a point cloud can be uncolored or have a color value assigned to them.
 
+###### [*Head of Amenhotep III 150k Pointcloud* by Thomas Flynn, CC BY 4.0](https://sketchfab.com/3d-models/head-of-amenhotep-iii-150k-pointcloud-78ec567ee0c347d1bbb64cca531f1bab)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/78ec567ee0c347d1bbb64cca531f1bab/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -336,7 +341,7 @@ The cross-sectional images can be used to generate **volumetric 3D data** —tha
 
 3D models can be animated in several ways. While animating models is beyond the scope of this paper, animation can help better describe how a cultural resource is constructed, functioned, or was used. Animation could also be the only way to record certain cultural performances, such as dance or theatre.
 
-
+###### [*Columbian Press No 3180* by arboo, CC BY 4.0](https://sketchfab.com/3d-models/columbian-press-no-3180-b6bd7b136b1e46dda66c6068d6dbb927)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/b6bd7b136b1e46dda66c6068d6dbb927/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -380,6 +385,7 @@ Just as in a museum environment, lighting can make a huge difference to how a cu
 
 ...the same 3D scene with a simulated lighting environment.
 
+###### [*What is the genuine Nefertiti?* by AD&D, CC BY 4.0](https://sketchfab.com/3d-models/what-is-the-genuine-nefertiti-1295e14c5e634465aa2438004bb8886c)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/1295e14c5e634465aa2438004bb8886c/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -634,7 +640,7 @@ Typical subjects for a modeling workflow include inorganic structures, architect
 [SketchUp](https://www.sketchup.com/)
 
 
-
+###### [*The Parthenon Rebuilt* by Myles Zhang, CC BY 4.0](https://sketchfab.com/3d-models/the-parthenon-rebuilt-4552d90409924583b1fadfc9953134cb)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/4552d90409924583b1fadfc9953134cb/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -666,7 +672,7 @@ Texture painting makes use of the UV mapping color method described previously a
 [ZBrush](https://pixologic.com/)
 
 
-
+###### [*Polychrome Relief Depiction of Ma'at* by IPCH Digitization Lab, CC BY 4.0](https://sketchfab.com/3d-models/polychrome-relief-depiction-of-maat-e70e5e444e51422e902a65e4d4fe97f9)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/e70e5e444e51422e902a65e4d4fe97f9/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -696,6 +702,7 @@ Typical subjects for a sculpting workflow include organic forms, animals, plants
 
 [ZBrush](https://pixologic.com/)
 
+###### [*The Punishment- A study of Farnese Hercules* by Deepak C C, CC BY 4.0](https://sketchfab.com/3d-models/the-punishment-a-study-of-farnese-hercules-0b36d63fd4e44ab6b59088438d4da441)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/0b36d63fd4e44ab6b59088438d4da441/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -725,7 +732,7 @@ A voxel workflow can be used to create 3D representations of most subjects. but 
 [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
 
-
+###### [*Gumusler Monastery* by sundai, CC BY 4.0](https://sketchfab.com/3d-models/gumusler-monastery-d6f8fae36f99455380593507dcce85ab)
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/d6f8fae36f99455380593507dcce85ab/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
