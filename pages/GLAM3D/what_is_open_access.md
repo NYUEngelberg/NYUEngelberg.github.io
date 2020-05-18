@@ -139,7 +139,7 @@ Cultural resources, especially those in the worldwide public domain, are the fou
 
 [^9]:
 
-     For a review of many institutions’ experiences with Open Access, see Effie Kapsalis, _The Impact of Open Access on Galleries, Libraries, Museums, & Archives_, Smithsonian Emerging Leaders Development Program (April 27, 2016), [http://siarchives.si.edu/sites/default/files/pdfs/2016_03_10_OpenCollections_Public.pdf](http://siarchives.si.edu/sites/default/files/pdfs/2016_03_10_OpenCollections_Public.pdf).
+     For a review of many institutions’ experiences with Open Access, see Effie Kapsalis, _The Impact of Open Access on Galleries, Libraries, Museums, & Archives_, Smithsonian Emerging Leaders Development Program (April 27, 2016), [http://siarchives.si.edu/sites/ default/files/pdfs/ 2016_03_10_OpenCollections_Public.pdf](http://siarchives.si.edu/sites/default/files/pdfs/2016_03_10_OpenCollections_Public.pdf).
 
 [^10]:
      Jane Park, _CC Search Is out of Beta with 300M Images and Easier Attribution_, Creative Commons Blog (April 30, 2019), [https://creativecommons.org/2019/04/30/cc-search-images/](https://creativecommons.org/2019/04/30/cc-search-images/)
