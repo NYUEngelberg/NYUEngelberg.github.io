@@ -708,7 +708,7 @@ Typical subjects for a sculpting workflow include organic forms, animals, plants
 
 
 
-#####        [iv.ii.iv. Voxels](#voxels)
+####        iv.ii.iv. Voxels
 
 A creation popularized by the videogame _Minecraft_, voxel-based 3D modeling uses visible 3D cubes or blocks (voxels) to build a 3D form. Voxel-based creations can be built “block by block” or existing meshes can be converted to a voxel form using a 3D editor. By no means useful for scientific study or hyper-realistic reconstructions, voxel-based 3D models can still be used to engage with wide-ranging audiences, especially younger crowds.[^93]
 
@@ -831,7 +831,7 @@ See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-
      Merete Sanderhoff, _Scanning SMK, One Sculpture at a Time,_ Medium (August 29, 2019), [https://medium.com/smk-open/scanning-smk-one-sculpture-at-a-time-8e72196219fd](https://medium.com/smk-open/scanning-smk-one-sculpture-at-a-time-8e72196219fd)
 
 [^67]:
-     _SMK_—_Statens Museum for Kunst @SMK_—_Statens Museum for Kunst_—_MyMiniFactory_, [https://www.myminifactory.com/users/SMK%20-%20Statens%20Museum%20for%20Kunst](https://www.myminifactory.com/users/SMK%20-%20Statens%20Museum%20for%20Kunst), last accessed December 16, 2019.
+     _SMK_—_Statens Museum for Kunst @SMK_—_Statens Museum for Kunst_—_MyMiniFactory_, [https://www.myminifactory.com/users/ SMK%20-%20Statens%20Museum %20for%20Kunst](https://www.myminifactory.com/users/SMK%20-%20Statens%20Museum%20for%20Kunst), last accessed December 16, 2019.
 
 [^68]:
      _SMK2 Presents: Digital Casts_—_A 3D Model Collection by SMK_—_National Gallery of Denmark (@smkmuseum)_, Sketchfab, [https://sketchfab.com/smkmuseum/collections/smk2-presents-digital-casts](https://sketchfab.com/smkmuseum/collections/smk2-presents-digital-casts), last accessed April 16, 2020.
@@ -867,7 +867,7 @@ See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-
      Marc Bretzfelder, _Google Expeditions AR Brings Smithsonian 3D Models into the Home and Classroom via Augmented Reality_, SI Digi Blog (September 14, 2018), [https://dpo.si.edu/index.php/blog/google-expeditions-ar-brings-smithsonian-3d-models-home-and-classroom-augmented-reality](https://dpo.si.edu/index.php/blog/google-expeditions-ar-brings-smithsonian-3d-models-home-and-classroom-augmented-reality)
 
 [^79]:
-     _Ewer with Birds, Snakes and Humans, National Museum of Asian Art,_ AWS Sumerian. [https://56bfe6d67d7c4e04a6ab2152540a7e44.us-west-2.sumerian.aws/,](https://56bfe6d67d7c4e04a6ab2152540a7e44.us-west-2.sumerian.aws/) last accessed April 10, 2020.
+     _Ewer with Birds, Snakes and Humans, National Museum of Asian Art,_ AWS Sumerian. [https://56bfe6d67d7c4e04a6ab2152540a7e44 .us-west-2.sumerian.aws/,](https://56bfe6d67d7c4e04a6ab2152540a7e44.us-west-2.sumerian.aws/) last accessed April 10, 2020.
 
 [^80]:
      _3D Scanning: The 21st-Century Equivalent to a 19th Century Process_, Smithsonian Digitization Program Office, [https://dpo.si.edu/blog/3d-scanning-21st-century-equivalent-19th-century-process,](https://dpo.si.edu/blog/3d-scanning-21st-century-equivalent-19th-century-process) last accessed December 16, 2019.
@@ -903,10 +903,10 @@ See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-
      Copy Culture: Sharing in the Age of Digital Reproduction 203 (Brendan Cormier ed., 2018), [https://vanda-production-assets.s3.amazonaws.com/2018/06/15/11/42/57/e8582248-8878-486e-8a28-ebb8bf74ace8/Copy%20Culture.pdf](https://vanda-production-assets.s3.amazonaws.com/2018/06/15/11/42/57/e8582248-8878-486e-8a28-ebb8bf74ace8/Copy%20Culture.pdf)
 
 [^91]:
-     _Cultural Heritage User Survey 2019_, Sketchfab (August 2019), [https://docs.google.com/presentation/d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/edit#slide=id.g5e4c799188_0_419](https://docs.google.com/presentation/d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/edit#slide=id.g5e4c799188_0_419)
+     _Cultural Heritage User Survey 2019_, Sketchfab (August 2019), [https://docs.google.com/presentation/ d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/ edit#slide=id.g5e4c799188_0_419](https://docs.google.com/presentation/d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/edit#slide=id.g5e4c799188_0_419)
 
 [^92]:
-     _Cultural Heritage User Survey 2019_, Sketchfab (August 2019), [https://docs.google.com/presentation/d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/edit#slide=id.g5e4c799188_0_450](https://docs.google.com/presentation/d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/edit#slide=id.g5e4c799188_0_450)
+     _Cultural Heritage User Survey 2019_, Sketchfab (August 2019), [https://docs.google.com/presentation/ d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/ edit#slide=id.g5e4c799188_0_450](https://docs.google.com/presentation/d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/edit#slide=id.g5e4c799188_0_450)
 
 [^93]:
      _See e.g._, Manuel Charr, _How Museums Are Using Minecraft to Gamify Learning Experiences_, MuseumNext (July 17, 2019), [https://www.museumnext.com/article/minecrafting-the-museum](https://www.museumnext.com/article/minecrafting-the-museum)
