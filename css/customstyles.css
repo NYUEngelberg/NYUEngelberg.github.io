@@ -1283,9 +1283,9 @@ body.home .post-content a:hover {
   border-radius: 5px;
 }
 
-/*body.home a.anchorjs-link {
+body.home a.anchorjs-link {
   display: none;
-}*/
+}
 
 body.home .shaded {
   display: none;
