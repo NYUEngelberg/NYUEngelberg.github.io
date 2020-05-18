@@ -25,7 +25,7 @@ Some common use cases for 3D models include:
 
 Probably the most common type of 3D model is a surface model, a digital description of the outward contours and appearance of a physical shape or form. A surface model is built of faces, and, similarly to the pixel dimensions of a 2D image, the resolution of a 3D model can be described for the most part in terms of the number of faces (the facecount) used to represent a cultural resource. Surface models are a common output from photogrammetry, structured light, and x-ray CT workflows.
 
-###### 3D surface model of Marble head of Head of Amenhotep III derived from a model published by The Cleveland Museum of Art - the face edges (the wireframe) are highlighted. This model was created using a photogrammetry workflow.
+###### 3D surface model of [Marble head of Head of Amenhotep III](https://sketchfab.com/models/2f8b8099ed0f4846b12d17852cf233e5) derived from a model published by The Cleveland Museum of Art - the face edges (the wireframe) are highlighted. This model was created using a photogrammetry workflow.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/2f8b8099ed0f4846b12d17852cf233e5/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -42,7 +42,7 @@ Probably the most common type of 3D model is a surface model, a digital descript
 As the name suggests, this surface model has no concept or record of a cultural resource’s internal structure—it is akin to a papier-mâché model in the real world: empty on the inside. By way of example, a 3D surface model of a wooden statue holds no record of the wood’s internal grain.
 
 
-###### The same 3D surface model of Head of Amenhotep III bisected, showing that it is hollow inside. The inward faces have been colored blue and a light and shadow added for easier recognition of this feature.
+###### The same 3D surface model of [Head of Amenhotep III](https://sketchfab.com/models/b4d80f3e2f4e42cf97009d1c513499fe) bisected, showing that it is hollow inside. The inward faces have been colored blue and a light and shadow added for easier recognition of this feature.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/b4d80f3e2f4e42cf97009d1c513499fe/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -59,7 +59,7 @@ As the name suggests, this surface model has no concept or record of a cultural 
 Another common type of 3D model is the point cloud. Instead of representing a physical shape with faces, we can also describe it using a number points or dots arranged in 3D space.
 
 
-###### The same cultural resource represented by 3D as a point cloud.
+###### The same cultural resource [represented](https://sketchfab.com/models/78ec567ee0c347d1bbb64cca531f1bab) by 3D as a point cloud.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/78ec567ee0c347d1bbb64cca531f1bab/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -93,7 +93,7 @@ While this paper would be remiss in not mentioning both digitization and modelin
 By way of a simple example showing comparative outputs of digitization and 3D modeling workflows, consider the two representations of a Roman villa below as typical outputs of the two processes.
 
 
-###### An example of a 3D output from a digitization workflow.
+###### An example of a [3D output](https://sketchfab.com/models/5161d4ea1ae54ff793e38c84aeb0a4d9) from a digitization workflow.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/5161d4ea1ae54ff793e38c84aeb0a4d9/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -104,7 +104,7 @@ By way of a simple example showing comparative outputs of digitization and 3D mo
 </div>
 
 
-###### A similar subject as created via a 3D modeling workflow.
+###### A [similar subject](https://sketchfab.com/models/645b243403404ec2bc6745a7bdcd0888) as created via a 3D modeling workflow.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/645b243403404ec2bc6745a7bdcd0888/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
