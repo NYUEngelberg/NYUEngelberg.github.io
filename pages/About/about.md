@@ -20,6 +20,7 @@ This site would not have been possible without help, feedback, and support from 
 * [Daniel Pett](https://twitter.com/DEJPett), [Fitzwilliam Museum](https://www.fitzmuseum.cam.ac.uk/)
 * [Al Rawlinson](https://twitter.com/alrawli), [Historic Environment Scotland](https://www.historicenvironment.scot/)
 * [Robert M. Thompson](https://www.linkedin.com/in/robert-m-thompson-b3a5044a/), [National Institute for Standards and Technology](https://www.nist.gov/)
+* [Corey Timpson](https://twitter.com/coreytimpson), [Corey Timpson Design](https://coreytimpson.com/)
 * [Andrea Wallace](https://twitter.com/andeewallace), [University of Exeter Law School](https://socialsciences.exeter.ac.uk/law/)
 * [Lyn Wilson](https://twitter.com/Scottish3D), [Historic Environment Scotland](https://www.historicenvironment.scot/)
 * [Diane Zorich](https://twitter.com/dzorich), [Digitization Program Office at the Smithsonian](https://dpo.si.edu/)
