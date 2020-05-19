@@ -126,16 +126,17 @@ Cultural resources, especially those in the worldwide public domain, are the fou
      Within the Creative Commons framework, a Creative Commons Attribution license is the most restrictive license that qualifies. However, even that license should be used only if the institution actually holds a copyright in the cultural resource or digitized file. In the absence of a copyright (which will be absent in many cases discussed here), a CC0 Public Domain Dedication should be used.
 
 [^5]:
-     Jason Bailey and Neal Stimler, _Solving Art’s Data Problem—Part One, Museums_, Artnome (April 29, 2019), [https://www.artnome.com/news/2019/4/29/solving-arts-data-problem-part-one-museums](https://www.artnome.com/news/2019/4/29/solving-arts-data-problem-part-one-museums) Other important definitions about Open Access are in the 2003 Berlin Declaration, see _Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities_, Max-Planck-Gesellschaft [https://openaccess.mpg.de/Berlin-Declaration](https://openaccess.mpg.de/Berlin-Declaration), last accessed April 16, 2020; the definition provided by Peter Suber in his book _Open Access_, see Peter Suber, _Open Access_ (2012), [https://mitpress.mit.edu/books/open-access](https://mitpress.mit.edu/books/open-access); and the definition maintained by Creative Commons, see _Open Access_, Creative Commons, [https://creativecommons.org/about/program-areas/open-access/, last accessed April 16, 2020.](https://creativecommons.org/about/program-areas/open-access/)
+     Jason Bailey and Neal Stimler, _Solving Art’s Data Problem—Part One, Museums_, Artnome (April 29, 2019), [https://www.artnome.com/ news/2019/4/29/
+     solving-arts-data-problem-part-one-museums](https://www.artnome.com/news/2019/4/29/solving-arts-data-problem-part-one-museums) Other important definitions about Open Access are in the 2003 Berlin Declaration, see _Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities_, Max-Planck-Gesellschaft [https://openaccess.mpg.de/Berlin-Declaration](https://openaccess.mpg.de/Berlin-Declaration), last accessed April 16, 2020; the definition provided by Peter Suber in his book _Open Access_, see Peter Suber, _Open Access_ (2012), [https://mitpress.mit.edu/books/open-access](https://mitpress.mit.edu/books/open-access); and the definition maintained by Creative Commons, see _Open Access_, Creative Commons, [https://creativecommons.org/about/program-areas/open-access/, last accessed April 16, 2020.](https://creativecommons.org/about/program-areas/open-access/)
 
 [^6]:
-     International DOI Foundation, _Driven by DOI_, [https://www.doi.org/driven_by_doi/DOI_Marketing_Brochure.pdf](https://www.doi.org/driven_by_doi/DOI_Marketing_Brochure.pdf), last updated November 21, 2014. For example, the British Museum uses DOIs to track the data and models associated with the Rosetta Stone. _See_ _Data for the creation of the Rosetta Stone in 3D_, GitHub,  [https://github.com/portableant/rosettastone](https://github.com/portableant/rosettastone), last accessed April 16, 2020.
+     International DOI Foundation, _Driven by DOI_, [https://www.doi.org/ driven_by_doi/ DOI_Marketing_Brochure.pdf](https://www.doi.org/driven_by_doi/DOI_Marketing_Brochure.pdf), last updated November 21, 2014. For example, the British Museum uses DOIs to track the data and models associated with the Rosetta Stone. _See_ _Data for the creation of the Rosetta Stone in 3D_, GitHub,  [https://github.com/portableant/rosettastone](https://github.com/portableant/rosettastone), last accessed April 16, 2020.
 
 [^7]:
-     _See e.g._, National Park Service, _NPS-28: Cultural Resource Management Guideline_,  [https://www.nps.gov/parkhistory/online_books/nps28/28contents.htm](https://www.nps.gov/parkhistory/online_books/nps28/28contents.htm/), last updated August 16, 2002. It is also important to consider how Open Access policies might interact with existing concepts of heritage, community autonomy, and cultural sovereignty. As much as possible, Open Access should be a practice that empowers individuals and groups with parity of opportunity, while upholding the principles of liberty, like freedom of conscience and expression.
+     _See e.g._, National Park Service, _NPS-28: Cultural Resource Management Guideline_,  [https://www.nps.gov/ parkhistory/online_books/ nps28/28contents.htm](https://www.nps.gov/parkhistory/online_books/nps28/28contents.htm/), last updated August 16, 2002. It is also important to consider how Open Access policies might interact with existing concepts of heritage, community autonomy, and cultural sovereignty. As much as possible, Open Access should be a practice that empowers individuals and groups with parity of opportunity, while upholding the principles of liberty, like freedom of conscience and expression.
 
 [^8]:
-     William Griswold, _Introducing Open Access at the CMA: For the Benefit of All the People Forever_,  Medium (January 23, 2019), [https://medium.com/cma-thinker/introducing-open-access-at-the-cma-for-the-benefit-of-all-the-people-forever-d3cd81964616](https://medium.com/cma-thinker/introducing-open-access-at-the-cma-for-the-benefit-of-all-the-people-forever-d3cd81964616)
+     William Griswold, _Introducing Open Access at the CMA: For the Benefit of All the People Forever_,  Medium (January 23, 2019), [https://medium.com/cma-thinker/ introducing-open-access-at-the-cma-for-the-benefit -of-all-the-people-forever-d3cd81964616](https://medium.com/cma-thinker/introducing-open-access-at-the-cma-for-the-benefit-of-all-the-people-forever-d3cd81964616)
 
 [^9]:
 
@@ -145,52 +146,52 @@ Cultural resources, especially those in the worldwide public domain, are the fou
      Jane Park, _CC Search Is out of Beta with 300M Images and Easier Attribution_, Creative Commons Blog (April 30, 2019), [https://creativecommons.org/2019/04/30/cc-search-images/](https://creativecommons.org/2019/04/30/cc-search-images/)
 
 [^11]:
-     _Category Details for Images from Metropolitan Museum of Art_, Wikimedia, [https://tools.wmflabs.org/glamtools/baglama2/#gid=290&month=201911,](https://tools.wmflabs.org/glamtools/baglama2/#gid=290&month=201911) last accessed April 16, 2020.
+     _Category Details for Images from Metropolitan Museum of Art_, Wikimedia, [https://tools.wmflabs.org/ glamtools/baglama2/ #gid=290&month=201911,](https://tools.wmflabs.org/glamtools/baglama2/#gid=290&month=201911) last accessed April 16, 2020.
 
 [^12]:
-    _Category Details for Images from Cleveland Museum of Art_, Wikimedia, [https://tools.wmflabs.org/glamtools/baglama2/#gid=341&month=201908,](https://tools.wmflabs.org/glamtools/baglama2/#gid=341&month=201908) last accessed April 16, 2020.
+    _Category Details for Images from Cleveland Museum of Art_, Wikimedia, [https://tools.wmflabs.org/ glamtools/baglama2/ #gid=341&month=201908,](https://tools.wmflabs.org/glamtools/baglama2/#gid=341&month=201908) last accessed April 16, 2020.
 
 [^13]:
-     _Category Details for Rijksmuseum Amsterdam_, Wikimedia, [https://tools.wmflabs.org/glamtools/baglama2/#gid=113&month=202003,](https://tools.wmflabs.org/glamtools/baglama2/#gid=113&month=202003) last accessed April 16, 2020.
+     _Category Details for Rijksmuseum Amsterdam_, Wikimedia, [https://tools.wmflabs.org/ glamtools/baglama2/ #gid=113&month=202003,](https://tools.wmflabs.org/glamtools/baglama2/#gid=113&month=202003) last accessed April 16, 2020.
 
 [^14]:
-     Douglas McCarthy, _Open Access Arrives at the Cleveland Museum of Art_, Europeana Pro (January 23, 2019), [https://pro.europeana.eu/post/open-access-arrives-at-the-cleveland-museum-of-art](https://pro.europeana.eu/post/open-access-arrives-at-the-cleveland-museum-of-art) _See also_ Simon Tanner, _Reproduction Charging Models & Rights Policy for Digital Images in American Art Museums:_ _A Mellon Foundation Study_, King’s Digital Consultancy Services (August 2004), [http://www.kdcs.kcl.ac.uk/fileadmin/documents/pubs/USMuseum_SimonTanner.pdf](http://www.kdcs.kcl.ac.uk/fileadmin/documents/pubs/USMuseum_SimonTanner.pdf)
+     Douglas McCarthy, _Open Access Arrives at the Cleveland Museum of Art_, Europeana Pro (January 23, 2019), [https://pro.europeana.eu/post/ open-access-arrives-at-the- cleveland-museum-of-art](https://pro.europeana.eu/post/open-access-arrives-at-the-cleveland-museum-of-art) _See also_ Simon Tanner, _Reproduction Charging Models & Rights Policy for Digital Images in American Art Museums:_ _A Mellon Foundation Study_, King’s Digital Consultancy Services (August 2004), [http://www.kdcs.kcl.ac.uk/ fileadmin/documents/ pubs/USMuseum_SimonTanner.pdf](http://www.kdcs.kcl.ac.uk/fileadmin/documents/pubs/USMuseum_SimonTanner.pdf)
 
 [^15]:
      The transition to Open Access may require a long-term effort to renegotiate and restructure third-party agreements that include limitations on Open Access. One of the first steps that many institutions can take to prepare for Open Access is to ensure new agreements do not include restrictions that would prevent the successful launch of an Open Access regime in the future.
 
 [^16]:
-     Microsoft In Culture, _Le Mont Saint-Michel at MOHAI Seattle_, [https://www.microsoft.com/inculture/arts/le-mont-saint-michel-mixed-reality/,](https://www.microsoft.com/inculture/arts/le-mont-saint-michel-mixed-reality/) last accessed April 16, 2020.
+     Microsoft In Culture, _Le Mont Saint-Michel at MOHAI Seattle_, [https://www.microsoft.com/ inculture/arts/ le-mont-saint-michel-mixed-reality/,](https://www.microsoft.com/inculture/arts/le-mont-saint-michel-mixed-reality/) last accessed April 16, 2020.
 
 [^17]:
      ERA Media, _The Myth of Control, Incentive Alignment and How Openness Levels the Playing Field with Jonathan Bryce with Amber Cazzell and Jonathan Bryce_, Cazzell Report (February 26, 2020), [https://youtu.be/02xZF2EeRC4](https://youtu.be/02xZF2EeRC4)
 
 [^18]:
-     Amber Cazzell, _What Post Scarcity Means: Why the Post-Scarcity Economy Is Hard to Reason About_, Hackernoon (June 13, 2019), [https://hackernoon.com/what-post-scarcity-means-7c4d653418f4](https://hackernoon.com/what-post-scarcity-means-7c4d653418f4)
+     Amber Cazzell, _What Post Scarcity Means: Why the Post-Scarcity Economy Is Hard to Reason About_, Hackernoon (June 13, 2019), [https://hackernoon.com/ what-post-scarcity-means-7c4d653418f4](https://hackernoon.com/what-post-scarcity-means-7c4d653418f4)
 
 [^19]:
-     Matt Wisdom, _3D Will Make Retailers a Lot of Money (If They Can Solve These 3 Problems)_, VentureBeat (October 23, 2019), [https://venturebeat.com/2019/10/23/3d-will-make-retailers-a-lot-of-money-if-they-can-solve-these-3-problems/](https://venturebeat.com/2019/10/23/3d-will-make-retailers-a-lot-of-money-if-they-can-solve-these-3-problems/)
+     Matt Wisdom, _3D Will Make Retailers a Lot of Money (If They Can Solve These 3 Problems)_, VentureBeat (October 23, 2019), [https://venturebeat.com/ 2019/10/23/3d-will-make-retailers-a-lot-of-money- if-they-can-solve-these-3-problems/](https://venturebeat.com/2019/10/23/3d-will-make-retailers-a-lot-of-money-if-they-can-solve-these-3-problems/)
 
 [^20]:
      Stuart Jeffrey, _Digital heritage objects, authorship, ownership and engagement_,_ in _Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions (ed. Paola Di Giuseppantonio Di Franco et al. 2018) 49-59, [https://www.academia.edu/37391064/ Authenticity_and_cultural_heritage_in_ the_age_of_3D_digital_reproductions](https://www.academia.edu/37391064/Authenticity_and_cultural_heritage_in_the_age_of_3D_digital_reproductions)
 
 [^21]:
-     Denis Sutton, _Authenticity in Art_, _in_ The Oxford Handbook of Aesthetics_ _Vol. 1. (ed. Jerrold Levinson, 2009) 1-17 [https://doi.org/10.1093/oxfordhb/9780199279456.001.0001](https://doi.org/10.1093/oxfordhb/9780199279456.001.0001)
+     Denis Sutton, _Authenticity in Art_, _in_ The Oxford Handbook of Aesthetics_ _Vol. 1. (ed. Jerrold Levinson, 2009) 1-17 [https://doi.org/10.1093/ oxfordhb/9780199279456.001.0001](https://doi.org/10.1093/oxfordhb/9780199279456.001.0001)
 
 [^22]:
-     _See_ William Ivins, Prints and Visual Communication (1953) 3, [https://archive.org/details/printsandvisualc009941mbp](https://archive.org/details/printsandvisualc009941mbp)
+     _See_ William Ivins, Prints and Visual Communication (1953) 3, [https://archive.org/details/ printsandvisualc009941mbp](https://archive.org/details/printsandvisualc009941mbp)
 
 [^23]:
-     Bill Ivey, _Arts, Inc. How Greed and Neglect Have Destroyed Our Cultural Rights_ (2008) 23, [https://www.ucpress.edu/book/9780520267923/arts-inc](https://www.ucpress.edu/book/9780520267923/arts-inc)
+     Bill Ivey, _Arts, Inc. How Greed and Neglect Have Destroyed Our Cultural Rights_ (2008) 23, [https://www.ucpress.edu/book/ 9780520267923/arts-inc](https://www.ucpress.edu/book/9780520267923/arts-inc)
 
 [^24]:
-     Bill Ivey, _Expressive Life_, Global Cultural Strategies (February 2016), [http://globalculturalstrategies.com/writings/expressive-life/](http://globalculturalstrategies.com/writings/expressive-life/)
+     Bill Ivey, _Expressive Life_, Global Cultural Strategies (February 2016), [http://globalculturalstrategies.com/writings/ expressive-life/](http://globalculturalstrategies.com/writings/expressive-life/)
 
 [^25]:
      Dragan Espenschied and Klaus Rechert, _207.1 Fencing Apparently Infinite Objects_, 1 Rhizome (September 21, 2018), [https://doi.org/10.17605/OSF.IO/6F2NM](https://doi.org/10.17605/OSF.IO/6F2NM)
 
 [^26]:
-     _See_ Harry Verwayen et al., _The Problem of the Yellow Milkmaid: A Business Model Perspective on Open Metadata_, Europeana Pro (November 2011), [https://pro.europeana.eu/files/Europeana_Professional/Publications/Whitepaper_2-The_Yellow_Milkmaid.pdf](https://pro.europeana.eu/files/Europeana_Professional/Publications/Whitepaper_2-The_Yellow_Milkmaid.pdf)
+     _See_ Harry Verwayen et al., _The Problem of the Yellow Milkmaid: A Business Model Perspective on Open Metadata_, Europeana Pro (November 2011), [https://pro.europeana.eu/files/ Europeana_Professional/ Publications/Whitepaper_2-The_Yellow_Milkmaid.pdf](https://pro.europeana.eu/files/Europeana_Professional/Publications/Whitepaper_2-The_Yellow_Milkmaid.pdf)
 
 [^27]:
      Paola Di Giuseppantonio Di Franco et al., _Introduction: Why Authenticity Still Matters Today, in_ Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions (2018) 2, [https://www.academia.edu/37391064/ Authenticity_and_cultural_ heritage_in_the_age_of_3D_ digital_reproductions](https://www.academia.edu/37391064/Authenticity_and_cultural_heritage_in_the_age_of_3D_digital_reproductions)

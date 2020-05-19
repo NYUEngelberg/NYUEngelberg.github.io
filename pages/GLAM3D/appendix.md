@@ -823,91 +823,91 @@ See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-
      Cleveland Museum of Art, _Open Access_, (December 28, 2018), [https://www.clevelandart.org/open-access](https://www.clevelandart.org/open-access)
 
 [^62]:
-     Cleveland Museum of Art, _Museum Policies_, (February 14, 2014), [https://www.clevelandart.org/visit/visitor-information/museum-policies](https://www.clevelandart.org/visit/visitor-information/museum-policies)
+     Cleveland Museum of Art, _Museum Policies_, (February 14, 2014), [https://www.clevelandart.org/visit/ visitor-information/museum-policies](https://www.clevelandart.org/visit/visitor-information/museum-policies)
 
 [^63]:
-     Maddie Armitage and Howard Agriesti, _Looking From All Angles: ArtLens Exhibition Embraces Photogrammetry_, Medium (August 8, 2019), [https://medium.com/cma-thinker/looking-from-all-angles-artlens-exhibition-embraces-photogrammetry-d2cb75d61735](https://medium.com/cma-thinker/looking-from-all-angles-artlens-exhibition-embraces-photogrammetry-d2cb75d61735)
+     Maddie Armitage and Howard Agriesti, _Looking From All Angles: ArtLens Exhibition Embraces Photogrammetry_, Medium (August 8, 2019), [https://medium.com/cma-thinker/ looking-from-all-angles-artlens- exhibition-embraces-photogrammetry- d2cb75d61735](https://medium.com/cma-thinker/looking-from-all-angles-artlens-exhibition-embraces-photogrammetry-d2cb75d61735)
 
 [^64]:
      Rijksmuseum, _Sharing Is Caring_, [http://sharecare.nu/](http://sharecare.nu/), last accessed April 16, 2020.
 
 [^65]:
-     SMK—National Gallery of Denmark in Copenhagen (Statens Museum for Kunst), _Digital Casts_, [https://www.smk.dk/en/article/digitale-casts/](https://www.smk.dk/en/article/digitale-casts/), last accessed April 16, 2020.
+     SMK—National Gallery of Denmark in Copenhagen (Statens Museum for Kunst), _Digital Casts_, [https://www.smk.dk/en/ article/digitale-casts/](https://www.smk.dk/en/article/digitale-casts/), last accessed April 16, 2020.
 
 [^66]:
-     Merete Sanderhoff, _Scanning SMK, One Sculpture at a Time,_ Medium (August 29, 2019), [https://medium.com/smk-open/scanning-smk-one-sculpture-at-a-time-8e72196219fd](https://medium.com/smk-open/scanning-smk-one-sculpture-at-a-time-8e72196219fd)
+     Merete Sanderhoff, _Scanning SMK, One Sculpture at a Time,_ Medium (August 29, 2019), [https://medium.com/smk-open/ scanning-smk-one-sculpture-at- a-time-8e72196219fd](https://medium.com/smk-open/scanning-smk-one-sculpture-at-a-time-8e72196219fd)
 
 [^67]:
      _SMK_—_Statens Museum for Kunst @SMK_—_Statens Museum for Kunst_—_MyMiniFactory_, [https://www.myminifactory.com/users/ SMK%20-%20Statens%20Museum %20for%20Kunst](https://www.myminifactory.com/users/SMK%20-%20Statens%20Museum%20for%20Kunst), last accessed December 16, 2019.
 
 [^68]:
-     _SMK2 Presents: Digital Casts_—_A 3D Model Collection by SMK_—_National Gallery of Denmark (@smkmuseum)_, Sketchfab, [https://sketchfab.com/smkmuseum/collections/smk2-presents-digital-casts](https://sketchfab.com/smkmuseum/collections/smk2-presents-digital-casts), last accessed April 16, 2020.
+     _SMK2 Presents: Digital Casts_—_A 3D Model Collection by SMK_—_National Gallery of Denmark (@smkmuseum)_, Sketchfab, [https://sketchfab.com/smkmuseum/ collections/smk2-presents-digital-casts](https://sketchfab.com/smkmuseum/collections/smk2-presents-digital-casts), last accessed April 16, 2020.
 
 [^69]:
-     Magnus Kaslov, _Ghost in the Scan—3D Scans of Casts in the SMK’s Collections,_ Medium (March 1, 2017), [https://medium.com/smk-open/ghost-in-the-scan-3d-scans-of-casts-in-the-smks-collections-79560f895369](https://medium.com/smk-open/ghost-in-the-scan-3d-scans-of-casts-in-the-smks-collections-79560f895369)
+     Magnus Kaslov, _Ghost in the Scan—3D Scans of Casts in the SMK’s Collections,_ Medium (March 1, 2017), [https://medium.com/smk-open/ ghost-in-the-scan-3d-scans-of-casts- in-the-smks-collections-79560f895369](https://medium.com/smk-open/ghost-in-the-scan-3d-scans-of-casts-in-the-smks-collections-79560f895369)
 
 [^70]:
-     Maja Ravn Blichmann, _SMK Open: Art Wants To Be Free_, SMK—National Gallery of Denmark in Copenhagen (Statens Museum for Kunst) (April 30, 2019), [https://www.smk.dk/en/article/art-wants-to-be-free/](https://www.smk.dk/en/article/art-wants-to-be-free/)
+     Maja Ravn Blichmann, _SMK Open: Art Wants To Be Free_, SMK—National Gallery of Denmark in Copenhagen (Statens Museum for Kunst) (April 30, 2019), [https://www.smk.dk/en/ article/art-wants-to-be-free/](https://www.smk.dk/en/article/art-wants-to-be-free/)
 
 [^71]:
-     Magnus Kaslov, _Ghost in the Scan—3D Scans of Casts in the SMK’s Collections_, Medium (March 1, 2017), [https://medium.com/smk-open/ghost-in-the-scan-3d-scans-of-casts-in-the-smks-collections-79560f895369](https://medium.com/smk-open/ghost-in-the-scan-3d-scans-of-casts-in-the-smks-collections-79560f895369)
+     Magnus Kaslov, _Ghost in the Scan—3D Scans of Casts in the SMK’s Collections_, Medium (March 1, 2017), [https://medium.com/smk-open/ ghost-in-the-scan-3d-scans- of-casts-in-the-smks- collections-79560f895369](https://medium.com/smk-open/ghost-in-the-scan-3d-scans-of-casts-in-the-smks-collections-79560f895369)
 
 [^72]:
      _Smithsonian 3D_, Smithsonian Digitization Program Office, [https://3d.si.edu/](https://3d.si.edu/), last accessed April 16, 2020.
 
 [^73]:
-     Matt Alderton, _Digitization, Documentation, and Democratization: 3D Scanning and the Future of Museums_, Redshift by Autodesk (February 23, 2016), [https://www.autodesk.com/redshift/digitization-future-of-museums/](https://www.autodesk.com/redshift/digitization-future-of-museums/)
+     Matt Alderton, _Digitization, Documentation, and Democratization: 3D Scanning and the Future of Museums_, Redshift by Autodesk (February 23, 2016), [https://www.autodesk.com/redshift/ digitization-future-of-museums/](https://www.autodesk.com/redshift/digitization-future-of-museums/)
 
 [^74]:
-     Joseph Stromberg, _Watch: The World’s 3D Experts Converge at the Smithsonian X 3D Conference_, Smithsonian Magazine (November 13, 2013), [https://www.smithsonianmag.com/smithsonian-institution/watch-the-worlds-3d-experts-converge-at-the-smithsonian-x-3d-conference-180947682/](https://www.smithsonianmag.com/smithsonian-institution/watch-the-worlds-3d-experts-converge-at-the-smithsonian-x-3d-conference-180947682/)
+     Joseph Stromberg, _Watch: The World’s 3D Experts Converge at the Smithsonian X 3D Conference_, Smithsonian Magazine (November 13, 2013), [https://www.smithsonianmag.com/smithsonian- institution/watch-the-worlds- 3d-experts-converge-at-the-smithsonian- x-3d-conference-180947682/](https://www.smithsonianmag.com/smithsonian-institution/watch-the-worlds-3d-experts-converge-at-the-smithsonian-x-3d-conference-180947682/)
 
 [^75]:
      _Smithsonian Voyager_, Smithsonian Digitization Program Office, [https://smithsonian.github.io/dpo-voyager/, last accessed April 16, 2020](https://smithsonian.github.io/dpo-voyager/).
 
 [^76]:
-     _Smithsonian 3D Metadata Model_, Smithsonian Digitization Program Office, [https://dpo.si.edu/index.php/blog/smithsonian-3d-metadata-model,](https://dpo.si.edu/index.php/blog/smithsonian-3d-metadata-model) last accessed April 16, 2020.
+     _Smithsonian 3D Metadata Model_, Smithsonian Digitization Program Office, [https://dpo.si.edu/index.php/ blog/smithsonian-3d-metadata-model,](https://dpo.si.edu/index.php/blog/smithsonian-3d-metadata-model) last accessed April 16, 2020.
 
 [^77]:
-     _Autodesk Powers 3D Explorer for Smithsonian Institution_, Autodesk (November 13, 2013), [https://investors.autodesk.com/news-releases/news-release-details/autodesk-powers-3d-explorer-smithsonian-institution](https://investors.autodesk.com/news-releases/news-release-details/autodesk-powers-3d-explorer-smithsonian-institution)
+     _Autodesk Powers 3D Explorer for Smithsonian Institution_, Autodesk (November 13, 2013), [https://investors.autodesk.com/news-releases/ news-release-details/autodesk-powers- 3d-explorer-smithsonian-institution](https://investors.autodesk.com/news-releases/news-release-details/autodesk-powers-3d-explorer-smithsonian-institution)
 
 [^78]:
-     Marc Bretzfelder, _Google Expeditions AR Brings Smithsonian 3D Models into the Home and Classroom via Augmented Reality_, SI Digi Blog (September 14, 2018), [https://dpo.si.edu/index.php/blog/google-expeditions-ar-brings-smithsonian-3d-models-home-and-classroom-augmented-reality](https://dpo.si.edu/index.php/blog/google-expeditions-ar-brings-smithsonian-3d-models-home-and-classroom-augmented-reality)
+     Marc Bretzfelder, _Google Expeditions AR Brings Smithsonian 3D Models into the Home and Classroom via Augmented Reality_, SI Digi Blog (September 14, 2018), [https://dpo.si.edu/index.php/ blog/google-expeditions-ar-brings-smithsonian- 3d-models-home-and-classroom- augmented-reality](https://dpo.si.edu/index.php/blog/google-expeditions-ar-brings-smithsonian-3d-models-home-and-classroom-augmented-reality)
 
 [^79]:
      _Ewer with Birds, Snakes and Humans, National Museum of Asian Art,_ AWS Sumerian. [https://56bfe6d67d7c4e04a6ab2152540a7e44 .us-west-2.sumerian.aws/,](https://56bfe6d67d7c4e04a6ab2152540a7e44.us-west-2.sumerian.aws/) last accessed April 10, 2020.
 
 [^80]:
-     _3D Scanning: The 21st-Century Equivalent to a 19th Century Process_, Smithsonian Digitization Program Office, [https://dpo.si.edu/blog/3d-scanning-21st-century-equivalent-19th-century-process,](https://dpo.si.edu/blog/3d-scanning-21st-century-equivalent-19th-century-process) last accessed December 16, 2019.
+     _3D Scanning: The 21st-Century Equivalent to a 19th Century Process_, Smithsonian Digitization Program Office, [https://dpo.si.edu/blog/ 3d-scanning-21st-century-equivalent- 19th-century-process,](https://dpo.si.edu/blog/3d-scanning-21st-century-equivalent-19th-century-process) last accessed December 16, 2019.
 
 [^81]:
-     _Explore NMAAHC Collections in 3D_, 3d.Si.Edu, [https://3d.si.edu/video/explore-nmaahc-collections-3d](https://3d.si.edu/video/explore-nmaahc-collections-3d), last accessed December 16, 2019.
+     _Explore NMAAHC Collections in 3D_, 3d.Si.Edu, [https://3d.si.edu/video/ explore-nmaahc-collections-3d](https://3d.si.edu/video/explore-nmaahc-collections-3d), last accessed December 16, 2019.
 
 [^82]:
      _Armstrong Spacesuit_, 3d.Si.Edu, [https://3d.si.edu/armstrong,](https://3d.si.edu/armstrong) last accessed December16, 2019.
 
 [^83]:
-     Effie Kapsalis, _21st-Century Diffusion with Smithsonian Open Access_, Smithsonian Open Access  Updates (February 25, 2020), [https://www.si.edu/openaccess/updates/21st-century-diffusion](https://www.si.edu/openaccess/updates/21st-century-diffusion)
+     Effie Kapsalis, _21st-Century Diffusion with Smithsonian Open Access_, Smithsonian Open Access  Updates (February 25, 2020), [https://www.si.edu/openaccess/ updates/21st-century-diffusion](https://www.si.edu/openaccess/updates/21st-century-diffusion)
 
 [^84]:
-    _ Khronos and Smithsonian Collaborate to Diffuse Knowledge for Education, Research, and Creative Use_, Khronos Group Press Release (February 25, 2020), [https://www.khronos.org/news/press/khronos-smithsonian-collaborate-to-diffuse-knowledge-for-education-research-and-creative-use](https://www.khronos.org/news/press/khronos-smithsonian-collaborate-to-diffuse-knowledge-for-education-research-and-creative-use)
+    _ Khronos and Smithsonian Collaborate to Diffuse Knowledge for Education, Research, and Creative Use_, Khronos Group Press Release (February 25, 2020), [https://www.khronos.org/news/ press/khronos-smithsonian-collaborate- to-diffuse-knowledge-for-education-research- and-creative-use](https://www.khronos.org/news/press/khronos-smithsonian-collaborate-to-diffuse-knowledge-for-education-research-and-creative-use)
 
 [^85]:
-     Thomas Flynn, _Sketchfab Launches Public Domain Dedication for 3D Cultural Heritage_,_ _Sketchfab Community Blog (February 25, 2020), [https://sketchfab.com/blogs/community/sketchfab-launches-public-domain-dedication-for-3d-cultural-heritage/](https://sketchfab.com/blogs/community/sketchfab-launches-public-domain-dedication-for-3d-cultural-heritage/)
+     Thomas Flynn, _Sketchfab Launches Public Domain Dedication for 3D Cultural Heritage_,_ _Sketchfab Community Blog (February 25, 2020), [https://sketchfab.com/blogs/ community/sketchfab-launches-public-domain- dedication-for-3d-cultural-heritage/](https://sketchfab.com/blogs/community/sketchfab-launches-public-domain-dedication-for-3d-cultural-heritage/)
 
 [^86]:
      _Smithsonian X 3D—Digitizing Collections_, Smithsonian Digitization Program Office (November 13, 2013) 1:11-1:20, [https://youtu.be/_TiHTkK5Wrs?t=71](https://youtu.be/_TiHTkK5Wrs?t=71)
 
 [^87]:
-     Further map types are described and demonstrated at _Materials (PBR)_, Sketchfab Help Center, [https://help.sketchfab.com/hc/en-us/articles/204429595-Materials-PBR](https://help.sketchfab.com/hc/en-us/articles/204429595-Materials-PBR), last accessed April 16, 2020.
+     Further map types are described and demonstrated at _Materials (PBR)_, Sketchfab Help Center, [https://help.sketchfab.com/ hc/en-us/articles/ 204429595-Materials-PBR](https://help.sketchfab.com/hc/en-us/articles/204429595-Materials-PBR), last accessed April 16, 2020.
 
 [^88]:
-     This type of image can often be incorporated into visual descriptions designed to provide details to low fixion and blind users.
+     This type of image can often be incorporated into visual descriptions designed to provide details to low vision and blind users.
 
 [^89]:
-     Dale Utt III, _How to Create Materials and Textures for Photogrammetry_, Sketchfab Tutorials (November 15, 2019), [https://sketchfab.com/blogs/community/how-to-create-materials-and-textures-for-photogrammetry](https://sketchfab.com/blogs/community/how-to-create-materials-and-textures-for-photogrammetry/)
+     Dale Utt III, _How to Create Materials and Textures for Photogrammetry_, Sketchfab Tutorials (November 15, 2019), [https://sketchfab.com/blogs/ community/how-to-create-materials- and-textures-for-photogrammetry](https://sketchfab.com/blogs/community/how-to-create-materials-and-textures-for-photogrammetry/)
 
 [^90]:
-     Copy Culture: Sharing in the Age of Digital Reproduction 203 (Brendan Cormier ed., 2018), [https://vanda-production-assets.s3.amazonaws.com/2018/06/15/11/42/57/e8582248-8878-486e-8a28-ebb8bf74ace8/Copy%20Culture.pdf](https://vanda-production-assets.s3.amazonaws.com/2018/06/15/11/42/57/e8582248-8878-486e-8a28-ebb8bf74ace8/Copy%20Culture.pdf)
+     Copy Culture: Sharing in the Age of Digital Reproduction 203 (Brendan Cormier ed., 2018), [https://vanda-production-assets. s3.amazonaws.com/2018/06/15/ 11/42/57/e8582248-8878-486e-8a28 -ebb8bf74ace8/Copy%20Culture.pdf](https://vanda-production-assets.s3.amazonaws.com/2018/06/15/11/42/57/e8582248-8878-486e-8a28-ebb8bf74ace8/Copy%20Culture.pdf)
 
 [^91]:
      _Cultural Heritage User Survey 2019_, Sketchfab (August 2019), [https://docs.google.com/presentation/ d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/ edit#slide=id.g5e4c799188_0_419](https://docs.google.com/presentation/d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/edit#slide=id.g5e4c799188_0_419)
@@ -916,7 +916,7 @@ See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-
      _Cultural Heritage User Survey 2019_, Sketchfab (August 2019), [https://docs.google.com/presentation/ d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/ edit#slide=id.g5e4c799188_0_450](https://docs.google.com/presentation/d/1avExQtbfl6vDCFyo5VgSyBy638BjdDTAIhw79ClHT5A/edit#slide=id.g5e4c799188_0_450)
 
 [^93]:
-     _See e.g._, Manuel Charr, _How Museums Are Using Minecraft to Gamify Learning Experiences_, MuseumNext (July 17, 2019), [https://www.museumnext.com/article/minecrafting-the-museum](https://www.museumnext.com/article/minecrafting-the-museum)
+     _See e.g._, Manuel Charr, _How Museums Are Using Minecraft to Gamify Learning Experiences_, MuseumNext (July 17, 2019), [https://www.museumnext.com/article/ minecrafting-the-museum](https://www.museumnext.com/article/minecrafting-the-museum)
 
 
 <!-- Docs to Markdown version 1.0β22 -->

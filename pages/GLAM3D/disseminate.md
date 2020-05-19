@@ -270,10 +270,10 @@ Local Contexts’ [Traditional Knowledge labels](http://localcontexts.org/tk-lab
 
 [^58]:
 
-     The IIIF 3D Community Group maintains a more extended comparison table of these and other online 3D viewers. _IIIF 3D Viewer Functionality Matrix_, IIIF Google Document, [https://docs.google.com/spreadsheets/d/1mZFF1kgEfjqN1MC_Ds0LQyxPvzUUXSHJLksn-uTvtdQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1mZFF1kgEfjqN1MC_Ds0LQyxPvzUUXSHJLksn-uTvtdQ/edit?usp=sharing), last accessed April 16, 2020.
+     The IIIF 3D Community Group maintains a more extended comparison table of these and other online 3D viewers. _IIIF 3D Viewer Functionality Matrix_, IIIF Google Document, [https://docs.google.com/spreadsheets/ d/1mZFF1kgEfjqN1MC_ Ds0LQyxPvzUUXSHJLksn-uTvtdQ/ edit?usp=sharing](https://docs.google.com/spreadsheets/d/1mZFF1kgEfjqN1MC_Ds0LQyxPvzUUXSHJLksn-uTvtdQ/edit?usp=sharing), last accessed April 16, 2020.
 
 [^59]:
-     The Creative Commons Public Domain Mark may be appropriate if your institution has positively identified a work to be in the public domain. _See Public Domain Mark 1.0_, Creative Commons, [https://creativecommons.org/publicdomain/mark/1.0/](https://creativecommons.org/publicdomain/mark/1.0/), last accessed April 16, 2020.
+     The Creative Commons Public Domain Mark may be appropriate if your institution has positively identified a work to be in the public domain. _See Public Domain Mark 1.0_, Creative Commons, [https://creativecommons.org/ publicdomain/mark/1.0/](https://creativecommons.org/publicdomain/mark/1.0/), last accessed April 16, 2020.
 
 [^60]:
      Rightsstatements.org provides 12 standardized rights statements, each with a unique URI and accompanying text, to help with this process.
