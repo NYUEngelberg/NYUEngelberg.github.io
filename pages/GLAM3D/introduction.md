@@ -88,7 +88,7 @@ Having established goals and implemented the Open Access program, it is time to 
      _See e.g._, NeuroDigital Technologies, _Touching Masterpieces_, [https://touchingmasterpieces.com/](https://touchingmasterpieces.com/), last accessed April 14, 2020.
 
 [^2]:
-     The Europeana Network Association’s _3D Content in Europeana Task Force_ report provides a wealth of information about current practices by European cultural institutions and suggestions for future standardization and harmonization. _3D Content in Europeana Task Force_, Europeana Pro (January 28, 2019), [https://pro.europeana.eu/project/3d-content-in-europeana](https://pro.europeana.eu/project/3d-content-in-europeana)
+     The Europeana Network Association’s _3D Content in Europeana Task Force_ report provides a wealth of information about current practices by European cultural institutions and suggestions for future standardization and harmonization. _3D Content in Europeana Task Force_, Europeana Pro (January 28, 2019), [https://pro.europeana.eu/ project/3d-content-in-europeana](https://pro.europeana.eu/project/3d-content-in-europeana)
 
 [^3]:
      The London Charter, see [http://www.londoncharter.org/](http://www.londoncharter.org/) and ReACH Technical Appendix, see [https://www.researchgate.net/publication/ 326776418_Technical_Appendix_ ReACH_Declaration](https://www.researchgate.net/publication/326776418_Technical_Appendix_ReACH_Declaration) provide additional information about digitizing cultural objects.
