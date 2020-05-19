@@ -75,6 +75,8 @@ Self storage and hosting can offer greater control over how our 3D models are pr
 
 * [3DHOP](http://vcg.isti.cnr.it/3dhop/)
 
+* [model-viewer](https://modelviewer.dev/)
+
 * [Smithsonian Voyager](https://github.com/Smithsonian/dpo-voyager)
 
 * [Universal Viewer](https://universalviewer.io/)
@@ -91,7 +93,7 @@ Using a hosted 3D viewer service is the quickest route to interactive online pub
 
 * [Wikimedia Commons Viewer](https://blog.wikimedia.org/2018/02/20/three-dimensional-models/)
 
-* [model-viewer](https://modelviewer.dev/)
+
 
 
 
