@@ -1365,3 +1365,10 @@ body.footnotes a{
   color: #7b3ead;
   word-wrap: break-word;
 }
+
+
+.icon-Engelberg-Logo_Favicon_White:before {
+  content: url('/images/Engelberg-Logo_Favicon_White.svg') !important;
+  color: #fff;
+  max-height: 20px;
+}
