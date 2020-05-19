@@ -1,4 +1,4 @@
-![Glam3d Hero Image](images/glam3D_header_image_v1_2 "Glam3D hero image")
+![Glam3d Hero Image](https://github.com/NYUEngelberg/NYUEngelberg.github.io/blob/master/images/glam3D_header_image_v1_2.jpg "Glam3D hero image")
 
 # NYUEngelberg.github.io
 This repo contains the website files for [Glam3D.org](https://glam3d.org/).  
