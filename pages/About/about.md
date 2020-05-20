@@ -14,8 +14,9 @@ Glam3D.org is a project of the [Engelberg Center on Innovation Law & Policy at N
 This site would not have been possible without help, feedback, and support from a number of people.  Special thanks to the following (institutions listed for identification purposes only):
 
 * [Kate Burton](https://www.linkedin.com/in/kate-burton-8684985a/), [Natural History Museum London](https://www.nhm.ac.uk/)
-* [Dan O'Flynn](https://twitter.com/danoflynn), [The British Museum](https://www.britishmuseum.org/)
+* [Felicia Caponigri](https://twitter.com/fashionbyf), [Notre Dame Law School](https://law.nd.edu/)
 * [Nik Honeysett](https://twitter.com/nhoneysett) and the [Balboa Park Online Collaborative](https://www.bpoc.org/)
+* [Dan O'Flynn](https://twitter.com/danoflynn), [The British Museum](https://www.britishmuseum.org/)
 * Engelberg Center Student Fellow [Linnea Pittman](https://www.law.nyu.edu/centers/engelberg/team/pittman)
 * [Daniel Pett](https://twitter.com/DEJPett), [Fitzwilliam Museum](https://www.fitzmuseum.cam.ac.uk/)
 * [Al Rawlinson](https://twitter.com/alrawli), [Historic Environment Scotland](https://www.historicenvironment.scot/)
