@@ -30,7 +30,7 @@ Some examples of 3D data made available primarily for scholarly use can be found
 
 ###       4.1.2. Education
 
-Instead of forming the core of scholarly analysis, educational uses of 3D models rely on the models to facilitate the learning of a related subject. They can be used to illustrate a type of jewelry feature or allow students to explore a species of insect. This application differs from what we describe as “scholarly” uses in that the 3D models are not necessarily the focus of the educational experience or research. Instead, the 3D model is used to facilitate learning about a related subject.
+Instead of forming the core of scholarly analysis, educational uses of 3D models rely on the models to facilitate the learning of a related subject. They can be used to illustrate a type of jewelry feature or allow students to explore a species of insect. This application differs from what we describe as “scholarly” uses in that the 3D models are not necessarily the focus of the educational experience or research. Instead, the 3D model is used to facilitate learning about a related subject.[^44]
 
 In conjunction with the expert knowledge associated with a cultural resource, 3D models are a perfect match for teaching about cultural heritage as part of an [object-based learning program](https://www.ucl.ac.uk/culture/schools/teaching-object-based-learning).
 
@@ -125,6 +125,9 @@ Partnerships can take many forms, such as collaboration with local universities 
 [^37]:
      These investigations can serve a wide range of purposes, even within the context of a single object. One research team used a scan of Jackson Pollock’s Alchemy to assist with diagnosis, conservation, and interpretation, as well as with the creation of an interactive kiosk that allowed viewers to explore the geometry of the work and a 1:1 physical model to help the public interact with the work. _See_ Marco Callieri et al., _Alchemy in 3D: A Digitization for a Journey Through Matter_, Digital Heritage (2015), [http://vcg.isti.cnr.it/Publications/ 2015/CPPDPLS15/DH2015%20(Post)%20- %20Alchemy%20in%203D%20A%20Digitization %20for%20a%20Journey%20Through %20Matter.pdf](http://vcg.isti.cnr.it/Publications/2015/CPPDPLS15/DH2015%20(Post)%20-%20Alchemy%20in%203D%20A%20Digitization%20for%20a%20Journey%20Through%20Matter.pdf)
 
+[^44]:
+    Digitization can also be used as part of a program to make the resources more physically accessible to the public. The Smithsonian Institution used a digitized version of the _Cosmic Buddha_ to create a cast concrete replica that incorporated bronze contact points that activated pre-recorded narration. _Chinese Sculpture Replica: Cosmic Buddha_, Concept Realizations, [https://www.conceptrealizations.com/ chinese-sculpture-replica/](https://www.conceptrealizations.com/chinese-sculpture-replica/), last accessed June 2, 2020.
+
 [^38]:
      _See e.g._, British Museum Schools, Twitter (October 11, 2016), [https://twitter.com/BM_Schools/ status/785832150276988930](https://twitter.com/BM_Schools/status/785832150276988930)
 
@@ -142,3 +145,5 @@ Partnerships can take many forms, such as collaboration with local universities 
 
 [^43]:
      LAPID, _Using 3D to Recover Heritage Lost in a Fire_, Sketchfab (January 24, 2020),  [https://sketchfab.com/blogs/ community/lapid-using-3d-to-recover- heritage-lost-in-a-fire/](https://sketchfab.com/blogs/community/lapid-using-3d-to-recover-heritage-lost-in-a-fire/); _see also_ _How Cultural Institutions Use Sketchfab_, Sketchfab, [https://sketchfab.com/museums](https://sketchfab.com/museums), last accessed April 16, 2020 (providing links to success stories from museums and cultural partners).
+
+<!-- Next fn is 45 -->

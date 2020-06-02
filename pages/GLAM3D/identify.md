@@ -502,13 +502,13 @@ There may also be non-legal factors to consider when selecting works to digitize
 
 The best way to address these concerns will vary widely, depending on the nature of the cultural resources and the sensitivities involved. In some cases, it may be beneficial to consult with the cultural originators (or their descendants) of a work to identify concerns that the communities may have in relation to digitization and Open Access programs.
 
-One innovative approach to cultural resources originating with indigenous communities has been the [Traditional Knowledge (TK) labelling system](http://localcontexts.org/tk-labels/). The TK label system makes it easy for indigenous communities to communicate context and preferred uses to others. These labels are not intended to be legal restrictions on users. Instead, they are designed to communicate additional cultural context to users interested in incorporating that context into their own exploration of the resource. TK labels can easily be incorporated into the presentation of the digitized version of the cultural asset.[^45]
+One innovative approach to cultural resources originating with indigenous communities has been the [Traditional Knowledge (TK) labelling system](http://localcontexts.org/tk-labels/).[^55] The TK label system makes it easy for indigenous communities to communicate context and preferred uses to others. These labels are not intended to be legal restrictions on users. Instead, they are designed to communicate additional cultural context to users interested in incorporating that context into their own exploration of the resource. TK labels can easily be incorporated into the presentation of the digitized version of the cultural asset.[^45]
 
 
 
 ##    5.3. Navigating Copyright and the Public Domain
 
-Copyright status is another factor to consider when identifying cultural resources to make available to the public.[^46] Although copyright law varies from country to country, this section is intended to provide a working overview of the main concepts to consider. This should make it easier to coordinate with the legal department of your institution or outside legal experts to identify works unencumbered by copyright restrictions. In most cases, it will be easier to start working with items that are in the public domain, which means that their use is not restricted by copyright law.
+Copyright status is another factor to consider when identifying cultural resources to make available to the public.[^46] Although copyright law varies from country to country, this section is intended to provide a working overview of the main concepts to consider.[^54] This should make it easier to coordinate with the legal department of your institution or outside legal experts to identify works unencumbered by copyright restrictions. In most cases, it will be easier to start working with items that are in the public domain, which means that their use is not restricted by copyright law.
 
 Generally speaking, copyright automatically protects creative works from the moment of creation for a period of time. While that “period of time” has evolved over the years, today in most places the term of copyright protection is the life of the author plus 70 years.[^47] Although it can sometimes be complicated to calculate the term of copyright protection for an individual work created in the past, as a general rule of thumb, the older a work is the more likely it is to have entered the public domain.[^48] For example, in the United States most works created before 1924 have entered the public domain. As a group, archeological objects are also likely to be in the public domain.
 
@@ -556,12 +556,18 @@ Finally, in many cases, including a disclaimer that indicates that the files are
 [^44]:
      Professor Sonia Katyal explores the relationship between some legal and non-legal factors in her article, _Technoheritage_. _See generally _Sonia K. Katyal, _Technoheritage_, 105 Calif. L. Rev. 1111 (2017).
 
+[^55]:
+     Local Contexts provides resources specifically for cultural institutions interested in using the labels. [https://localcontexts.org/ educational-resources/ cultural-institution-notices](https://localcontexts.org/educational-resources/cultural-institution-notices), last visited June 2, 2020.
+
 [^45]:
      There are a host of other cultural considerations to be aware of in many digitization projects. _See, e.g._, Mathilde Pavis and Andrea Wallace, _Response to the 2018 Sarr-Savoy Report: Statement on Intellectual Property Rights and Open Access Relevant to the Digitization and Restitution of African Cultural Heritage and Associated Materials_, JIPITEC (March 25, 2019),
      [https://www.jipitec.eu/issues/ jipitec-10-2-2019/4910](https://www.jipitec.eu/issues/jipitec-10-2-2019/4910)
 
 [^46]:
      Although copyright law is the most significant legal constraint on digitization and re-use of works, it is not the only possible constraint. Specific countries may have additional restrictions such as moral rights and cultural property rules that may govern use. Work with your legal partners to identify and resolve any additional legal barriers specific to your collection before moving forward.
+
+[^54]:
+     The UC Berkeley Library system has produced a series of [Responsible Access Workflows](https://docs.google.com/presentation/d/1V66PGpIq9xqXxdvngpD3rkAMoIw2hIyVVDS4Iv4VFOM/edit#slide=id.g7ffa9d7047_0_2) to illustrate how they navigate copyright, contractual, privacy, and ethics concerns related to a work. _Responsible Access Workflows_, Berkeley Library, [https://docs.google.com/presentation/ d/1V66PGpIq9xqXxdvngpD3rk AMoIw2hIyVVDS4Iv4VFOM/ edit#slide=id.g56280a330b_0_0](https://docs.google.com/presentation/d/1V66PGpIq9xqXxdvngpD3rkAMoIw2hIyVVDS4Iv4VFOM/edit#slide=id.g56280a330b_0_0), last accessed June 2, 2020.
 
 [^47]:
      This rule is not universal. For example, in Mexico the term of protection is 100 years after the death of the author.
@@ -583,3 +589,5 @@ Finally, in many cases, including a disclaimer that indicates that the files are
 
 [^53]:
      _See e.g._, Krista L. Cox, _Metadata and Copyright: Should Institutions License Their Data About Scholarship?_ 1, 2, n.1 (2017), [https://digitalcommons.unl.edu/cgi/ viewcontent.cgi?article=1060&context=scholcom](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1060&context=scholcom) (noting that while “short factual pieces of data [in metadata] are not copyrightable because they are short phrases and pure facts….longer descriptions may well indeed rise to the level of creative expression and could be protected by copyright, unlike short factual pieces of information”).
+
+<!-- Next fn is 56 -->

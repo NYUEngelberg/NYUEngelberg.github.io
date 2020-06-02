@@ -212,7 +212,7 @@ It is critical to include legal information about digitized cultural assets to u
 
 ###        7.7.1. Licensing Best Practices (Digitizations of Cultural Objects)
 
-As described in Section 5.3, many jurisdictions do not—or soon may not—recognize an additional copyright interest in digitizations. As a result, in many cases—although certainly not all—digitizing institutions will not have a copyright interest in the digital file that represents a cultural object. In light of this ambiguity, institutions should use licenses to clarify how users may make use of files included in Open Access initiatives.
+As described in [Section 5.3](/identify.html#53-navigating-copyright-and-the-public-domain), many jurisdictions do not—or soon may not—recognize an additional copyright interest in digitizations. As a result, in many cases—although certainly not all—digitizing institutions will not have a copyright interest in the digital file that represents a cultural object. In light of this ambiguity, institutions should use licenses to clarify how users may make use of files included in Open Access initiatives.[^61]
 
 
 
@@ -242,7 +242,7 @@ These best practices have generally been developed for cultural objects in the p
 
 ###        7.7.2. Licensing Best Practices (Metadata and Descriptions)
 
-Section 5.3 explains that digitizing institutions may have more legal rights in information such as metadata and descriptions of digitized cultural objects than digitized versions of the objects themselves. Nonetheless, it is best practice for digitizing institutions to license all metadata and descriptions using the CC0 license.
+[Section 5.3](/identify.html#53-navigating-copyright-and-the-public-domain) explains that digitizing institutions may have more legal rights in information such as metadata and descriptions of digitized cultural objects than digitized versions of the objects themselves. Nonetheless, it is best practice for digitizing institutions to license all metadata and descriptions using the CC0 license.
 
 Other permissive licensing structures (such as the attribution requirement of a CC BY license) can create unintended challenges for downstream users of metadata and descriptions. Metadata and descriptions will often be used in large-scale analysis or other data-driven investigations. Determining the proper way to comply with even a seemingly straightforward attribution requirement in a CC BY license can present disproportionate challenges to users, discouraging the types of uses you may hope to encourage.
 
@@ -274,8 +274,14 @@ Local Contexts’ [Traditional Knowledge labels](http://localcontexts.org/tk-lab
 
      The IIIF 3D Community Group maintains a more extended comparison table of these and other online 3D viewers. _IIIF 3D Viewer Functionality Matrix_, IIIF Google Document, [https://docs.google.com/spreadsheets/ d/1mZFF1kgEfjqN1MC_ Ds0LQyxPvzUUXSHJLksn-uTvtdQ/ edit?usp=sharing](https://docs.google.com/spreadsheets/d/1mZFF1kgEfjqN1MC_Ds0LQyxPvzUUXSHJLksn-uTvtdQ/edit?usp=sharing), last accessed April 16, 2020.
 
+[^61]:
+
+     Nick Butler has created a helpful guide for navigating copyright for digital GLAM institutions based in New Zealand.  _Copyright for digital GLAMs: Lessons from NDF2019_, Nick Butler, [https://www.boost.co.nz/blog /2020/01/ copyright-for-digital-glams-ndf2019](https://www.boost.co.nz/blog/2020/01/copyright-for-digital-glams-ndf2019) (January 21, 2020).
+
 [^59]:
      The Creative Commons Public Domain Mark may be appropriate if your institution has positively identified a work to be in the public domain. _See Public Domain Mark 1.0_, Creative Commons, [https://creativecommons.org/ publicdomain/mark/1.0/](https://creativecommons.org/publicdomain/mark/1.0/), last accessed April 16, 2020.
 
 [^60]:
      Rightsstatements.org provides 12 standardized rights statements, each with a unique URI and accompanying text, to help with this process.
+
+<!-- Next fn is 62 -->
