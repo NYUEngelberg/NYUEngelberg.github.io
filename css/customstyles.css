@@ -1245,7 +1245,7 @@ h4.panel-title {
 
 /* body overrides */
 body.home {
-  background-image: url("../images/glam3D_header_image_v1_2.jpg");
+  background-image: url("../images/glam3D_header_image_v1_2.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
