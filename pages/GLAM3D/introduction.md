@@ -11,7 +11,7 @@ _Today is a big day for Amina, age 11. She has already analyzed the cracks in 5t
 
 _In fact, she has interacted with hundreds of different objects from museum collections all over the world. But today is different. Today she is going to the City Museum to see the original objects for herself, in person._
 
-Amina’s story is the result of two powerful trends shaping the Galleries, Libraries, Archives, and Museums (GLAM) community. The first is digital content creation: the process of freeing pieces of a collection from the limits of their physical materiality and enabling them to exist in a virtual space. The second is Open Access: making those digital objects available for everyone to use without restriction.
+Amina’s story is the result of two powerful trends shaping the Galleries, Libraries, Archives, and Museums (GLAM) community. The first is digital content creation: the process of freeing pieces of a collection from the limits of their physical materiality and enabling them to exist in a virtual space. The second is Open Access: making those digitized cultural resources available for everyone to use without restriction..
 
 
 
