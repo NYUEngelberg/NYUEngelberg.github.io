@@ -10,7 +10,7 @@ permalink: what_is_a_3D_model.html
 
 In the simplest terms, a 3D model is just another kind of image: a way to show something to another person who is geographically or temporally removed from the original, physical cultural resource.
 
-When compared with other media—images or video, for example—3D models are unique in one regard: their interactivity. A 3D model that you can interact with on a viewing device by rotating, zooming, and translating is said to be real-time 3D, as opposed to an image or a video of a 3D model, which is said to be pre-rendered. 3D models can also become physical 3D objects that can be touched, held, and examined without harming the originals.
+When compared with other media—images or video, for example—3D models are unique in one regard: their interactivity. A 3D model that you can interact with on a viewing device by rotating, zooming, and translating is said to be real-time 3D, as opposed to an image or a video of a 3D model, which is said to be pre-rendered. 3D models can also become physical 3D objects that can be touched, held, and examined without harming the source object.
 
 3D models can have advantages over 2D images. A single image will show one view of a resource, cropped and zoomed a single way. An orthographic set will show more views (front, back, left, right, top, bottom) again at single crop and zoom levels. In contrast, a 3D model can be viewed from an infinite number of angles, a similar amount or zoom levels, and infinite cropped views. This is not to say that 3D is a superior approach to imaging in every context, but it does afford viewers new ways to look at a given resource.
 
@@ -18,7 +18,7 @@ Some common use cases for 3D models include:
 
 *   Interactive display—e.g., on a screen, touchscreen, projection, hologram, or head-mounted display
 *   Analysis and measurement—e.g., distance, volume
-*   Creating physical replicas
+*   Creating physical replicas from the source
 *   Documenting physical changes in a cultural resource over time
 
 3D models themselves should not be confused with the experiences that are built using them. Virtual and augmented reality, digital interactive games, animations, or film use 3D models much the same way that 2D images are involved in the production of a book, by drawing on a library of discrete files to build something bigger.[^28]
@@ -130,7 +130,7 @@ Deciding which 3D creation technique to use will largely depend on the goals you
 
 3D modeling is the most inexpensive and accessible option for producing 3D models, due to [high-quality open source software options](https://www.blender.org) and a minimum of equipment requirements. However, 3D modeling is an artistic and technical discipline that requires significant training and experience to master—while you can set yourself up for 3D modeling quickly and easily, it is unlikely to yield especially useful results straight away. 3D modeling does, however, offer extensive opportunities to create 3D content based on existing 2D digital collections.[^29]
 
-Photogrammetry, the technique of calculating a 3D model by taking pictures of a subject from lots of different angles, is the most available form of 3D digitization available today. You or your organization likely already possess the capture technology (a smartphone or dedicated photography equipment, such as a DSLR or compact camera). and with relatively little effort, [free software](https://github.com/alicevision/meshroom) can produce high-quality 3D outputs.
+Photogrammetry, the technique of calculating a 3D model by taking 2D pictures of a subject from many different angles, is the most available form of 3D digitization available today. You or your organization likely already possess the capture technology (a smartphone or dedicated photography equipment, such as a DSLR or compact camera). and with relatively little effort, [free software](https://github.com/alicevision/meshroom) can produce high-quality 3D outputs.
 
 The current expense and training requirements push the remaining methods of 3D digitization listed beyond the reach of anyone wanting to experiment with 3D production before making a significant investment of time and money. This is especially true for smaller organizations with limited funding.
 
@@ -174,7 +174,7 @@ If we assume the most effective 3D outputs are those that both accurately docume
 
 When possible, capturing the highest-resolution and most accurate 3D data will afford the broadest possible range of use cases for the original data set as well as derivative 3D assets based on it.
 
-While this paper exists because the authors believe a considered approach to 3D digitization is the most prudent course of action, some readers may wish to jump right in and attempt a “minimum viable 3D digitization workflow.” If you simply wish to start exploring the process of capturing and publishing 3D models of cultural resources right now, the Quick Start 3D Digitization Guide in the Appendix is for you.
+While this publication exists because the authors believe a considered approach to 3D digitization is the most prudent course of action, some readers may wish to begin with a “minimum viable 3D digitization workflow.” If you simply wish to start exploring the process of capturing and publishing 3D models of cultural resources right now, the [Quick Start 3D Digitization Guide](appendix.html#quick_start_digitization_guide) in the Appendix is for you.
 
 
 

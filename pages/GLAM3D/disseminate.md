@@ -15,7 +15,7 @@ Digitization projects can take a long time to complete and new examples of disse
 
 ##    7.2. Publish as Interactive 3D for Browsing Audiences
 
-As described in the “What is a 3D Model?” section, for an audience to truly experience a digital 3D model, it needs to be interactive. At a very basic level, this means an audience member must be able to turn or tumble a 3D model to view the model from different angles and zoom in and out to get a closer look or broader overview of the resource. While this was previously only possible via dedicated applications running on specialized hardware, thanks to modern web standards like WebGL, it is possible to offer proper 3D interactive experiences in any modern browser. That means the model is accessible to all users, even those without the technical expertise to use their own 3D modeling software.
+As described in the “[What is a 3D Model?](what_is_a_3D_model.html)” section, for a user to truly experience a digital 3D model, the model needs to be interactive. At a very basic level, this means a user must be able to turn or tumble a 3D model to view the model from different angles and zoom in and out to get a closer look or broader overview of the resource. While this was previously only possible via dedicated applications running on specialized hardware, thanks to modern web standards like WebGL, it is possible to offer proper 3D interactive experiences in any modern browser. That means the model is accessible to all users, even those without the technical expertise to use their own 3D modeling software.
 
 Ongoing technical developments—for example, in the smartphone and head-mounted display industries—make it easier than ever to offer different kinds of 3D model-based experiences. 3D models can be manipulated on screen via a mouse and keyboard or a touchscreen interface, as well as via the more physically engaging interactions of virtual and augmented reality.
 
@@ -109,7 +109,8 @@ Finally, keep in mind the difference between a “self-serve” approach and a m
 
 “Self-serve” means that anyone may easily download and save 3D data locally without contacting the publisher, although the end user may be required to sign in or up to a service to enable this ability. This is the most accessible and fastest route for someone to receive your 3D data.
 
-A managed approach in which an end user must, for example, request 3D data via email and wait for a reply each time they wish to make a download can allow for greater control over data dissemination but could also appear to be a form of gatekeeping.
+A managed approach in which an end user must, for example, request 3D data via email or webform and wait for a reply each time they wish to make a download, would not be considered best practice for open access. Gatekeeping practices will deter potential users, who will ultimately go elsewhere for 3D content that is unrestricted. Your organization should prioritize and implement analytics tools to track downloads for institutional reporting and to measure engagement, but not at the social capital cost of turning away your users.
+
 
 
 
@@ -220,11 +221,11 @@ As described in [Section 5.3](/identify.html#53-navigating-copyright-and-the-pub
 
 The current best practice is to use the [Creative Commons CC0 mark](https://creativecommons.org/share-your-work/public-domain/cc0/) on all Open Access digitized objects. The CC0 mark is designed to waive any copyright interest jurisdictions may grant your institution in the digitizations themselves. This includes the jurisdiction where your institution is based, as well as jurisdictions where your user may be based. Using the CC0 mark makes it clear to all users that the digitizing institution does not claim additional legal rights in a digitized object in the relatively unlikely event that those rights do exist.
 
-Note that using the CC0 mark does not require your institution to warrant that the digitized cultural object itself is in the public domain.[^59] The CC0 mark merely indicates that the digitizing party will not claim additional ownership or control over the file. To the extent that the digitizing institution has additional information about the copyright status of the cultural object, [RightsStatement.org](https://rightsstatements.org/page/1.0/?language=en) provides standardized ways to describe that status outside the bounds of formal legal tools.
+Note that using the CC0 mark does not require your institution to warrant that the digitized cultural resource itself is in the public domain.[^59] The CC0 mark merely indicates that the digitizing party will not claim additional ownership or control over the file. To the extent that the digitizing institution has additional information about the copyright status of the cultural object, [RightsStatement.org](https://rightsstatements.org/page/1.0/?language=en) provides standardized ways to describe that status outside the bounds of formal legal tools.
 
-It is not currently considered best practice to place attribution, non-commercial, or educational-use-only restrictions on digitized cultural objects. These restrictions can be hard for users to interpret consistently and may unintentionally discourage the types of uses you hope to encourage. It is also likely that copyright-based use restrictions placed on public domain works are not enforceable, further complicating the legal status of the files and discouraging use.
+It is not currently considered best practice to place attribution, non-commercial, or educational-use-only restrictions on digitized cultural resources. These restrictions can be hard for users to interpret consistently and may unintentionally discourage the types of uses you hope to encourage. It is also likely that copyright-based use restrictions placed on public domain works are not enforceable, further complicating the legal status of the files and discouraging use.
 
-While it is best practice for an institution to share provenance information about a cultural object, it is acceptable for a digitizing institution to include a disclaimer that the provenance information provided may not be accurate or complete, and that users should not necessarily rely on it when making rights status determinations. A disclaimer can be used to indicate that the institution is making the works available for “all legal purposes” or “any legal purpose,” which may address concerns about edge cases where bad-faith users could make use of the works in a way that violates specific laws.
+While it is best practice for an institution to share provenance information about a cultural resource, it is acceptable for a digitizing institution to include a disclaimer that the provenance information provided may not be accurate or complete, and that users should not necessarily rely on it when making rights status determinations. A disclaimer can be used to indicate that the institution is making the works available for “all legal purposes” or “any legal purpose,” which may address concerns about edge cases where bad-faith users could make use of the works in a way that violates specific laws.
 
 Institutions should also avoid the impulse to impose additional restrictions on users via terms and conditions attached to a distribution platform or even individual files. These types of restrictions complicate downstream uses because it can be hard to determine if any individual user is legally bound by them. Similarly, these types of restrictions may create unreasonable—and unenforceable—expectations about the type of control your institution will have on the use of the files.
 
@@ -232,33 +233,35 @@ Institutions should also avoid the impulse to impose additional restrictions on 
 
 ####            7.7.1.2. Non-Legal Indicators
 
-While it is not best practice to impose legal restrictions on the use of digitized cultural objects, it is acceptable to make non-binding requests of those users. This is especially true in the case of restrictions—such as a requirement of attribution—that the institution is unlikely to actively enforce through legal mechanisms. It is critical that the institution makes it clear that it understands these requests to be non-binding, and not to cloak them in quasi-legal language or presentation styles.
+While it is not best practice to impose legal restrictions on the use of digitized cultural resources, it is acceptable to make non-binding requests of those users. This is especially true in the case of restrictions—such as a requirement of attribution—that the institution is unlikely to actively enforce through legal mechanisms. It is critical that the institution makes it clear that it understands these requests to be non-binding, and not to cloak them in quasi-legal language or presentation styles.
 
-For example, institutions can request that users use a standardized way to communicate the source of the digitized object to others. They can also provide an easy way for users to report their use back to the institution. Although these requests are not legally enforceable, many users will happily comply with these types of requests from digitizing institutions.
+For example, institutions can request that users use a standardized way to communicate the source of the digitized cultural resource to others. They can also provide an easy way for users to report their use back to the institution. Although these requests are not legally enforceable, many users will happily comply with these types of requests from digitizing institutions.
 
-These best practices have generally been developed for cultural objects in the public domain. If you have digitized objects that are protected by copyright, best practice is to clearly communicate the terms of that agreement with any users as thoroughly as possible.[^60]
+These best practices have generally been developed for cultural resources in the public domain. If you have digitized cultural resources that are protected by copyright, best practice is to clearly communicate the terms of that agreement with any users as thoroughly as possible.[^60]
 
 
 
 ###        7.7.2. Licensing Best Practices (Metadata and Descriptions)
 
-[Section 5.3](/identify.html#53-navigating-copyright-and-the-public-domain) explains that digitizing institutions may have more legal rights in information such as metadata and descriptions of digitized cultural objects than digitized versions of the objects themselves. Nonetheless, it is best practice for digitizing institutions to license all metadata and descriptions using the CC0 license.
+[Section 5.3](/identify.html#53-navigating-copyright-and-the-public-domain) explains that digitizing institutions may have more legal rights in information such as metadata and descriptions of digitized cultural resources than digitized versions of the cultural resources themselves. Nonetheless, it is best practice for digitizing institutions to license all metadata and descriptions using the CC0 license.
 
 Other permissive licensing structures (such as the attribution requirement of a CC BY license) can create unintended challenges for downstream users of metadata and descriptions. Metadata and descriptions will often be used in large-scale analysis or other data-driven investigations. Determining the proper way to comply with even a seemingly straightforward attribution requirement in a CC BY license can present disproportionate challenges to users, discouraging the types of uses you may hope to encourage.
 
-As with the digitized objects themselves, nothing in the use of CC0 prevents the digitizing institution from requesting attribution or feedback on re-use. The difference between a request and a legally binding demand increases the amount of flexibility available to the user.
+As with the digitized cultural resources themselves, nothing in the use of CC0 prevents the digitizing institution from requesting attribution or feedback on re-use. The difference between a request and a legally binding demand increases the amount of flexibility available to the user.
 
 
 ###        7.7.3. Presenting Legal and Quasi-Legal Language
 
 Institutions should strive to present legal and legal-adjacent information in as approachable a manner as possible, and to streamline its presentation to the public. While licenses, warranties, and requests are important, they can also be intimidating to users without a background in legal text. The mere presence of “legalese” can act as a barrier for perfectly legitimate uses. Successful Open Access projects are inviting to users. While it may feel like adding one additional clause to address an edge case is responsible stewardship or lawyering, the cost of doing so may be reducing the types of engagement that motivate the initiative in the first place.
 
+In contrast to additional legal language, a clearly and concisely written values statement can help institutions articulate the role and position of an open access program in the holistic context of the organization. Value statements should be affirmative, considerate, and action-orientated, without taking a discouraging or scolding tone towards users.[^62]
 
-###        7.7.4. Cultural Labelling
 
-Many cultural objects have other considerations or cultural restrictions that are important to communicate to users. While these considerations and restrictions may not be legally binding, many users will benefit from being aware of them. Cultural sources may also be more supportive of digitization and dissemination efforts when they are accompanied by this type of information.
+###        7.7.4. Cultural Labels and Notices
 
-Local Contexts’ [Traditional Knowledge labels](http://localcontexts.org/tk-labels/) help to facilitate the communication of these types of non-legal use considerations. The labels give cultures that created the works a way to clearly communicate important context to users. They also give users a straightforward way to identify these restrictions and incorporate them into their application.
+Many cultural resources have other considerations or cultural restrictions that are important to communicate to users. While these considerations and restrictions may not be legally binding, many users will benefit from being aware of them. Communities and stakeholders may also be more supportive of digitization and dissemination efforts when they are accompanied by this type of information.
+
+Local Contexts’ [Traditional Knowledge labels](http://localcontexts.org/tk-labels/) help to facilitate the communication of these types of non-legal use considerations. The labels give cultures that created the works a way to clearly communicate important context to users. They also give users a straightforward way to identify these restrictions and incorporate them into their application. [Cultural Institution Notices](https://localcontexts.org/ci-notices), also developed by Local Contexts, are specifically designed to be used by cultural institutions as they engage in collaborative partnerships with communities to address problematic histories, unclear provenance and incomplete attribution.
 
 <br>
 <br>
@@ -284,4 +287,7 @@ Local Contexts’ [Traditional Knowledge labels](http://localcontexts.org/tk-lab
 [^60]:
      Rightsstatements.org provides 12 standardized rights statements, each with a unique URI and accompanying text, to help with this process.
 
-<!-- Next fn is 62 -->
+[^62]:
+    _See_ _Open Access Initiative Values_, Smithsonian Institution, [https://www.si.edu/ openaccess/values](https://www.si.edu/openaccess/values), last accessed July 7, 2020.
+
+<!-- Next fn is 63 -->
