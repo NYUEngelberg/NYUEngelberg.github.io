@@ -9,7 +9,7 @@ permalink: evaluate_and_join.html
 
 Ongoing evaluation must be a key element of your Open Access program. Once it has successfully launched, schedule time to review what worked and what did not work, and to document unexpected challenges. Review your original goals in light of your experience and refine them for the future.
 
-Finally, do not keep that evaluation to yourself. The Open Access community embraces openness beyond collections. Sharing your lessons will help guide colleagues at other institutions, and may help you uncover new solutions. The solutions you developed can become best practices for others struggling with the same challenges.
+Finally, do not keep that evaluation to yourself. The Open Access community embraces openness beyond collections. Sharing your lessons will help guide colleagues at other institutions, and may help you uncover new solutions. The solutions you developed can become best practices for others struggling with the same challenges. Public [online dashboards](https://www.clevelandart.org/art/collection/dashboard) can show boards, leadership, open access advocates, peers, and the public that open access is a beneficial and mission-serving investment of institutional resources.
 
 
 

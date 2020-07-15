@@ -6,9 +6,9 @@ permalink: identify.html
 
 ---
 
-Identifying works to digitize involves considering a number of factors. Some are relatively straightforward: Are there characteristics of the object that make it technically hard to digitize? Are there intellectual property rights that would prevent digitization? What budgetary constraints must be taken into account?
+Identifying cultural resources to digitize involves considering a number of factors. Some are relatively straightforward: Are there characteristics of the culturarl resource that make it technically hard to digitize? Are there intellectual property rights that would prevent digitization? What budgetary constraints must be taken into account?
 
-Others will require more careful consideration and analysis: Are there cultural concerns that might make an object a poor fit for Open Access? Are works in danger of degradation or damage? Is there strategic, operational, or academic interest in prioritizing specific works in the collection?
+Others will require more careful consideration and analysis: Are there cultural concerns that might make a cultural resource a poor fit for Open Access? Are cultural resources in danger of degradation or damage? Is there strategic, operational, or academic interest in prioritizing specific cultural resources in the collection?
 
 This section will help you find answers to some of those questions.
 
@@ -18,7 +18,7 @@ This section will help you find answers to some of those questions.
 
 Once a pool of cultural resources has been identified for digitization, the physical properties of those resources will largely dictate the method of digitization, or even disqualify them from digitization.
 
-Generally speaking, digitization will be more complex (or indeed impossible) for objects that are highly reflective, too fragile to safely rotate in order to capture all sides in a scan, or feature extremely fine elements like hair or feathers.
+Generally speaking, digitization will be more complex (or may not be possible) for cultural resources that are highly reflective, too fragile to safely rotate in order to capture all sides in a scan, or feature extremely fine elements like hair or feathers.
 
 Refer to the Appendix section [Common 3D Capture and 3D Creation Techniques and Software](/appendix.html#3d_capturee_and_3d_creation_techniques_and_software) for details on applications and limitations of different capture technologies. The following examples cover a range of hypothetical 3D digitization subjects and possible capture techniques dictated by the physical properties of the subject. In addition to digital capture technologies, a 3D artist could be used to create a 3D model of the object. It may also be assumed that for any of the following subjects, a 3D model could be created by a 3D artist who might use the physical cultural resource (and existing media thereof) as a reference.
 
@@ -498,11 +498,11 @@ We do not currently have a good example of an Open Access representation of a pe
 
 ## 5.2. Cultural and Other Non-Legal Considerations
 
-There may also be non-legal factors to consider when selecting works to digitize and make available to the public.[^44] While these factors may vary widely depending on the nature of your collection, one factor to consider is how you can effectively propagate an awareness of the cultural context that created a work in the first place.
+There may also be non-legal factors to consider when selecting cultural resources to digitize and make available to the public.[^44] These factors may vary widely depending on the nature of your collection. One factor to consider is how you can effectively propagate an awareness of the cultural resource's original cultural context.
 
-The best way to address these concerns will vary widely, depending on the nature of the cultural resources and the sensitivities involved. In some cases, it may be beneficial to consult with the cultural originators (or their descendants) of a work to identify concerns that the communities may have in relation to digitization and Open Access programs.
+The best way to address these concerns will vary widely, depending on the nature of the cultural resources and the sensitivities involved. In some cases, it may be beneficial to consult with the cultural originators (or their descendants) of a cultural resource to identify concerns that the communities may have in relation to digitization and Open Access programs.
 
-One innovative approach to cultural resources originating with indigenous communities has been the [Traditional Knowledge (TK) labelling system](http://localcontexts.org/tk-labels/).[^55] The TK label system makes it easy for indigenous communities to communicate context and preferred uses to others. These labels are not intended to be legal restrictions on users. Instead, they are designed to communicate additional cultural context to users interested in incorporating that context into their own exploration of the resource. TK labels can easily be incorporated into the presentation of the digitized version of the cultural asset.[^45]
+One innovative approach to cultural resources originating with indigenous communities has been the [Traditional Knowledge (TK) labelling system](http://localcontexts.org/tk-labels/).[^55] The TK label system makes it easy for indigenous communities to communicate context and preferred uses to others. These labels are not intended to be legal restrictions on users. Instead, they are designed to communicate additional cultural context to users interested in incorporating that context into their own exploration of the resource. TK labels can easily be incorporated into the presentation of the digitized version of the cultural asset.[^45] Cultural Institution Notices are tools specifically designed to be used by cultural institutions as they engage in collaborative partnerships with communities to address problematic histories, unclear provenance, and incomplete attribution.
 
 
 
@@ -557,7 +557,7 @@ Finally, in many cases, including a disclaimer that indicates that the files are
      Professor Sonia Katyal explores the relationship between some legal and non-legal factors in her article, _Technoheritage_. _See generally _Sonia K. Katyal, _Technoheritage_, 105 Calif. L. Rev. 1111 (2017).
 
 [^55]:
-     Local Contexts provides resources specifically for cultural institutions interested in using the labels. [https://localcontexts.org/ educational-resources/ cultural-institution-notices](https://localcontexts.org/educational-resources/cultural-institution-notices), last visited June 2, 2020.
+     Local Contexts provides resources specifically for cultural institutions interested in using the Traditional Knowledge Labels and Cultural Institution Notices. [https://localcontexts.org/ educational-resources/ cultural-institution-notices](https://localcontexts.org/educational-resources/cultural-institution-notices), last visited June 2, 2020.
 
 [^45]:
      There are a host of other cultural considerations to be aware of in many digitization projects. _See, e.g._, Mathilde Pavis and Andrea Wallace, _Response to the 2018 Sarr-Savoy Report: Statement on Intellectual Property Rights and Open Access Relevant to the Digitization and Restitution of African Cultural Heritage and Associated Materials_, JIPITEC (March 25, 2019),
