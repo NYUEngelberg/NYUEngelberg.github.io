@@ -285,7 +285,7 @@ Local Contexts’ [Traditional Knowledge labels](http://localcontexts.org/tk-lab
      The Creative Commons Public Domain Mark may be appropriate if your institution has positively identified a work to be in the public domain. _See Public Domain Mark 1.0_, Creative Commons, [https://creativecommons.org/ publicdomain/mark/1.0/](https://creativecommons.org/publicdomain/mark/1.0/), last accessed April 16, 2020.
 
 [^60]:
-     Rightsstatements.org provides 12 standardized rights statements, each with a unique URI and accompanying text, to help with this process.
+     [Rightsstatements.org](https://rightsstatements.org/en/) provides 12 standardized rights statements, each with a unique URI and accompanying text, to help with this process. OpenGlam also published an introduction to rights statements featuring Fred Saunderson, Julia Fallon, Michael Kemezis, and Heidi Raatz. _Introduction to Structured Rights Information: a conversation about Rights Statements_, scann, [https://medium.com/open-glam/ introduction-to-structured- rights-information-a-conversation- about-rights- statements-6645d31a889](https://medium.com/open-glam/introduction-to-structured-rights-information-a-conversation-about-rights-statements-6645d31a889) (July 17, 2020).
 
 [^62]:
     _See_ _Open Access Initiative Values_, Smithsonian Institution, [https://www.si.edu/ openaccess/values](https://www.si.edu/openaccess/values), last accessed July 7, 2020.
