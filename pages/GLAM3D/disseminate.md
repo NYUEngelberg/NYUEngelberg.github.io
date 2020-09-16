@@ -223,7 +223,7 @@ The current best practice is to use the [Creative Commons CC0 mark](https://crea
 
 Note that using the CC0 mark does not require your institution to warrant that the digitized cultural resource itself is in the public domain.[^59] The CC0 mark merely indicates that the digitizing party will not claim additional ownership or control over the file. To the extent that the digitizing institution has additional information about the copyright status of the cultural object, [RightsStatement.org](https://rightsstatements.org/page/1.0/?language=en) provides standardized ways to describe that status outside the bounds of formal legal tools.
 
-It is not currently considered best practice to place attribution, non-commercial, or educational-use-only restrictions on digitized cultural resources. These restrictions can be hard for users to interpret consistently and may unintentionally discourage the types of uses you hope to encourage. It is also likely that copyright-based use restrictions placed on public domain works are not enforceable, further complicating the legal status of the files and discouraging use.
+It is not currently considered best practice to place attribution, non-commercial, or educational-use-only restrictions on digitized cultural resources.[^63] These restrictions can be hard for users to interpret consistently and may unintentionally discourage the types of uses you hope to encourage. It is also likely that copyright-based use restrictions placed on public domain works are not enforceable, further complicating the legal status of the files and discouraging use.
 
 While it is best practice for an institution to share provenance information about a cultural resource, it is acceptable for a digitizing institution to include a disclaimer that the provenance information provided may not be accurate or complete, and that users should not necessarily rely on it when making rights status determinations. A disclaimer can be used to indicate that the institution is making the works available for “all legal purposes” or “any legal purpose,” which may address concerns about edge cases where bad-faith users could make use of the works in a way that violates specific laws.
 
@@ -284,10 +284,13 @@ Local Contexts’ [Traditional Knowledge labels](http://localcontexts.org/tk-lab
 [^59]:
      The Creative Commons Public Domain Mark may be appropriate if your institution has positively identified a work to be in the public domain. _See Public Domain Mark 1.0_, Creative Commons, [https://creativecommons.org/ publicdomain/mark/1.0/](https://creativecommons.org/publicdomain/mark/1.0/), last accessed April 16, 2020.
 
+[^63]:
+    For example, while the UK's National Lottery Heritage Fund generally requires grantees to use a Creative Commons Attribution license on funded work, it explicitly informs grantees that "[d]igital reproductions of public domain materials, including photographic images and 3D data, should be shared under a CC0 1.0 Public Domain Dedication." _Advice: Understanding our licence requirement_, The National Lottery Heritage Fund, [https://www.heritagefund.org.uk/ stories/advice-understanding- our-licence-requirement](https://www.heritagefund.org.uk/stories/advice-understanding-our-licence-requirement), last accessed September 16, 2020.
+
 [^60]:
      Rightsstatements.org provides 12 standardized rights statements, each with a unique URI and accompanying text, to help with this process.
 
 [^62]:
     _See_ _Open Access Initiative Values_, Smithsonian Institution, [https://www.si.edu/ openaccess/values](https://www.si.edu/openaccess/values), last accessed July 7, 2020.
 
-<!-- Next fn is 63 -->
+<!-- Next fn is 64 -->
