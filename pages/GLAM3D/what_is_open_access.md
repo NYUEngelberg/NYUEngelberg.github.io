@@ -71,7 +71,7 @@ To put it directly and simply, Open Access is mission and vision critical for an
 
 ###   2.4.1. Increased Engagement with Cultural Resources
 
-Open Access increases engagement with cultural resources by closing the gap between discovery and re-use of resources by users, allowing users to sidestep burdensome, unnecessarily costly, and inefficient rights and permissions processes in order to engage with a cultural resource they discover.[^9] Open Access cultural resources propagate across sites and into communities, significantly increasing the likelihood that a member of the public will come into contact with them in the near term after launch, on an institution’s own hosted platform, or with the long-tail in partnership with organizations such as Creative Commons,[^10] Internet Archive, and Wikimedia.
+Open Access increases engagement with cultural resources by closing the gap between discovery and re-use of resources by users, allowing users to sidestep burdensome, unnecessarily costly, and inefficient rights and permissions processes in order to engage with a cultural resource they discover.[^9] Open Access cultural resources propagate across sites and into communities, significantly increasing the likelihood that a member of the public will come into contact with them in the near term after launch,[^29] on an institution’s own hosted platform, or with the long-tail in partnership with organizations such as Creative Commons,[^10] Internet Archive, and Wikimedia.
 
 For example, Wikimedia users have viewed works from The Metropolitan Museum of Art’s Open Access collection over 565 million times since 2017.[^11] The Cleveland Museum of Art’s Open Access collection had over 8 million views in its first year alone.[^12] Works from the Rijksmuseum Open Access collection—an early leader—have been viewed almost 2 billion times.[^13] The numbers demonstrate availability and reach through partnership on platforms focused on dedicated user communities with popular appeal and wider awareness.
 
@@ -142,6 +142,10 @@ Cultural resources, especially those in the worldwide public domain, are the fou
 
      For a review of many institutions’ experiences with Open Access, see Effie Kapsalis, _The Impact of Open Access on Galleries, Libraries, Museums, & Archives_, Smithsonian Emerging Leaders Development Program (April 27, 2016), [http://siarchives.si.edu/sites/ default/files/pdfs/ 2016_03_10_OpenCollections_Public.pdf](http://siarchives.si.edu/sites/default/files/pdfs/2016_03_10_OpenCollections_Public.pdf).
 
+[^29]:
+    This contact can even be casual. Popular 3D modeling tutorial creator Andrew Price (Blender Guru) recommends using openly licensed 3D models to help bring unique touches to created interiors. Andrew Price (Blender Guru), _How to Make Interiors in Blender (Tutorial)_, YouTube (at 22:50) (September 21, 2020), [https://www.youtube.com/ watch?v=wrzSrjAY69c& feature=youtu.be& t=1369](https://www.youtube.com/watch?v=wrzSrjAY69c&feature=youtu.be&t=1369). 
+
+
 [^10]:
      Jane Park, _CC Search Is out of Beta with 300M Images and Easier Attribution_, Creative Commons Blog (April 30, 2019), [https://creativecommons.org/2019/04/30/cc-search-images/](https://creativecommons.org/2019/04/30/cc-search-images/)
 
@@ -199,4 +203,4 @@ Cultural resources, especially those in the worldwide public domain, are the fou
 [^27]:
      Paola Di Giuseppantonio Di Franco et al., _Introduction: Why Authenticity Still Matters Today, in_ Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions (2018) 2, [https://www.academia.edu/37391064/ Authenticity_and_cultural_ heritage_in_the_age_of_3D_ digital_reproductions](https://www.academia.edu/37391064/Authenticity_and_cultural_heritage_in_the_age_of_3D_digital_reproductions)
 
-<!-- Next fn is 29 -->
+<!-- Next fn is 30 -->

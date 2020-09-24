@@ -40,19 +40,25 @@ Below are a few online communities you may wish to consider joining, as well as 
 
 **Reading Material**
 
-[Cultural Heritage Spotlights on the Sketchfab Blog](https://sketchfab.com/blogs/community/category/community-story/cultural-heritage)
-
-[Sketchfab Cultural Heritage Users Survey Results 2019](https://tinyurl.com/skfbchsurveyresults)
-
-[Europeana 3D Task Force Report](https://pro.europeana.eu/files/Europeana_Professional/Europeana_Network/Europeana_Network_Task_Forces/Final_reports/3D-TF-final%20report.pdf)
+[Advice on 3D from National Swedish Heritage Board](https://www.raa.se/in-english/outreach-and-exhibitions)
 
 [British Art Studies Issue 6: Disciplining the Digital](http://britishartstudies.ac.uk/issues/issue-index/issue-6/virtual-reproduction)
 
-[ReACH Dialogue](https://www.vam.ac.uk/research/projects/reach-reproduction-of-art-and-cultural-heritage) - [Copy Culture: Sharing in the Age of Digital Reproduction PDF](https://vanda-production-assets.s3.amazonaws.com/2018/06/15/11/42/57/e8582248-8878-486e-8a28-ebb8bf74ace8/Copy%20Culture.pdf)
+[Cultural Heritage Spotlights on the Sketchfab Blog](https://sketchfab.com/blogs/community/category/community-story/cultural-heritage)
 
-[Advice on 3D from National Swedish Heritage Board](https://www.raa.se/in-english/outreach-and-exhibitions)
+[European Commission Expert Group Report: Basic Principles and Tips for 3D Digitisation of Cultural Heritage](https://ec.europa.eu/digital-single-market/en/news/basic-principles-and-tips-3d-digitisation-cultural-heritage)
+
+[Europeana 3D Task Force Report](https://pro.europeana.eu/files/Europeana_Professional/Europeana_Network/Europeana_Network_Task_Forces/Final_reports/3D-TF-final%20report.pdf)
 
 [The London Charter](http://www.londoncharter.org/)
+
+[ReACH Dialogue](https://www.vam.ac.uk/research/projects/reach-reproduction-of-art-and-cultural-heritage) - [Copy Culture: Sharing in the Age of Digital Reproduction PDF](https://vanda-production-assets.s3.amazonaws.com/2018/06/15/11/42/57/e8582248-8878-486e-8a28-ebb8bf74ace8/Copy%20Culture.pdf)
+
+[Sketchfab Cultural Heritage Users Survey Results 2019](https://tinyurl.com/skfbchsurveyresults)
+
+
+
+
 
 
 
