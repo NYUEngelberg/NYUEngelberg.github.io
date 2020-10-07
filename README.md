@@ -7,6 +7,8 @@ Glam3D.org brings together best practices for conceiving, designing, and executi
 
 Glam3D.org is a project of the [Engelberg Center on Innovation Law & Policy](https://www.law.nyu.edu/centers/engelberg) at NYU Law. It was originally created in 2020 by Sketchfab Cultural Heritage Lead [Thomas Flynn](https://twitter.com/nebulousflynn), Engelberg Center Fellow [Neal Stimler](https://www.law.nyu.edu/centers/engelberg/team/stimler), and Engelberg Center Executive Director [Michael Weinberg](https://www.law.nyu.edu/centers/engelberg/team/weinberg), in consultation with a wide variety of 3D digitization and Open Access experts from around the world. Glam3D.org could not exist without the generous and valuable feedback from this community.
 
+There is a [Conifer Archive](https://conifer.rhizome.org/) of this site from October 6, 2020.  It is available both on the [Conifer site](https://conifer.rhizome.org/EngelbergCenter/glam3dorg) and the [Internet Archive](https://archive.org/details/g3d_20201007).  The .warc file is not part of this repo because it exceeds GitHub's 100MB file size limit.
+
 The site content is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license. The site itself is based on the [Jekyll Technical Documentation Theme](https://idratherbewriting.com/documentation-theme-jekyll/) by [Tom Johnson](https://idratherbewriting.com/aboutme/), modified by [Lauren Slowik](https://www.laurenslowik.com/).  It is licensed under an MIT license (except for the nav bar, which is licensed under a BSD license) and built with the Jekyll framework.
 
 The nav bar itself is also hard coded instead of dynamically updated.  In order to update the nav bar, edit the file in `_data/sidebars/glam3d_sidebar.yml` directly.
@@ -33,4 +35,4 @@ use that number as your new footnote number and increase the number in the note 
 
 Note that there are spaces in the [] version of the URL.  A space every 30 characters or so usually does the trick. Adding the spaces after slashes or dashes makes it less obvious (and annoying) to readers.
 
-That's it. So simple! 
+That's it. So simple!
