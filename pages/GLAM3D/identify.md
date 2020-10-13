@@ -255,8 +255,7 @@ Photogrammetry with polarized light + focus stacking workflow, structured light 
 
 
 
-###### [*Dupondius d'Octave à la tête de bélier* by
-[Musée Saint-Raymond](https://sketchfab.com/models/48e52062e37d4a6194a36f76f6eb959f), Technique: structured light scanning.
+###### [*Dupondius d'Octave à la tête de bélier* by Musée Saint-Raymond](https://sketchfab.com/models/48e52062e37d4a6194a36f76f6eb959f), Technique: structured light scanning.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/48e52062e37d4a6194a36f76f6eb959f/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -324,8 +323,7 @@ Photogrammetry with polarized light, structured light scanning, r-ray CT.
 
 **Examples:**
 
-###### [*Bowl* by
-Världskulturmuseerna, CC BY 4.0](https://sketchfab.com/3d-models/bowl-7aae42d34c45432391eeae1a6b4069cb), Technique: Structured light scanning.
+###### [*Bowl* by Världskulturmuseerna, CC BY 4.0](https://sketchfab.com/3d-models/bowl-7aae42d34c45432391eeae1a6b4069cb), Technique: Structured light scanning.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/7aae42d34c45432391eeae1a6b4069cb/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -462,8 +460,7 @@ Photogrammetry, LiDAR.
 
 
 
-###### [*The Great Drawing Room* by
-[The Hallwyl Museum (Hallwylska museet), CC BY 4.0](https://sketchfab.com/3d-models/the-great-drawing-room-feb9ad17e042418c8e759b81e3b2e5d7), Technique: Photogrammetry.
+###### [*The Great Drawing Room* by The Hallwyl Museum (Hallwylska museet), CC BY 4.0](https://sketchfab.com/3d-models/the-great-drawing-room-feb9ad17e042418c8e759b81e3b2e5d7), Technique: Photogrammetry.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/feb9ad17e042418c8e759b81e3b2e5d7/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
