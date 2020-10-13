@@ -6,7 +6,7 @@ permalink: identify.html
 
 ---
 
-Identifying cultural resources to digitize involves considering a number of factors. Some are relatively straightforward: Are there characteristics of the culturarl resource that make it technically hard to digitize? Are there intellectual property rights that would prevent digitization? What budgetary constraints must be taken into account?
+Identifying cultural resources to digitize involves considering a number of factors. Some are relatively straightforward: Are there characteristics of the cultural resource that make it technically hard to digitize? Are there intellectual property rights that would prevent digitization? What budgetary constraints must be taken into account?
 
 Others will require more careful consideration and analysis: Are there cultural concerns that might make a cultural resource a poor fit for Open Access? Are cultural resources in danger of degradation or damage? Is there strategic, operational, or academic interest in prioritizing specific cultural resources in the collection?
 
@@ -463,7 +463,7 @@ Photogrammetry, LiDAR.
 
 
 ###### [*The Great Drawing Room* by
-The Hallwyl Museum (Hallwylska museet), CC BY 4.0](https://sketchfab.com/3d-models/the-great-drawing-room-feb9ad17e042418c8e759b81e3b2e5d7), Technique: Photogrammetry.
+[The Hallwyl Museum (Hallwylska museet), CC BY 4.0](https://sketchfab.com/3d-models/the-great-drawing-room-feb9ad17e042418c8e759b81e3b2e5d7), Technique: Photogrammetry.
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/feb9ad17e042418c8e759b81e3b2e5d7/embed?preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
