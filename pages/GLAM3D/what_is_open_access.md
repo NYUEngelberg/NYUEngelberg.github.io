@@ -56,7 +56,7 @@ Discerning ethical positions on heritage and cultural resources is a consultativ
 
 Open Access is one of the most important priorities of any 21st-century cultural organization. Many institutions have priorities for public engagement and service as core elements of their missions. This commitment to service extends to both commercial and non-commercial entities related to an organization, including individuals, academics, and corporations, as well as nongovernmental and community organizations.
 
-Open Access leverages the collaborative, distributed, innovative, and scalable possibilities of sharing data and media assets on the internet to empower an organization’s own vision. It also fuels the creative visions of makers across the globe to create, remix, and make new expressions in the form of products and services. William Griswold, director and president of The Cleveland Museum of Art, in speaking about the museum’s mission and its commitment to Open Access, stated:
+Open Access leverages the collaborative, distributed, innovative, and scalable possibilities of sharing data and media assets on the internet to empower an organization’s own vision.[^30] It also fuels the creative visions of makers across the globe to create, remix, and make new expressions in the form of products and services. William Griswold, director and president of The Cleveland Museum of Art, in speaking about the museum’s mission and its commitment to Open Access, stated:
 
 
 >If our goal is to make the museum’s great comprehensive collections—of art from every period and from every corner of the globe—universally accessible and free of charge to audiences of all ages, regardless of where they live; if our objective is to facilitate the dissemination of new knowledge; if we are committed to transparency, to fostering creativity, to engaging communities within and far beyond our region, then there is almost nothing we can do that would have greater impact. With this move to Open Access, we have transformed not only access to the CMA’s collection but also its usability inside and outside the walls of our museum. Whenever, wherever, and however the public wishes to use, re-use, remix, or reinvent the objects that we hold, our collection is available—as it should be—for we are but caretakers of these objects, which belong to the artistic legacy of humankind.[^8]
@@ -135,6 +135,9 @@ Cultural resources, especially those in the worldwide public domain, are the fou
 [^7]:
      _See e.g._, National Park Service, _NPS-28: Cultural Resource Management Guideline_,  [https://www.nps.gov/ parkhistory/online_books/ nps28/28contents.htm](https://www.nps.gov/parkhistory/online_books/nps28/28contents.htm/), last updated August 16, 2002. It is also important to consider how Open Access policies might interact with existing concepts of heritage, community autonomy, and cultural sovereignty. As much as possible, Open Access should be a practice that empowers individuals and groups with parity of opportunity, while upholding the principles of liberty, like freedom of conscience and expression.
 
+[^30]:
+    Some argue that the core mission of cultural institutions requires adopting open access policies. _See, e.g._, _Passenger Pigeon Manifesto_, [https://ppmanifesto.hcommons.org/](https://ppmanifesto.hcommons.org/), last accessed October 15, 2020.
+
 [^8]:
      William Griswold, _Introducing Open Access at the CMA: For the Benefit of All the People Forever_,  Medium (January 23, 2019), [https://medium.com/cma-thinker/ introducing-open-access-at-the-cma-for-the-benefit -of-all-the-people-forever-d3cd81964616](https://medium.com/cma-thinker/introducing-open-access-at-the-cma-for-the-benefit-of-all-the-people-forever-d3cd81964616)
 
@@ -143,7 +146,7 @@ Cultural resources, especially those in the worldwide public domain, are the fou
      For a review of many institutions’ experiences with Open Access, see Effie Kapsalis, _The Impact of Open Access on Galleries, Libraries, Museums, & Archives_, Smithsonian Emerging Leaders Development Program (April 27, 2016), [http://siarchives.si.edu/sites/ default/files/pdfs/ 2016_03_10_OpenCollections_Public.pdf](http://siarchives.si.edu/sites/default/files/pdfs/2016_03_10_OpenCollections_Public.pdf).
 
 [^29]:
-    This contact can even be casual. Popular 3D modeling tutorial creator Andrew Price (Blender Guru) recommends using openly licensed 3D models to help bring unique touches to created interiors. Andrew Price (Blender Guru), _How to Make Interiors in Blender (Tutorial)_, YouTube (at 22:50) (September 21, 2020), [https://www.youtube.com/ watch?v=wrzSrjAY69c& feature=youtu.be& t=1369](https://www.youtube.com/watch?v=wrzSrjAY69c&feature=youtu.be&t=1369). 
+    This contact can even be casual. Popular 3D modeling tutorial creator Andrew Price (Blender Guru) recommends using openly licensed 3D models to help bring unique touches to created interiors. Andrew Price (Blender Guru), _How to Make Interiors in Blender (Tutorial)_, YouTube (at 22:50) (September 21, 2020), [https://www.youtube.com/ watch?v=wrzSrjAY69c& feature=youtu.be& t=1369](https://www.youtube.com/watch?v=wrzSrjAY69c&feature=youtu.be&t=1369).
 
 
 [^10]:
@@ -203,4 +206,4 @@ Cultural resources, especially those in the worldwide public domain, are the fou
 [^27]:
      Paola Di Giuseppantonio Di Franco et al., _Introduction: Why Authenticity Still Matters Today, in_ Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions (2018) 2, [https://www.academia.edu/37391064/ Authenticity_and_cultural_ heritage_in_the_age_of_3D_ digital_reproductions](https://www.academia.edu/37391064/Authenticity_and_cultural_heritage_in_the_age_of_3D_digital_reproductions)
 
-<!-- Next fn is 30 -->
+<!-- Next fn is 31 -->
