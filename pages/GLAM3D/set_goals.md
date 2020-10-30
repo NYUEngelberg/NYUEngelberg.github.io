@@ -6,7 +6,7 @@ permalink: set_goals.html
 
 ---
 
-As with most things, 3D digitization projects can benefit greatly from establishing a goal or set of goals from which can be derived a plan and strategy to achieve the desired result. End goals for a 3D digitization project can be very general (e.g., “We wish to experiment with new technology”) or very specific (e.g., “We need an accurate 3D model to facilitate production of a new gallery wall mount”). Either way, it is essential to establish agreed-upon goals that you, your colleagues, and service providers can reference during the planning, implementation, and execution of your digitization project. Furthermore, clearly defined goals make it much easier to verify the effectiveness of a project at its conclusion, paving the way for further activity, or curtailing that which is deemed ineffective.
+As with most things, 3D digitization projects can benefit greatly from establishing a goal or set of goals from which can be derived a plan and strategy to achieve the desired result. End goals for a 3D digitization project can be very general (e.g., “We wish to experiment with new technology”) or very specific (e.g., “We need an accurate 3D model to facilitate production of a new gallery wall mount”). Either way, it is essential to establish agreed-upon goals that you, your colleagues, and service providers can reference during the planning, implementation, and execution of your digitization project. Furthermore, clearly defined goals make it much easier to verify the effectiveness of a project at its conclusion, paving the way for further activity, or curtailing that which is deemed ineffective.[^45]
 
 
 
@@ -118,6 +118,8 @@ Partnerships can take many forms, such as collaboration with local universities 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
+[^45]:
+      Europeana has released an impact playbook to help institutions understand who they are engaging with their open access collections and how to measure that engagement as it occurs. _Impact Playbook_, Europeana, [https://pro.europeana.eu/page/impact](https://pro.europeana.eu/page/impact), last accessed October 29, 2020.
 
 [^36]:
      These audiences may be new communities or existing communities that have historically been underserved. For example, 3D models can help create tactile objects (real and virtual) to help reach blind and low-vision members of the public who might not otherwise have a rich or meaningful experience in a predominantly visual environment. _See_ Cheryl Fogle-Hatch, Ann Cunningham, and Matt Gesualdi, _Staying in Touch: Addressing Concerns to Allow Tactile Exploration at Museums_, American Alliance of Museums (2020), [https://www.aam-us.org/ 2020/07/01/ staying-in-touch-addressing- concerns-to-allow-tactile- exploration-at-museums/](https://www.aam-us.org/2020/07/01/staying-in-touch-addressing-concerns-to-allow-tactile-exploration-at-museums/).
@@ -146,4 +148,4 @@ Partnerships can take many forms, such as collaboration with local universities 
 [^43]:
      LAPID, _Using 3D to Recover Heritage Lost in a Fire_, Sketchfab (January 24, 2020),  [https://sketchfab.com/blogs/ community/lapid-using-3d-to-recover- heritage-lost-in-a-fire/](https://sketchfab.com/blogs/community/lapid-using-3d-to-recover-heritage-lost-in-a-fire/); _see also_ _How Cultural Institutions Use Sketchfab_, Sketchfab, [https://sketchfab.com/museums](https://sketchfab.com/museums), last accessed April 16, 2020 (providing links to success stories from museums and cultural partners).
 
-<!-- Next fn is 45 -->
+<!-- Next fn is 46 -->
