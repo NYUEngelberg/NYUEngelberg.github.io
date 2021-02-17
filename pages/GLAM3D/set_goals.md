@@ -10,7 +10,7 @@ As with most things, 3D digitization projects can benefit greatly from establish
 
 
 
-##    4.1. Target Audiences
+##    4.1 Target Audiences
 
 Deciding on the intended audience for your 3D content will help dictate the 3D capture or creation methods you will use, the 3D outputs you will produce, and how your 3D data will be made available. Identifying audiences (e.g., “schoolteachers”) and needs (e.g., “to illustrate and 3D print in relation to history curriculum subject ‘The Romans’”) will help you define both the cultural resources to be captured or created in 3D, as well as the most beneficial resolutions, file formats, display platforms, and dissemination methods for the resulting 3D data.
 
@@ -18,7 +18,7 @@ Identifying a primary audience establishes the need for 3D production; identifyi
 
 
 
-###       4.1.1. Scholarly
+###       4.1.1 Scholarly
 
 For in-depth investigations, the highest-fidelity 3D geometry and textures likely will be the most useful.[^37] It should be noted that achieving this grade of 3D data can require a greater financial investment in equipment and training, as well as staff and machine time required to compute 3D data and document workflows. At the same time, even lower-resolution files can still be useful in many scholarly contexts.
 
@@ -28,7 +28,7 @@ Some examples of 3D data made available primarily for scholarly use can be found
 
 
 
-###       4.1.2. Education
+###       4.1.2 Education
 
 Instead of forming the core of scholarly analysis, educational uses of 3D models rely on the models to facilitate the learning of a related subject. They can be used to illustrate a type of jewelry feature or allow students to explore a species of insect. This application differs from what we describe as “scholarly” uses in that the 3D models are not necessarily the focus of the educational experience or research. Instead, the 3D model is used to facilitate learning about a related subject.[^44]
 
@@ -45,7 +45,7 @@ Some examples of 3D models being used in the classroom are provided below:
 *   [3D Objects for Teachers](https://www.sciencemuseum.org.uk/objects-and-stories/3d-objects-teachers), Science Museum Group, [write-up](https://lab.sciencemuseum.org.uk/3d-object-scans-as-a-museum-learning-resource-part-1-9e1e51b67581), [context](https://lab.sciencemuseum.org.uk/science-museum-group-digital-lab-introduction-and-projects-1f7a6f26a208)
 *   [Samsung Discovery Centre @ British Museum](https://news.samsung.com/global/samsung-and-the-british-museum-offer-35000-school-pupils-the-chance-to-virtually-visit-the-museum)
 
-###        4.1.3. Public Engagement
+###        4.1.3 Public Engagement
 
 3D models increasingly make up part of a “complete” digital offering for GLAM institutions seeking to engage members of the public with cultural heritage and history. Alongside text, audio, and images, 3D offers yet another way to examine and experience historical themes and narratives.
 
@@ -64,7 +64,7 @@ Derivative 3D outputs like 3D prints and video are equally helpful for connectin
 
 
 
-###        4.1.4. Commercial
+###        4.1.4 Commercial
 
 Whether in-house at a cultural organization or at an external private company, there are many opportunities for 3D models to become part of a commercial endeavor. There is nothing about making cultural resources available on an Open Access basis that is inherently incompatible with offering physical and digital versions for sale as well.
 
@@ -74,7 +74,7 @@ Furthermore, all 3D data made available under an Open Access program remains ava
 
 
 
-##    4.2. Portion of Collection
+##    4.2 Portion of Collection
 
 At present, in most cases producing a 3D model of each cultural resource in cultural institution is not yet scalable in terms of cost, technology and workflow.
 
@@ -84,7 +84,7 @@ The defined number of cultural resources you wish to digitize should be achievab
 
 
 
-##    4.3. Budget
+##    4.3 Budget
 
 Your available budget has a direct impact on the quality of 3D models that you may produce. Consider the following expenses when planning your project:
 
@@ -103,7 +103,7 @@ Dissemination
 *   Service subscriptions
 *   Promotion
 
-##    4.4. Partners
+##    4.4 Partners
 
 Identify desired partnerships as part of the goal-setting process based on aspects of your project where you feel you need assistance or support. Partnerships can be valuable at all stages of a project: planning, digitization, post-production, and dissemination.
 

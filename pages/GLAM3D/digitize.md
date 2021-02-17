@@ -6,7 +6,7 @@ permalink: digitize.html
 
 ---
 
-##    6.1. 3D Scanning
+##    6.1 3D Scanning
 
 This section will provide you with best practices for 3D digitization. It will not suggest a single workflow because there is no universal workflow for capturing cultural resources in 3D. Most resources are unique in size, shape, material, handling guidelines, accessibility, and portability. Most GLAM organizations and digitization projects are unique in their staffing, funding, goals, and audiences.
 
@@ -16,7 +16,7 @@ Instead of searching for a single 3D digitization solution, it is more practical
 
 
 
-###        6.1.1. Do Your Research
+###        6.1.1 Do Your Research
 Spending time to research existing workflows, case studies, and advice will save you time in the long run. Read academic papers but also visit or subscribe to specialized blogs and forums, and follow experts and amateurs alike on social media. Piece together a knowledge base that is suitable to your goals before you begin and make a note of resources you feel will be valuable to revisit later. Don’t be afraid to reach out to colleagues, manufacturers, and software developers directly for specific advice—it can save you hours of searching and maybe even some money too.
 
 Below are a few online communities you may wish to consider joining, as well as a general reading list:
@@ -62,20 +62,20 @@ Below are a few online communities you may wish to consider joining, as well as 
 
 
 
-###        6.1.2. Capture the Best Result You Can And Work Transparently
+###        6.1.2 Capture the Best Result You Can And Work Transparently
 
 No matter how well resourced and organized, your 3D digitization project will likely be limited in some way. The equipment and time available to you will largely dictate the resolution and fidelity of your 3D output. Be transparent about those limitations to your users. Publishing lower-resolution and even incomplete 3D scans is fine as long as you also make it clear to audiences what it is they are viewing and how it was made.
 
-###   6.1.3. Document Your Process As Thoroughly As Possible
+###   6.1.3 Document Your Process As Thoroughly As Possible
 
 Following on from the previous point, and to re-assert the importance of meta- and paradata, record the details of your digitization and post-production process as much as possible. From the moment you begin your work, make note of the equipment you are using, decisions you are making, and the circumstances of the capture environment. Continue to document decisions made during processing and post-production and aim to publish this information at the same time as the 3D models.
 
-###   6.1.4. Plan For Mistakes And Technical Issues
+###   6.1.4 Plan For Mistakes And Technical Issues
 
 Things don’t always go according to plan, but you can prepare your workflow to cope with this. Give yourself more time than you need to conduct digitization. Plan extra and backup digitization sessions. If you are new to a 3D digitization process, budget time to make tests and get familiar with your tools. Unless your work is highly specialized, you will no doubt find an answer online to any unexpected roadblocks you experience.
 
 
-### 6.1.5. Archive Input Data And Project Files As Well As Output 3D Data
+### 6.1.5 Archive Input Data And Project Files As Well As Output 3D Data
 
 In an ideal world, all the data that is captured and produced during digitization would be available and archived in a way that accords with best practices. While this can quickly run to terabytes of data, making input data and project files available means other people can verify and build on your work. It will also allow you to go back to make additional uses of your scanning efforts as new technology develops. Long-term data storage and security should be considered during your project planning.
 
@@ -83,9 +83,9 @@ Cultural sector collections management, digital asset management, and digital pr
 
 
 
-##  6.2. Data Structures
+##  6.2 Data Structures
 
-###        6.2.1. Metadata and Paradata
+###        6.2.1 Metadata and Paradata
 
 Metadata related to 3D models of cultural resources includes information about the 3D file(s) and information regarding the cultural resource itself. The paradata explains how a 3D model was generated and details decisions that were made during this process. Meta- and paradata make a given 3D model more valuable and re-usable: If audiences better know what they are viewing or downloading, they are better able to understand it and incorporate it into their own plans.
 
@@ -113,7 +113,7 @@ What constitutes a complete metadata set and best practice for associating it wi
 
 Among the mature 3D digitization initiatives for cultural heritage, the [Smithsonian 3D Metadata Model](https://dpo.si.edu/blog/smithsonian-3d-metadata-model) offers one of the most complete attempts at defining a metadata scheme for cultural heritage 3D, based on extensive experience digitizing resources from multiple collections.
 
-###     6.2.2. Data Files
+###     6.2.2 Data Files
 
 The input and project files that you offer under Open Access will vary depending on your capture, processing, and post-production methods. The output and derivative 3D files will also vary depending on your project goals.
 
@@ -156,7 +156,7 @@ Two newer open 3D interchange formats that support embedded animations, color ma
 
 Duplicating or exporting a 3D model in multiple formats will of course take more time and significantly increase data storage requirements. This effect is compounded if 3D models at multiple resolutions for each file format are required. One approach to mitigate such issues might be to produce and maintain high-resolution “master” projects and 3D models files, only creating derivatives as and when they are required, it being even better if this process can be automated.
 
-###     6.2.3. Data Packages
+###     6.2.3 Data Packages
 
 By deliberately choosing a combination of 3D file formats, data resolutions, and linked meta- and paradata, it is possible to build “data packages” aimed at specific audiences. As part of digitization project planning, it is likely a good exercise to define target data packages and budgeting post-production resources to their preparation. If you are not sure of the best data package for your audience, it will behoove you to reach out to that audience before beginning digitization.
 
@@ -178,6 +178,107 @@ Three example data packages follow:
 
 *   Highly optimized derivative 3D data—e.g., GLTF, USDZ, low-resolution texture maps (1024x1024 pixels)
 *   Basic metadata
+
+## 6.3 Data Storage
+
+### 6.3.1 Data Size
+
+3D digitization can quickly create large numbers of files with an equally large storage requirement. A simple project can quickly exceed several gigabytes (GB), and a complex one can grow to terabytes (TB). Multiple smaller projects will also soon grow to require considerable total amounts of data storage.
+
+Data planning at the beginning of a project is essential to help protect the time spent digitizing in 3D, especially if repeat access to the physical cultural object is not possible. Caring for archived data after a project has finished is also essential.
+
+It can be difficult to accurately predict the amount of storage that you may require. A large photogrammetry project can quickly double or triple in size just through necessary steps such as saving multiple versions of a project through the stages of creating the 3D model, cleaning it, and creating various derivative files such as a high resolution uncleaned model, a high resolution cleaned version, and lower resolution files for distribution.
+
+### 6.3.2 External Drives for Capture and Work-in-Progress
+
+It is often a good idea to purchase or repurpose a new external hard drive for a photogrammetry project. Connected to a PC or Mac via USB3 these provide fast access to data and it is easy to keep an eye on how much storage a project is using.
+
+A 4 terabyte hard drive can be a good starting place with plenty of room for raw photographs and their derivatives, photogrammetry project files, and exported files. Aim for a USB-powered drive to avoid the need for an external power supply (which could develop a fault and be difficult to replace and therefore create difficulty in accessing the data in the future).   You should budget for two identical drives - one for the ‘live’ project and one for a running backup to protect your data if the primary drive fails.
+
+Always label a drive on the enclosure to allow easy identification. Labels can become detached through time, so make sure your labels are firmly attached to the drives (or write directly on the drives themselves).
+
+Once a project is complete you should ensure that the two drives, where possible (e.g. if full, and if budget allows) are stored safely.
+
+One drive may need to be on-hand for ongoing data access. The other drive should be stored carefully in a dry, low-magnetic environment. If you are in a museum, this could be in your institution’s archives where paper records are stored. You may wish to talk to relevant members of your team to ensure that the location is documented in an appropriate way.
+
+### 6.3.3 Directory Structure
+
+A clear, easily understood directory structure is essential to making use of your data. A complex 3D project can quickly create many files and become difficult to navigate. Always think about future access to the project and files by someone other than yourself. Will they be able to work out what files they need?
+
+An example structure for a photogrammetry project could be (directory names)
+
+- Project name
+    - Photographs
+        - RAW
+        - JPEG
+    - 3D
+        - Photogrammetry
+        - Exports
+            - High res uncleaned
+            - High res cleaned
+            - Low res cleaned
+            - Working
+    - Archive
+
+### 6.3.4 Files, Meta, and Paradata
+
+As computers become faster and photogrammetry methods improve, you may be able to re-process your raw data to produce better results in the future. IIt is good practice to ensure that you use ASCII formats where possible.  Even though these formats are not as easy to use for day-to-day processing, archiving your data in them will increase the likelihood that your files will be accessible when you need them. ASCII formats store 3D information and colors in plain text in the form of 3D coordinates (x,y,z,r,g,b).  A mesh or point cloud can be saved in the ASCII PLY format from most 3D software. Store this in your “Archive” directory.
+
+Use plain text (TXT) files to hold metadata describing the project directory structure and explain the contents, formats used, and paradata such as camera type, lens, and any notes about the conditions when the scan took place. Any other decisions about colour correction, sharpening, and other processing should be made here.
+
+There is no standard way of doing this, so be mindful that this should be easily understood in the future. Read the [GLAM 3D guidance for metadata and paradata](/digitize.html#621-metadata-and-paradata).
+
+### 6.3.5 Backup and Cloud Storage
+
+While USB external drives backups can be helpful, they can and do fail. If you do not have a backup, then you will have lost everything. This could be especially devastating if you cannot re-scan the subject because it has been destroyed, degraded, or lengthy travel was originally involved in accessing it.
+
+**Good: a second USB drive**
+
+A second USB drive is the easiest backup solution. Plenty of software is available that allows for drives to be backed up automatically or manually in a number of ways.
+
+This could be as simple as scheduling a time to regularly copy the contents of the drive to spare drive. It could be installing an app that does this for you. If backing up is a manual process, try to set reminders and keep a log of what was backed up and when.
+
+**Better: use the cloud**
+
+Cloud storage allows the creation of an off-site backup without requiring any other infrastructure. There are plenty of apps that allow external drives to be backed up to the cloud using, for example, [Amazon Glacier](https://aws.amazon.com/glacier/), [Dropbox](https://www.dropbox.com/), [Backblaze](https://www.backblaze.com/). Sometimes these apps are included with a USB drive.
+
+Cloud storage must be paid for (and continue to be paid for) so consider these costs when planning. A fast internet connection, particularly the upstream speed, will also be needed to complete an initial backup of large 3D datasets in a timely manner. How fast will depend on how long you can wait for a cloud transfer to take, but generally a minimum of 10Mbps upload speed will be needed.
+
+*If you stop paying for cloud storage - sometimes even accidentally - your backup will disappear. Consider using cloud storage in combination with two drives.*
+
+**Best: backup your drive to a server which has drive redundancy & cloud backup**
+
+Depending upon your resources you may be able to work with your organisation’s IT team to help you backup your project drive to a local server that you maintain, which can in turn be backed up in another way (e.g. [magnetic tape](https://en.wikipedia.org/wiki/Tape_drive), or to the cloud).
+
+Network Attached Storage (NAS) drives can be used as a local backup server. These small units are connected to networks where they appear as another drive, and often provide software for automatic backup processes. These devices can also be easier to administer than full servers.  Some NAS drives, such as those by Synology, have dedicated backup protocols built into the device, so that versions of files can be preserved if you need to roll-back an unwanted change or accidental deletion.
+
+NAS drives are often set up with redundant drives using a technology called [RAID](https://en.wikipedia.org/wiki/RAID). For example, a NAS drive with two HDD bays could be installed with two 4TB drives. It could be configured to provide 4TB storage, with 4TB of redundancy. All data saved to the 4TB drive would be instantly copied. If one of the drives were to fail, the data is safe on the other drive. While this protection against hard drive failure can be important, remember that RAID is in itself not a backup solution. Delete a file from one drive and it will be deleted on the other.
+
+If one drive fails then the faulty drive may be removed and a fresh one installed. The data would be automatically re-duplicated providing once again, two ‘live’ copies. Complex RAID configurations can be designed with multiple drive redundancy.
+
+NAS drives often contain cloud backup software so that off-site backups happen automatically.
+
+### 6.3.6 Confirm Backup Routines and Data Integrity
+
+As with all automatic methods, schedule time to check that these backups are actually occurring. This could be by manually checking your second drive or by examining the logs on your server/NAS drive.
+
+Always check the integrity of a backup by opening backed up files from time to time.
+
+### 6.3.7 Dissemination as a Form of Preservation
+
+In general, the more copies of a dataset, or parts of a dataset, that exist, the better. This means that one single location is not being relied upon for 3D assets to continue to be available.
+
+Consider making data available on multiple platforms. In addition to internal storage, make a copy available on your institution’s website.  Upload copies to other platforms as well.  The [Internet Archive](https://archive.org/) can store 3D files.  [Sketchfab](https://sketchfab.com/) will display them.  Data, metadata, and paradata about files can be stored on [GitHub](https://github.com).  Reduced - still high - quality models can be submitted to [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page).  None of these platforms is necessarily the best platform to store your data.  The key is to distribute it widely, thus decreasing the likelihood that a single failure will erase the data entirely.  
+
+### 6.3.8 Digital Archives
+
+Your country may have a dedicated digital archive service. For example, in the UK, the [Archaeology Data Service](https://archaeologydataservice.ac.uk) (ADS) can be contacted to discuss permanent backups of data related to archaeological projects in the country. Data lodged with the ADS is constantly monitored, moved to fresh disks, checked for integrity and so on, as part of an active data archive strategy. Data can also be made accessible through their web portal to enable Open Access.
+
+3D data can be costly to archive, so if archiving in this way is important to your project, have a conversation with a digital archivist right at the beginning of a project where possible.
+
+
+
+
 
 <br>
 <br>
