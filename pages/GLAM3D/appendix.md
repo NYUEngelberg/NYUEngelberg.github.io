@@ -14,14 +14,14 @@ The following organizations are leading examples of 3D models and Open Access of
 
 
 
-##    i.i. The Cleveland Museum of Art (CMA)
+##    i.i The Cleveland Museum of Art (CMA)
 
 
 The Cleveland Museum of Art went Open Access in January 2020[^61] with the Open Access release of data and 2D images. CMA hosts an [online dashboard](https://www.clevelandart.org/art/collection/dashboard) that publicly reports engagement metrics on its open access program. Its policy also enables others to create their own 3D scans of public domain collections at the institution within certain conditions.[^62] CMA subsequently scanned and made available 3D images in partnership with Sketchfab on its platform and via the museum’s website using the Creative Commons Zero Public Domain Dedication for cultural resource items in the public domain.[^63] CMA was one of the first museums to make 3D models available on a museum website and use the Creative Commons Zero Public Domain Dedication. CMA plans to continue its 3D digitization efforts in years to come to present more interactive experiences for users and to innovate the production of cultural resources.
 
 
 
-##    i.ii. The National Gallery of Denmark (Statens Museum for Kunst; SMK)
+##    i.ii The National Gallery of Denmark (Statens Museum for Kunst; SMK)
 The National Gallery of Denmark (SMK) has been a pivotal leader in the international Open Access movement since 2016. Lead by Senior Advisor and Curator of Digital Museum Practice Merete Sanderhoff, with Head of Digital Jonas Heide Smith, the [SMK Open](https://www.smk.dk/en/article/smk-open/) program has produced important philosophical position statements through its blog, co-sponsored the “Sharing Is Caring” conference series[^64] that introduced innovative prototypes and new products, and continued to progress consistently with its ongoing rigorous commitment to Open Access. SMK has made significant contributions to the 3D imaging space as well, with its digital cast collection[^65] and partnerships with initiatives like Scan the World[^66] and MyMiniFactory.[^67] SMK partners with Sketchfab[^68] also to provide access to 3D images. 3D models of sculpture were also made available to explore on mobile devices in augmented reality.[^69]
 
 The ethos of SMK’s efforts with Open Access and its 3D images are defined by “radical openness” and it views cultural resource items as building blocks for making new culture:
@@ -43,7 +43,7 @@ SMK’s [project blog post](https://medium.com/smk-open/ghost-in-the-scan-3d-sca
 >He [Julius Lange, First Director of The Danish Royal Cast Collection] didn't contest that the originals also had their merits which he called sentimental value, the same as the relic had ahead of the cast, but that did not bear on the artistic value. Marble and bronze were beautiful materials, yet the plaster in full reproduced the plastic shape: “from where the work of art gets its spiritual meaning.”[^71]
 
 
-##    i.iii. The Smithsonian Institution
+##    i.iii The Smithsonian Institution
 
 The 3D Program team, within the Smithsonian Digitization Program Office, has built a corpus of 3D models of cultural resource items across the breadth and depth of the Smithsonian with examples from art, natural history, science and technology, and more.[^72] It has been working on developing a 3D model program since 2010,[^73] and in 2013 it hosted the notable _Smithsonian X 3D_ Conference.[^74] The Smithsonian 3D initiative has contributed to technological development with its open-source 3D viewer and authoring tool suite, Voyager.[^75] An especially important resource is Smithsonian 3D Metadata Model,[^76] which furthers the identification of essential data elements in an effort to support greater standardization and interoperability in the field. Regular publishing about the 3D initiative in _Smithsonian_ magazine, Digitization Program Office blog, and other media outlets have provided important updates to educators, enthusiasts, and peer practitioners at other cultural institutions.
 
@@ -55,7 +55,7 @@ On February 25, 2020, the Smithsonian took an important step to include 3D model
 
 ## ii. Anatomy of a 3D Model
 
-###    ii.i. Shape
+###    ii.i Shape
 
 A 3D model primarily differs from a 2D image by the addition of an extra dimension. Pixels in a digital 2D image exist on an X and Y axis (left and right, up and down), pixels in a 3D model can exist on these planes but also the Z axis, (forward and backward/closer and farther away from the viewer).
 
@@ -133,13 +133,13 @@ Deciding the output resolution for your 3D model should take into account the in
 
 
 
-####    ii.ii. Color
+####    ii.ii Color
 
 In addition to describing a shape or form in 3D, a mesh can have (among other things) color information attached to or embedded within it. There are a number of techniques that can be used to add color to a 3D model. They vary based on the original source of the color information, how the color information is attached to specific points on the shape, and how the integrity of the color changes as the model is scaled.
 
 
 
-#####        ii.ii.i. Vertex Color
+#####        ii.ii.i Vertex Color
 
 One way to color a 3D mesh is to assign a color value to each individual vertex. The color of any connected edge or face is then calculated on a gradient between the joined vertices. This is known as **vertex coloring**, and a mesh colored in this way is said to be **vertex colored**. The surface color of a vertex colored mesh is therefore directly linked to the fidelity of the mesh—if you reduce the resolution of the mesh, you reduce the resolution of the surface color information.
 
@@ -159,7 +159,7 @@ One way to color a 3D mesh is to assign a color value to each individual vertex.
 
 
 
-#####        ii.ii.ii. UV Texture Maps
+#####        ii.ii.ii UV Texture Maps
 
 In addition to coloring a 3D face using a blended gradient, it is possible to assign part of a 2D image file to fill the polygon or triangle surface. The method of assigning parts of an image to a 3D mesh surface is called **UV mapping**. This allows you to create the shape of the object in 3D and then apply a 2D image of the object to give it color and visual texture.
 
@@ -187,7 +187,7 @@ Vertex coloring and UV mapping are not mutually exclusive, and the same 3D mesh 
 
 
 
-#####        ii.ii.iii. Normal and Roughness Map—Specialized UV maps
+#####        ii.ii.iii Normal and Roughness Map—Specialized UV maps
 
 In addition to coloring the faces of a 3D mesh, there are several other texture maps[^87] that can have a dramatic effect on the presentation of a 3D model. Two baseline recommended map types are described below, but there are many more that can be created and applied to a 3D model to help more accurately render a given cultural resource.
 
@@ -195,7 +195,7 @@ In addition to coloring the faces of a 3D mesh, there are several other texture 
 
 
 
-######            ii.ii.iii.i. Normal Maps
+######            ii.ii.iii.i Normal Maps
 
 Each face of a 3D model has a surface direction, known as a _normal_. This direction dictates how simulated light bounces off the surface. If we have simplified or decimated a 3D model significantly during optimization, we can run into the problem that a single face replaces much more complex geometry.
 
@@ -247,7 +247,7 @@ While there are as many types of 3D files as there are applications for 3D, we w
 
 
 
-###    [iii.i. Mesh + UV Texture Maps](#mesh_uv_texture_maps)
+###    [iii.i Mesh + UV Texture Maps](#mesh_uv_texture_maps)
 
 Several 3D file formats support a 3D mesh in conjunction with a linked or embedded image map. Image files either need to be stored alongside the 3D mesh or are embedded in the 3D file itself.
 
@@ -265,7 +265,7 @@ Several 3D file formats support a 3D mesh in conjunction with a linked or embedd
 
 
 
-###    [iii.ii. Untextured Mesh](#untextured_mesh)
+###    [iii.ii Untextured Mesh](#untextured_mesh)
 
 A 3D mesh without any color data applied is said to be **untextured**. Untextured meshes are useful in situations in which the color information related to a cultural resource is not of use—for example, in certain methods of 3D printing or when the 3D form itself is what is important. Some 3D capture techniques like **X-ray computed tomography (CT scanning)** or some **structured light** scanning will not capture color data at the time of digitization.
 
@@ -282,7 +282,7 @@ A 3D mesh without any color data applied is said to be **untextured**. Untexture
 
 
 
-###    [iii.iii. Vertex Colored Mesh](#vertex_colored_mesh)
+###    [iii.iii Vertex Colored Mesh](#vertex_colored_mesh)
 
 The description of this coloring method is covered above, and it is a common output of some types of 3D scanning processes. Typically, any process that involves the capture or computation of colored vertices as part of 3D data production can lead to a vertex colored mesh output.
 
@@ -300,7 +300,7 @@ The description of this coloring method is covered above, and it is a common out
 
 
 
-###    [iii.iv. Point Cloud](#point_cloud)
+###    [iii.iv Point Cloud](#point_cloud)
 
 A point cloud or pointcloud is exactly what it sounds like: a 3D model made up exclusively of vertices (points). These kinds of files are commonly an output of LiDAR scanners (often referred to as _laser scanners_) or photogrammetry software. The vertices in a point cloud can be uncolored or have a color value assigned to them.
 
@@ -318,7 +318,7 @@ A point cloud or pointcloud is exactly what it sounds like: a 3D model made up e
 
 
 
-###    [iii.v. Volumetric Data](#volumetric_data)
+###    [iii.v Volumetric Data](#volumetric_data)
 
 Volumetric data is less common than surface model data in cultural heritage applications, and it is possible to generate a surface model from a volumetric input using specialized software.
 
@@ -335,9 +335,9 @@ The cross-sectional images can be used to generate **volumetric 3D data** —tha
 
 
 
-###    [iii.vi. Additional features](#additional_features)
+###    [iii.vi Additional features](#additional_features)
 
-####        [iii.vi.i. Animation](#animation)
+####        [iii.vi.i Animation](#animation)
 
 3D models can be animated in several ways. While animating models is beyond the scope of this paper, animation can help better describe how a cultural resource is constructed, functioned, or was used. Animation could also be the only way to record certain cultural performances, such as dance or theatre.
 
@@ -354,7 +354,7 @@ The cross-sectional images can be used to generate **volumetric 3D data** —tha
 
 
 
-####        [iii.vi.ii. 3D Post-Production—Materials and Lighting](#3d_post_production_Materials_and_lighting)
+####        [iii.vi.ii 3D Post-Production—Materials and Lighting](#3d_post_production_Materials_and_lighting)
 
 When we talk about “capturing a cultural resource in 3D,” we are most often referring to documenting the physical shape of the resource and possibly the surface color as well. Many cultural resources, however, are made from materials that possess specific physical properties that also contribute to a viewer’s understanding of the resource.
 
@@ -399,12 +399,12 @@ Just as in a museum environment, lighting can make a huge difference to how a cu
 
 ## [iv. Common 3D Capture and 3D Creation Techniques and Software](#3d_capturee_and_3d_creation_techniques_and_software)
 
-###    [iv.i. Capture](#capture)
+###    [iv.i Capture](#capture)
 **Capture** refers to the process of recording an existing cultural resource via digitization process.
 
 
 
-####        [iv.i.i. Photogrammetry](#photogrammetry)
+####        [iv.i.i Photogrammetry](#photogrammetry)
 
 As photography is a method for converting 3D information into a 2D format, photogrammetry does the opposite, converting 2D information back into digital 3D.
 
@@ -455,7 +455,7 @@ Difficult to capture subjects that are very shiny, transparent, extremely fine (
 
 
 
-####        [iv.i.ii. Structured Light](#structured_light)
+####        [iv.i.ii Structured Light](#structured_light)
 
 Structured light 3D scanners use specially calibrated projectors and cameras simultaneously projecting and recording a known pattern of lines or grids onto the subject being scanned. Dedicated software then defines a 3D surface model, based upon the distortions in the recorded line or grid pattern made by the subject.
 
@@ -495,7 +495,7 @@ Attempting to scan very large objects generally results in the creation of unusa
 
 
 
-####        [iv.i.iii. LiDAR / Laser Scanning](#lidar_laser_scanning)
+####        [iv.i.iii LiDAR / Laser Scanning](#lidar_laser_scanning)
 
 Laser scanning hardware is most often used in building information modeling (BIM) to record spaces and architectural scale features. Essentially, laser scanning works by firing a laser from a central unit and recording the 3D position of any surface it strikes, based upon how long the reflected light takes to return to the base station.
 
@@ -533,7 +533,7 @@ No surface or UV mapped color capture, generally not suitable for smaller object
 
 
 
-####        [iv.i.iv. X-ray Computed Tomography](#x-ray_computed_tomography)
+####        [iv.i.iv X-ray Computed Tomography](#x-ray_computed_tomography)
 
 Commonly used in medical and scientific fields.
 
@@ -571,7 +571,7 @@ No surface color information, scan size limited by x-ray machine volume/portabil
 
 
 
-####        [iv.i.v. Motion Capture](#motion_capture)
+####        [iv.i.v Motion Capture](#motion_capture)
 
 As the name suggests, motion capture is a digitization technique for capturing movement, most often that of human beings (e.g., full body, facial, hand motion). Traditionally this technique has required studio spaces with specialized cameras and tracking targets attached to the human performers. More recent developments in depth-sensing cameras and even smartphones are making motion capture a much more accessible technology.
 
@@ -611,7 +611,7 @@ No 3D model capture.
 
 
 
-###    [iv.ii. 3D Reconstruction and Creation](#3d_reconstruction_and_creation)
+###    [iv.ii 3D Reconstruction and Creation](#3d_reconstruction_and_creation)
 
 In addition to 3D scanning of a cultural resource, another way to generate 3D content is to engage a 3D artist to create it from scratch. This method is especially applicable to any cultural resource that is “unscannable,” no longer exists or was destroyed, or never existed in the first place—e.g., a fictional space or object.
 
@@ -621,7 +621,7 @@ Several sub-disciplines of creative work are applicable to generating 3D models 
 
 
 
-####        [iv.ii.i. Modeling](#modeling)
+####        [iv.ii.i Modeling](#modeling)
 
 3D modeling is the process of creating a three-dimensional representation of a surface or object by manipulating faces/polygons, edges, and vertices in simulated 3D space. Just as Adobe Photoshop and MS Paint are software programs used to create 2D art, 3D modeling software allows users to make art that can be explored in three dimensions.
 
@@ -653,7 +653,7 @@ Typical subjects for a modeling workflow include inorganic structures, architect
 
 
 
-####        [iv.ii.ii. Texture Painting](#texture_painting)
+####        [iv.ii.ii Texture Painting](#texture_painting)
 
 Once a 3D model has been created, an additional (sometimes essential) stage in production is to apply realistic colors and materials to the geometry. All texture maps (i.e., color, normal, roughness) can be digitally painted onto a 3D mesh, whether a 3D scan or something that has been created by a 3D artist.
 
@@ -685,7 +685,7 @@ Texture painting makes use of the UV mapping color method described previously a
 
 
 
-####        [iv.ii.iii. Sculpting](#sculpting)
+####        [iv.ii.iii Sculpting](#sculpting)
 
 As the name suggests, 3D sculpting is the process of manipulating a 3D object as if it was made out of a material similar to clay. You can push, pull, smooth, grab, pinch, and edit a 3D object to be whatever you’d like.
 
@@ -715,7 +715,7 @@ Typical subjects for a sculpting workflow include organic forms, animals, plants
 
 
 
-####        iv.ii.iv. Voxels
+####        iv.ii.iv Voxels
 
 A creation popularized by the videogame _Minecraft_, voxel-based 3D modeling uses visible 3D cubes or blocks (voxels) to build a 3D form. Voxel-based creations can be built “block by block” or existing meshes can be converted to a voxel form using a 3D editor. By no means useful for scientific study or hyper-realistic reconstructions, voxel-based 3D models can still be used to engage with wide-ranging audiences, especially younger crowds.[^93]
 
@@ -752,13 +752,13 @@ As a word of warning, be careful when using this “let’s just go ahead and ca
 You should also be aware that any time spent on a project will inevitably generate some form of technical and skill “debt”—i.e., commitment to processes and workflows based on the fact that they exist and are seen as the easiest option. This could make it difficult to change and adapt digitization workflows as required once proper planning is undertaken.
 
 
-###    [v.i. 3D Capture Workflow](#3d_capture_workflow)
+###    [v.i 3D Capture Workflow](#3d_capture_workflow)
 
 The cheapest and most accessible 3D capture workflow available to you is most likely photogrammetry. The input data are digital images and the required software runs on most computer hardware, with the caveat that on older and less powerful hardware, you will likely have to wait a lot longer for a 3D output to be processed. It is recognized that this suggested technology chain may still be unaffordable to some organizations.
 
 
 
-####        [v.i.i. Camera](#camera)
+####        [v.i.i Camera](#camera)
 
 Your personal digital camera or smartphone camera are likely good enough for a test project.
 
@@ -766,7 +766,7 @@ Tested.com hosts a good “[photography for photogrammetry” guide](https://www
 
 
 
-####        [v.i.ii. Software](#software)
+####        [v.i.ii Software](#software)
 
 Here’s a list of free photogrammetry software, with system requirements and official tutorials for each option. It is highly recommended that you review and consider the potential ongoing costs of using commercial software.
 
@@ -805,13 +805,13 @@ Here’s a list of free photogrammetry software, with system requirements and of
 *   [System Requirements](https://www.autodesk.co.uk/products/recap/free-trial#system-requirements)
 *   [Official Tutorials](https://knowledge.autodesk.com/support/recap/learn?sort=score)
 
-####        [v.i.iii. Computer Hardware](#computer_hardware)
+####        [v.i.iii Computer Hardware](#computer_hardware)
 
 Initially you can simply try running one or all of the suggested software applications on your existing computer hardware. If you find that installing the software does not work or processing takes too long or frequently fails, then it might be time to consider investing in something new, basing your purchase on the system requirements in the software section.
 
 
 
-####       [v.i.iv. Publishing](#publishing)
+####       [v.i.iv Publishing](#publishing)
 
 See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-3d-viewer) section for hosted and self-hosted options.
 

@@ -38,38 +38,38 @@ At that point, the publication begins to focus on the process itself. These sect
 The technology and practices related to Open Access 3D digital content creation and its release under Open Access principles are rapidly evolving. We hope to regularly update this resource in order to give you confidence that the information you are receiving is as relevant and timely as possible.
 
 
-###    1.3. How to Approach Your Open Access Program
+###    1.3 How to Approach Your Open Access Program
 
 Your Open Access program involves a number of steps. Each of the steps summarized below is explored more fully in its corresponding section.[^2]
 
 
 
-####        1.3.1. [Set Goals](/set_goals.html)
+####        1.3.1 [Set Goals](/set_goals.html)
 
 Identify the key objectives, routes to, and measure of success for your 3D digital content creation and publishing project. This includes identifying potential users and those users’ needs. Creating and distributing 3D digital content involves a number of choices and tradeoffs. Having concrete goals will help you evaluate your options and make decisions to match your intended outcomes. When setting goals, be sure to keep in mind the distinction between project outputs (e.g., “X number of 3D models published online”) and outcomes (e.g., “Increased engagement with our organization’s online collection records”).
 
 
 
-####        1.3.2. [Identify](/identify.html)
+####        1.3.2 [Identify](/identify.html)
 
 Select cultural resources for digital content creation that align with your project goals and assess their suitability for digital 3D creation methods based on technical, legal, and ethical grounds.
 
 
 
-####        1.3.3. [Digitize](/digitize.html)
+####        1.3.3 [Digitize](/digitize.html)
 
 Create digital content of the cultural resource in 3D through born digital or digitization methods, record metadata, paradata, structured data, and document the process openly.[^3]
 
 
 
-####        1.3.4. [Disseminate](/disseminate.html)
+####        1.3.4 [Disseminate](/disseminate.html)
 
 Deliver the output 3D files to your identified audience in the best way possible. This includes making the files viewable to users and making various versions of the files available to users, as well as associated para and metadata about the object, the files, and provenance for both.  
 
 
 
 
-####        1.3.5. [Evaluate](/evaluate_and_join.html)
+####        1.3.5 [Evaluate](/evaluate_and_join.html)
 
 Having established goals and implemented the Open Access program, it is time to reflect upon what worked, what did not, and what is left to do. Whenever possible, this evaluation should be shared publicly and with open licenses to the wider Open GLAM sector so that others can learn from your successes.
 

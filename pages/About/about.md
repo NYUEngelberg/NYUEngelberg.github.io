@@ -17,6 +17,7 @@ This site would not have been possible without help, feedback, and support from 
 * [Felicia Caponigri](https://twitter.com/fashionbyf), [Notre Dame Law School](https://law.nd.edu/)
 * [Nik Honeysett](https://twitter.com/nhoneysett) and the [Balboa Park Online Collaborative](https://www.bpoc.org/)
 * [Dan O'Flynn](https://twitter.com/danoflynn), [The British Museum](https://www.britishmuseum.org/)
+* [Tom Goskar](https://twitter.com/tomgoskar), [Curatorial Research Centre](https://www.curatorialresearch.com/) (primary original author of the [data storage](/digitize.html#63-data-storage) section)
 * Engelberg Center Student Fellow [Linnea Pittman](https://www.law.nyu.edu/centers/engelberg/team/pittman)
 * [Daniel Pett](https://twitter.com/DEJPett), [Fitzwilliam Museum](https://www.fitzmuseum.cam.ac.uk/)
 * [Al Rawlinson](https://twitter.com/alrawli), [Historic Environment Scotland](https://www.historicenvironment.scot/)
@@ -28,4 +29,4 @@ This site would not have been possible without help, feedback, and support from 
 
 The site content is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.  The site itself is based on the [Jekyll Technical Documentation Theme](https://idratherbewriting.com/documentation-theme-jekyll/) by [Tom Johnson](https://idratherbewriting.com/aboutme/), modified by [Lauren Slowik](https://www.laurenslowik.com/).  It is licensed under an MIT license (except for the nav bar, which is licensed under a BSD license) and built with the Jekyll framework.  You can explore the site in the repository [here](https://github.com/NYUEngelberg/NYUEngelberg.github.io).
 
-Curious about how we plan to preserve this site for the future? We blogged about preservation plans [here](https://www.law.nyu.edu/centers/engelberg/news/2020-06-24-preserving-glam3d).  We also created a [Conifer Archive](https://conifer.rhizome.org/), which is available both on the [Conifer site](https://conifer.rhizome.org/EngelbergCenter/glam3dorg) and the [Internet Archive](https://archive.org/details/g3d_20201007). 
+Curious about how we plan to preserve this site for the future? We blogged about preservation plans [here](https://www.law.nyu.edu/centers/engelberg/news/2020-06-24-preserving-glam3d).  We also created a [Conifer Archive](https://conifer.rhizome.org/), which is available both on the [Conifer site](https://conifer.rhizome.org/EngelbergCenter/glam3dorg) and the [Internet Archive](https://archive.org/details/g3d_20201007).
