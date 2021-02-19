@@ -49,7 +49,16 @@ The 3D Program team, within the Smithsonian Digitization Program Office, has bui
 
 In partnership with companies such as Autodesk,[^77] Google,[^78] Amazon,[^79] and others, the 3D program serves as an important digital educational resource for learning in and outside the classroom with augmented reality, mobile, and web browser technologies. The Smithsonian links its 3D imaging digitization practice with the history of cultural resource items reproduction.[^80] 3D models have been used at the Smithsonian to help tell stories of new institutions, like the National Museum of African American History and Culture,[^81] and commemorate milestones in human achievement with Neil Armstrong’s spacesuit.[^82]
 
-On February 25, 2020, the Smithsonian took an important step to include 3D models as part of its Open Access program.[^83] As part of the Open Access launch, the Smithsonian made available its 3D data with the glTF™ open standard developed by The Khronos Group[^84] and provided CC0 designated models to Sketchfab.[^85] As the Smithsonian continues to digitize and make available its 3D cultural resource items with more openness, it may better support the potential identified by William Tompkins, National Collections Coordinator at the Smithsonian Institution, who said, “The beauty of this technology is that it does basically put museums together internationally into one global environment.”[^86]
+On February 25, 2020, the Smithsonian took an important step to include 3D models as part of its Open Access program.[^83] As part of the Open Access launch, the Smithsonian made available its 3D data with the glTF open standard developed by The Khronos Group[^84] and provided CC0 designated models to Sketchfab.[^85] As the Smithsonian continues to digitize and make available its 3D cultural resource items with more openness, it may better support the potential identified by William Tompkins, National Collections Coordinator at the Smithsonian Institution, who said, “The beauty of this technology is that it does basically put museums together internationally into one global environment.”[^86]
+
+In its [2020 annual report](https://dpo.si.edu/sites/default/files/resources/OCIO%20DPO%20Annual%20Report%202020-PRINT_version.pdf), the Smithsonian Digitization Program Office provided some key findings on the Smithsonian Open Access program with regard to the impact and role of 3D models:
+
+>Smithsonian Open Access proved to be a big draw for corporations and foundations who recognized the transformative nature of making millions of collections images as well as 3D models available without restrictions and were eager to partner with us in demonstrating various uses of the Open Access data. [^94]
+
+Furthermore, “[i]n just the first month after the launch of the Smithsonian’s Open Access Initiative, Smithsonian 3D content was viewed over 400,000 times, and over 40,000 3D models were downloaded."[^95]
+
+In 2020 the Smithsonian Institution introduced augmented reality Instagram filters built on Facebook’s [Spark AR studio](https://sparkar.facebook.com/ar-studio/) as part of its [Instagram Stories experience](https://dpo.si.edu/blog/do-it-for-the-gram/). Collection objects used in this interface were drawn from the Smithsonian’s available pool of 3D models made available as part of its formal Open Access program.
+
 
 
 
@@ -889,13 +898,19 @@ See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-
      Effie Kapsalis, _21st-Century Diffusion with Smithsonian Open Access_, Smithsonian Open Access  Updates (February 25, 2020), [https://www.si.edu/openaccess/ updates/21st-century-diffusion](https://www.si.edu/openaccess/updates/21st-century-diffusion)
 
 [^84]:
-    _ Khronos and Smithsonian Collaborate to Diffuse Knowledge for Education, Research, and Creative Use_, Khronos Group Press Release (February 25, 2020), [https://www.khronos.org/news/ press/khronos-smithsonian-collaborate- to-diffuse-knowledge-for-education-research- and-creative-use](https://www.khronos.org/news/press/khronos-smithsonian-collaborate-to-diffuse-knowledge-for-education-research-and-creative-use)
+    _Khronos and Smithsonian Collaborate to Diffuse Knowledge for Education, Research, and Creative Use_, Khronos Group Press Release (February 25, 2020), [https://www.khronos.org/news/ press/khronos-smithsonian-collaborate- to-diffuse-knowledge-for-education-research- and-creative-use](https://www.khronos.org/news/press/khronos-smithsonian-collaborate-to-diffuse-knowledge-for-education-research-and-creative-use)
 
 [^85]:
      Thomas Flynn, _Sketchfab Launches Public Domain Dedication for 3D Cultural Heritage_,_ _Sketchfab Community Blog (February 25, 2020), [https://sketchfab.com/blogs/ community/sketchfab-launches-public-domain- dedication-for-3d-cultural-heritage/](https://sketchfab.com/blogs/community/sketchfab-launches-public-domain-dedication-for-3d-cultural-heritage/)
 
 [^86]:
      _Smithsonian X 3D—Digitizing Collections_, Smithsonian Digitization Program Office (November 13, 2013) 1:11-1:20, [https://youtu.be/_TiHTkK5Wrs?t=71](https://youtu.be/_TiHTkK5Wrs?t=71)
+
+[^94]:
+    _2020 Annual Report_, Smithsonian Digitization Program Office at 6, [https://dpo.si.edu/sites/ default/files/resources/ OCIO%20DPO%20Annual%20Report% 202020-PRINT_version.pdf](https://dpo.si.edu/sites/default/files/resources/OCIO%20DPO%20Annual%20Report%202020-PRINT_version.pdf)
+
+[^95]:
+    _2020 Annual Report_, Smithsonian Digitization Program Office at 3, [https://dpo.si.edu/sites/ default/files/resources/ OCIO%20DPO%20Annual%20Report% 202020-PRINT_version.pdf](https://dpo.si.edu/sites/default/files/resources/OCIO%20DPO%20Annual%20Report%202020-PRINT_version.pdf)
 
 [^87]:
      Further map types are described and demonstrated at _Materials (PBR)_, Sketchfab Help Center, [https://help.sketchfab.com/ hc/en-us/articles/ 204429595-Materials-PBR](https://help.sketchfab.com/hc/en-us/articles/204429595-Materials-PBR), last accessed April 16, 2020.
@@ -918,5 +933,5 @@ See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-
 [^93]:
      _See e.g._, Manuel Charr, _How Museums Are Using Minecraft to Gamify Learning Experiences_, MuseumNext (July 17, 2019), [https://www.museumnext.com/article/ minecrafting-the-museum](https://www.museumnext.com/article/minecrafting-the-museum)
 
-
+<!-- Next fn is 96 -->
 <!-- Docs to Markdown version 1.0β22 -->
