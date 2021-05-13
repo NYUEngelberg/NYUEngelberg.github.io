@@ -142,6 +142,13 @@ Publishing images, animations, and video derived from 3D models can be a helpful
 
 ![King Gustav Vasa Helmet as screen capture image](images/gustav_helmet_annotation.png "King Gustav Vasa Helmet as screen capture image")
 
+**Remixes**
+
+3D models produced by institutions can find their way into remixes and new forms of cultural production outside their own media creation. These creations can take any number of forms, including movies.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZEXtHs9UjvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Lucio Arese produced a computer graphic imagery movie [Les Dieux Changeants](https://www.lucioarese.net/portfolio_page/les-dieux-changeants/) using 3D Models, done by [Jonathan Beck](https://medium.com/@jonathanbeck1993) and the [Scan the World initiative](https://www.myminifactory.com/scantheworld/), of plaster casts from The National Gallery of Denmark (Statens Museum for Kunst; SMK) on [MyMiniFactory](https://www.myminifactory.com/users/SMK%20-%20Statens%20Museum%20for%20Kunst). This is an example of a remix of institutionally sourced 3D scans that have been used to make a new and thoughtful work.
 
 
 

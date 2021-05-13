@@ -59,6 +59,13 @@ Furthermore, “[i]n just the first month after the launch of the Smithsonian’
 
 In 2020 the Smithsonian Institution introduced augmented reality Instagram filters built on Facebook’s [Spark AR studio](https://sparkar.facebook.com/ar-studio/) as part of its [Instagram Stories experience](https://dpo.si.edu/blog/do-it-for-the-gram/). Collection objects used in this interface were drawn from the Smithsonian’s available pool of 3D models made available as part of its formal Open Access program.
 
+##    i.iii Małopolska’s Virtual Museums
+
+In 2021, [Małopolska’s Virtual Museums](https://sketchfab.com/blogs/community/1000-new-cultural-heritage-3d-models-dedicated-to-the-public-domain/), a consortium of 48 Polish museums, made available more than 1,000 high-quality three-dimensional models spanning subjects including arms and armor, fine art, engineering, geology, and more. This contribution is one of the largest single contributions to the global commons at one time. Małopolska’s Virtual Museums are breaking new ground and defining new achievements in excellence with the ambition, production rate, and distribution of their global 3D cultural resources. Their contribution shows that a quality 3D model program can be achieved by organizations throughout the world with the serious dedication of personnel, resources, and time. 
+
+Most of the models from Małopolska’s Virtual Museums  are available in the public domain with the Creative Commons Zero Public Domain Dedication (CC0 1.0). Dedicating 3D models to the public domain with the internationally operative legal tool CC0 enables these cultural resources to be used for a broad spectrum of re-use and remixing applications—even for commercial purposes—without any attribution or legal restriction. Public domain content supports contemporary creators and businesses alike to build new content and experiences with undue burden and limitation. A significant portion of the 3D models from Małopolska’s Virtual Museums include realistically texture and material settings, allowing you to place them directly into the user's preferred context and setting such as new 3D models, animations, games, movies, and visualizations.
+
+
 
 
 
@@ -822,7 +829,23 @@ Initially you can simply try running one or all of the suggested software applic
 
 ####       [v.i.iv Publishing](#publishing)
 
-See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-3d-viewer) section for hosted and self-hosted options.
+See the [Choosing an Online 3D Viewer](/disseminate.html#722-choosing-an-online-3d-viewer) section for hosted and self-hosted options
+
+
+## [vi. Made with Open Access](#made_with_open_access)
+
+The following are examples of experiences made with content from 3D Open Access programs. These experiences themselves may not meet Open Access requirements as defined in this publication in [Section 2](/what_is_open_access.html). Still, a vibrant ecosystem of non-open content made with Open Access is one result of a successful Open Access program.
+
+New content made with Open Access programs that itself is not Open Access, while more limited in its capacity for unrestricted reach, reuse, and scale by the broadest possible user base, can directly benefit users, institutions, and their partners, especially for educational or sponsorship purposes. A ‘made with Open Access’ content development approach might especially be relevant in the context of a cultural institution working with a company to produce a product or service as part of a mutually beneficial commercial arrangement.  The creation of new closed access content by using Open Access content, in-line with the source materials specified terms, is a legitimate and viable use of Open Access policies and content.
+
+3D models produced by institutions or third-parties can find their way into remixes and new forms of cultural production. These creations can take any number of forms. The category and concept of “Made with Open Access” acknowledges and documents the hybrid and mixed states of 3D experiences based on Open Access sources due to diverse content development needs, licensing terms, and copyright statuses. An Open Access policy that supports the growth, inclusion, and development of CC0 and CC-BY 3D models, when institutional priorities and resources are able to be dedicated to such purposes, is an important signal to other institutions who have not yet begun their Open Access journey to keep moving forward in their efforts.
+
+###    [vi.i Les Dieux Changeants](#les_dieux_changeants)
+
+Lucio Arese produced a computer graphic imagery movie [Les Dieux Changeants](https://www.lucioarese.net/portfolio_page/les-dieux-changeants/) using 3D Models, done by [Jonathan Beck](https://medium.com/@jonathanbeck1993) and the [Scan the World](https://www.myminifactory.com/scantheworld/) initiative, of plaster casts from The National Gallery of Denmark (Statens Museum for Kunst; SMK) on [MyMiniFactory](https://www.myminifactory.com/users/SMK%20-%20Statens%20Museum%20for%20Kunst). This is an example of a remix of institutionally sourced 3D scans that have been used to make a new and thoughtful work.
+
+
+
 
 ***
 
