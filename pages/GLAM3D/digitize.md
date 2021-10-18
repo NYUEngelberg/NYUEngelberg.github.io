@@ -46,7 +46,7 @@ Below are a few online communities you may wish to consider joining, as well as 
 
 [Cultural Heritage Spotlights on the Sketchfab Blog](https://sketchfab.com/blogs/community/category/community-story/cultural-heritage)
 
-[European Commission Expert Group Report: Basic Principles and Tips for 3D Digitisation of Cultural Heritage](https://ec.europa.eu/digital-single-market/en/news/basic-principles-and-tips-3d-digitisation-cultural-heritage)
+[European Commission Expert Group Report: Basic Principles and Tips for 3D Digitisation of Cultural Heritage](https://digital-strategy.ec.europa.eu/en/library/basic-principles-and-tips-3d-digitisation-cultural-heritage)
 
 [Europeana 3D Task Force Report](https://pro.europeana.eu/files/Europeana_Professional/Europeana_Network/Europeana_Network_Task_Forces/Final_reports/3D-TF-final%20report.pdf)
 
