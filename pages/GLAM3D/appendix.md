@@ -14,14 +14,14 @@ The following organizations are leading examples of 3D models and Open Access of
 
 
 
-##    i.i The Cleveland Museum of Art (CMA)
+###    i.i The Cleveland Museum of Art (CMA)
 
 
-The Cleveland Museum of Art went Open Access in January 2020[^61] with the Open Access release of data and 2D images. CMA hosts an [online dashboard](https://www.clevelandart.org/art/collection/dashboard) that publicly reports engagement metrics on its open access program. Its policy also enables others to create their own 3D scans of public domain collections at the institution within certain conditions.[^62] CMA subsequently scanned and made available 3D images in partnership with Sketchfab on its platform and via the museum’s website using the Creative Commons Zero Public Domain Dedication for cultural resource items in the public domain.[^63] CMA was one of the first museums to make 3D models available on a museum website and use the Creative Commons Zero Public Domain Dedication. CMA plans to continue its 3D digitization efforts in years to come to present more interactive experiences for users and to innovate the production of cultural resources.
+The Cleveland Museum of Art went Open Access in January 2020[^61] with the Open Access release of data and 2D images. CMA hosts an [online dashboard](https://www.clevelandart.org/art/collection/dashboard) that publicly reports engagement metrics on its open access program. Its policy also enables others to create their own 3D scans of public domain collections at the institution within certain conditions.[^62] CMA subsequently scanned and made available 3D images in partnership with Sketchfab on its platform and via the museum’s website using the Creative Commons Zero Public Domain Dedication for cultural resource items in the public domain.[^63] CMA was one of the first museums to make 3D models available on a museum website and use the Creative Commons Zero Public Domain Dedication. CMA [continues to add](https://medium.com/cma-thinker/art-from-all-angles-f5287c86461f) openly licensed 3D models to its [online collection](https://www.clevelandart.org/art/collection/search?only-in-3d=1).
 
 
 
-##    i.ii The National Gallery of Denmark (Statens Museum for Kunst; SMK)
+###    i.ii The National Gallery of Denmark (Statens Museum for Kunst; SMK)
 The National Gallery of Denmark (SMK) has been a pivotal leader in the international Open Access movement since 2016. Lead by Senior Advisor and Curator of Digital Museum Practice Merete Sanderhoff, with Head of Digital Jonas Heide Smith, the [SMK Open](https://www.smk.dk/en/article/smk-open/) program has produced important philosophical position statements through its blog, co-sponsored the “Sharing Is Caring” conference series[^64] that introduced innovative prototypes and new products, and continued to progress consistently with its ongoing rigorous commitment to Open Access. SMK has made significant contributions to the 3D imaging space as well, with its digital cast collection[^65] and partnerships with initiatives like Scan the World[^66] and MyMiniFactory.[^67] SMK partners with Sketchfab[^68] also to provide access to 3D images. 3D models of sculpture were also made available to explore on mobile devices in augmented reality.[^69]
 
 The ethos of SMK’s efforts with Open Access and its 3D images are defined by “radical openness” and it views cultural resource items as building blocks for making new culture:
@@ -43,7 +43,7 @@ SMK’s [project blog post](https://medium.com/smk-open/ghost-in-the-scan-3d-sca
 >He [Julius Lange, First Director of The Danish Royal Cast Collection] didn't contest that the originals also had their merits which he called sentimental value, the same as the relic had ahead of the cast, but that did not bear on the artistic value. Marble and bronze were beautiful materials, yet the plaster in full reproduced the plastic shape: “from where the work of art gets its spiritual meaning.”[^71]
 
 
-##    i.iii The Smithsonian Institution
+###    i.iii The Smithsonian Institution
 
 The 3D Program team, within the Smithsonian Digitization Program Office, has built a corpus of 3D models of cultural resource items across the breadth and depth of the Smithsonian with examples from art, natural history, science and technology, and more.[^72] It has been working on developing a 3D model program since 2010,[^73] and in 2013 it hosted the notable _Smithsonian X 3D_ Conference.[^74] The Smithsonian 3D initiative has contributed to technological development with its open-source 3D viewer and authoring tool suite, Voyager.[^75] An especially important resource is Smithsonian 3D Metadata Model,[^76] which furthers the identification of essential data elements in an effort to support greater standardization and interoperability in the field. Regular publishing about the 3D initiative in _Smithsonian_ magazine, Digitization Program Office blog, and other media outlets have provided important updates to educators, enthusiasts, and peer practitioners at other cultural institutions.
 
@@ -63,7 +63,7 @@ In 2021 the Smithsonian Institution's Cooper Hewitt Museum's Interaction Lab pre
 
 Also in 2021, the Smithsonian partnered with [The Hydrous](https://thehydro.us/) and [Adobe](https://www.adobe.com/) to [create Augmented Reality experiences that explore the ocean's coral reefs](https://dpo.si.edu/blog/take-virtual-dive-through-bustling-coral-reef).  The immersive experience used the Smithsonian's Open Access [coral scans](https://3d.si.edu/corals) to allow users to immerse themselves in a bustling coral reef and learn about the threats to coral ecosystems.
 
-##    i.iii Małopolska’s Virtual Museums
+###    i.iii Małopolska’s Virtual Museums
 
 In 2021, [Małopolska’s Virtual Museums](https://sketchfab.com/blogs/community/1000-new-cultural-heritage-3d-models-dedicated-to-the-public-domain/), a consortium of 48 Polish museums, made available more than 1,000 high-quality three-dimensional models spanning subjects including arms and armor, fine art, engineering, geology, and more. This contribution is one of the largest single contributions to the global commons at one time. Małopolska’s Virtual Museums are breaking new ground and defining new achievements in excellence with the ambition, production rate, and distribution of their global 3D cultural resources. Their contribution shows that a quality 3D model program can be achieved by organizations throughout the world with the serious dedication of personnel, resources, and time.
 
