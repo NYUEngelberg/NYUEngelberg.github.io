@@ -848,7 +848,9 @@ New content made with Open Access programs that itself is not Open Access, while
 
 Lucio Arese produced a computer graphic imagery movie [Les Dieux Changeants](https://www.lucioarese.net/portfolio_page/les-dieux-changeants/) using 3D Models, done by [Jonathan Beck](https://medium.com/@jonathanbeck1993) and the [Scan the World](https://www.myminifactory.com/scantheworld/) initiative, of plaster casts from The National Gallery of Denmark (Statens Museum for Kunst; SMK) on [MyMiniFactory](https://www.myminifactory.com/users/SMK%20-%20Statens%20Museum%20for%20Kunst). This is an example of a remix of institutionally sourced 3D scans that have been used to make a new and thoughtful work.
 
+###   [vi.ii Sketchfab and Spatial](#sketchfab_spatial)
 
+In 2022, Sketchfab and the immersive social platform Spatial [announced](https://sketchfab.com/blogs/community/spatial-adds-sketchfab-integration/) direct import of models from Sketchfab to Spatial.  This allows Spatial users to create virtual spaces populated by open access 3D models from collections hosted on Sketchfab.
 
 
 ***
