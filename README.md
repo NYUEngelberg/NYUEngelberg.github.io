@@ -1,6 +1,8 @@
 ![Glam3d Hero Image](https://github.com/NYUEngelberg/NYUEngelberg.github.io/blob/master/images/glam3D_header_image_v1_2.jpg "Glam3D hero image")
 
 # NYUEngelberg.github.io
+As of April 12, 2023, this repo is now an archive repo.  The current repo for glam3d.org is [https://github.com/NYUEngelberg/glam3d](https://github.com/NYUEngelberg/glam3d).  The change is the result of a migration from github pages to cloudflare pages for hosting.
+
 This repo contains the website files for [Glam3D.org](https://glam3d.org/).  
 
 Glam3D.org brings together best practices for conceiving, designing, and executing 3D Open Access programs at GLAM institutions. It is an evolving resource and we encourage you to email us at engelberg.center@nyu.edu if you have suggestions for improvements, additions, or corrections.  We also welcome suggestions in the form of pull requests or issues in this repo.
